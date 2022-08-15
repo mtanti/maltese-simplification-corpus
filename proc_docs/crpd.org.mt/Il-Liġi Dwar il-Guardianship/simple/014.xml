@@ -1,0 +1,38 @@
+<annotation>
+	<folder>simple</folder>
+	<filename>014.jpg</filename>
+	<path>C:\Users\mtant\Desktop\maltese_simplification_corpus\proc_docs\crpd.org.mt\Il-Liġi Dwar il-Guardianship\simple\014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1654</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>whiteout</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1278</xmin>
+			<ymin>547</ymin>
+			<xmax>1654</xmax>
+			<ymax>977</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>140</ymin>
+			<xmax>1326</xmax>
+			<ymax>2102</ymax>
+		</bndbox>
+	</object>
+</annotation>

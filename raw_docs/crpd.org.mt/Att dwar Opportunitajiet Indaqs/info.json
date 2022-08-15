@@ -1,0 +1,19 @@
+{
+    "page_url": "https://www.crpd.org.mt/mt/rizorsi/legislazzjoni/",
+    "documents": [
+        {
+            "type": "complex",
+            "fname": "document.pdf",
+            "url": "https://legislation.mt/eli/cap/413/mlt/pdf",
+            "with_diacritics": true,
+            "retrieved": "2022-08-03T23:20:04.497944"
+        },
+        {
+            "type": "simple",
+            "fname": "003-ETR-Ligi-Opportunitajiet-Indaqs.pdf",
+            "url": "https://www.crpd.org.mt/wp-content/uploads/2021/02/003-ETR-Ligi-Opportunitajiet-Indaqs.pdf",
+            "with_diacritics": true,
+            "retrieved": "2022-08-03T23:20:44.304652"
+        }
+    ]
+}

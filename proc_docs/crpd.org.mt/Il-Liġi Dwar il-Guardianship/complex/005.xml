@@ -1,0 +1,38 @@
+<annotation>
+	<folder>complex</folder>
+	<filename>005.jpg</filename>
+	<path>C:\Users\mtant\Desktop\maltese_simplification_corpus\proc_docs\crpd.org.mt\Il-Liġi Dwar il-Guardianship\complex\005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1654</width>
+		<height>2339</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>whiteout</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>482</ymin>
+			<xmax>461</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>250</ymin>
+			<xmax>1213</xmax>
+			<ymax>1985</ymax>
+		</bndbox>
+	</object>
+</annotation>

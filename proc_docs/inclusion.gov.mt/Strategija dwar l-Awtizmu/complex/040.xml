@@ -1,0 +1,26 @@
+<annotation>
+	<folder>complex</folder>
+	<filename>040.jpg</filename>
+	<path>C:\Users\mtant\Desktop\maltese_simplification_corpus\proc_docs\inclusion.gov.mt\Strategija dwar l-Awtizmu\complex\040.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1654</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>915</ymin>
+			<xmax>1183</xmax>
+			<ymax>1507</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,19 @@
+{
+    "page_url": "https://www.crpd.org.mt/mt/rizorsi/legislazzjoni/",
+    "documents": [
+        {
+            "type": "complex",
+            "fname": "document.pdf",
+            "url": "https://legislation.mt/eli/cap/614/20200605/mlt",
+            "with_diacritics": true,
+            "retrieved": "2022-08-03T23:24:06.743269"
+        },
+        {
+            "type": "simple",
+            "fname": "15092020-etr-cohabitation-act-2020-pr-es.docx",
+            "url": "https://www.crpd.org.mt/wp-content/uploads/2020/11/15092020-etr-cohabitation-act-2020-pr-es.docx",
+            "with_diacritics": true,
+            "retrieved": "2022-08-03T23:25:12.435127"
+        }
+    ]
+}

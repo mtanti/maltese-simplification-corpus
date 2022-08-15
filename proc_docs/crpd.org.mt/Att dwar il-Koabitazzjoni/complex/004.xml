@@ -1,0 +1,26 @@
+<annotation>
+	<folder>complex</folder>
+	<filename>004.jpg</filename>
+	<path>C:\Users\mtant\Desktop\maltese_simplification_corpus\proc_docs\crpd.org.mt\Att dwar il-Koabitazzjoni\complex\004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1654</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>471</xmin>
+			<ymin>330</ymin>
+			<xmax>1328</xmax>
+			<ymax>2035</ymax>
+		</bndbox>
+	</object>
+</annotation>

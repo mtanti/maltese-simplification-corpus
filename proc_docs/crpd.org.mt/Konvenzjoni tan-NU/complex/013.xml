@@ -1,0 +1,26 @@
+<annotation>
+	<folder>complex</folder>
+	<filename>013.jpg</filename>
+	<path>C:\Users\mtant\Desktop\maltese_simplification_corpus\proc_docs\crpd.org.mt\Konvenzjoni tan-NU\complex\013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>173</ymin>
+			<xmax>1467</xmax>
+			<ymax>1935</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,19 @@
+{
+    "page_url": "https://inclusion.gov.mt/pubblikazzjonijiet/",
+    "documents": [
+        {
+            "type": "complex",
+            "fname": "Disability-Doc-MLT-SEP-21.pdf",
+            "url": "https://inclusion.gov.mt/wp-content/uploads/2021/10/Disability-Doc-MLT-SEP-21.pdf",
+            "with_diacritics": true,
+            "retrieved": "2022-08-04T09:14:20.074131"
+        },
+        {
+            "type": "simple",
+            "fname": "NDS_Easy-Read_MT_Dec_21.pdf",
+            "url": "https://inclusion.gov.mt/wp-content/uploads/2022/01/NDS_Easy-Read_MT_Dec_21.pdf",
+            "with_diacritics": true,
+            "retrieved": "2022-08-04T09:14:47.291948"
+        }
+    ]
+}

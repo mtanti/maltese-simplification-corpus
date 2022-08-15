@@ -1,0 +1,19 @@
+{
+    "page_url": "https://www.crpd.org.mt/mt/uncrpd-det/uncrpd/",
+    "documents": [
+        {
+            "type": "complex",
+            "fname": "002-070130_UNConv_m.pdf",
+            "url": "https://www.crpd.org.mt/wp-content/uploads/2020/11/002-070130_UNConv_m.pdf",
+            "with_diacritics": false,
+            "retrieved": "2022-08-03T22:55:48.873620"
+        },
+        {
+            "type": "simple",
+            "fname": "004-knpdunconvention_er.pdf",
+            "url": "https://www.crpd.org.mt/wp-content/uploads/2021/01/004-knpdunconvention_er.pdf",
+            "with_diacritics": true,
+            "retrieved": "2022-08-03T22:56:04.812565"
+        }
+    ]
+}

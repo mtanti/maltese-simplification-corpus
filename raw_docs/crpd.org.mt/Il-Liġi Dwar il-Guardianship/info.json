@@ -1,0 +1,19 @@
+{
+    "page_url": "https://www.crpd.org.mt/mt/rizorsi/legislazzjoni/",
+    "documents": [
+        {
+            "type": "complex",
+            "fname": "document.pdf",
+            "url": "https://legislation.mt/eli/act/2012/24/mlt",
+            "with_diacritics": true,
+            "retrieved": "2022-08-03T23:26:51.576337"
+        },
+        {
+            "type": "simple",
+            "fname": "015-Ligi-tal-Kustodja-FBT.pdf",
+            "url": "https://www.crpd.org.mt/wp-content/uploads/2020/11/015-Ligi-tal-Kustodja-FBT.pdf",
+            "with_diacritics": true,
+            "retrieved": "2022-08-03T23:27:27.228865"
+        }
+    ]
+}

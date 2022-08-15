@@ -1,0 +1,38 @@
+<annotation>
+	<folder>complex</folder>
+	<filename>011.jpg</filename>
+	<path>C:\Users\mtant\Desktop\maltese_simplification_corpus\proc_docs\inclusion.gov.mt\Libertà li Tgħix – Strateġija Nazzjonali 2021-2030\complex\011.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1654</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>667</ymin>
+			<xmax>828</xmax>
+			<ymax>2007</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>833</xmin>
+			<ymin>1280</ymin>
+			<xmax>1483</xmax>
+			<ymax>1817</ymax>
+		</bndbox>
+	</object>
+</annotation>

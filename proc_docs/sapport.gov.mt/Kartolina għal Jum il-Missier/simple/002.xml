@@ -1,0 +1,26 @@
+<annotation>
+	<folder>simple</folder>
+	<filename>002.jpg</filename>
+	<path>C:\Users\mtant\Desktop\maltese_simplification_corpus\proc_docs\sapport.gov.mt\Kartolina għal Jum il-Missier\simple\002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2889</width>
+		<height>2167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1549</xmin>
+			<ymin>297</ymin>
+			<xmax>2589</xmax>
+			<ymax>1541</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,19 @@
+{
+    "page_url": "https://www.crpd.org.mt/mt/servizzi/eu-disability-card/",
+    "documents": [
+        {
+            "type": "complex",
+            "fname": "CRPD-Flyer.pdf",
+            "url": "https://www.crpd.org.mt/wp-content/uploads/2020/11/CRPD-Flyer.pdf",
+            "with_diacritics": true,
+            "retrieved": "2022-08-03T22:28:39.722258"
+        },
+        {
+            "type": "simple",
+            "fname": "CRPD-Flyer-ETR.pdf",
+            "url": "https://www.crpd.org.mt/wp-content/uploads/2020/11/CRPD-Flyer-ETR.pdf",
+            "with_diacritics": true,
+            "retrieved": "2022-08-03T22:28:46.146069"
+        }
+    ]
+}

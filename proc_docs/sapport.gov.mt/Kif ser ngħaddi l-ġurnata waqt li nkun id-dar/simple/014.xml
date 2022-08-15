@@ -1,0 +1,26 @@
+<annotation>
+	<folder>simple</folder>
+	<filename>014.jpg</filename>
+	<path>C:\Users\mtant\Desktop\maltese_simplification_corpus\proc_docs\sapport.gov.mt\Kif ser ngħaddi l-ġurnata waqt li nkun id-dar\simple\014.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2667</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1684</xmin>
+			<ymin>480</ymin>
+			<xmax>2353</xmax>
+			<ymax>1198</ymax>
+		</bndbox>
+	</object>
+</annotation>

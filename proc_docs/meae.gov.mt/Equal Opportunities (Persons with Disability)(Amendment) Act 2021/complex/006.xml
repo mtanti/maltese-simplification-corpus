@@ -1,0 +1,26 @@
+<annotation>
+	<folder>complex</folder>
+	<filename>006.jpg</filename>
+	<path>C:\Users\mtant\Desktop\maltese_simplification_corpus\proc_docs\meae.gov.mt\Equal Opportunities (Persons with Disability)(Amendment) Act 2021\complex\006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1654</width>
+		<height>2339</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>text</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>611</xmin>
+			<ymin>215</ymin>
+			<xmax>1453</xmax>
+			<ymax>2045</ymax>
+		</bndbox>
+	</object>
+</annotation>
