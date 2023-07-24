@@ -35,6 +35,8 @@ The following internal annotation rules were used to draw bounding boxes:
 Bounding boxes were saved in [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) format XML files in the folder `proc_docs` together with the page images.
 Some bounding boxes are used to replace an image region with a white box in order to remove something distracting from the page (named 'whiteout') whilst other bounding boxes are used to extract the text inside them (named 'text').
 
+labelImg saves the full path to the image in the XML file which is not necessary, so this is removed by using the script `scripts/remove_anno_paths.py`.
+
 Finally, the image regions described by the bounding boxes are OCRed using [Tesseract](https://tesseract-ocr.github.io/tessdoc/Home.html) using the script `scripts/annoimg2text.py` with the Maltese pre-trained model ('mlt').
 The reason for using an OCR instead of extracting text from the PDF directly is because some PDFs were written using special fonts to show unusual characters as Maltese diacritics.
 This, together with the method's inability to extract text from selected bounding boxes, makes direct text extraction less desirable than OCR.
