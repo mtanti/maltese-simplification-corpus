@@ -18,9 +18,9 @@ Easy-to-read versions of soft copy documents (primarily PDFs, but not only) in M
 We call the easy-to-read version the simple document and the non-simple version the complex document.
 These documents were collected into the folder `raw_docs` and information about their source, date of download, and so on was logged into a JSON file (see Corpus format section for more information).
 
-The pages from these documents were extracted as separate images into the folder `proc_docs` using the script `scripts/docs2imgs.py`.
-The application [labelImg](https://github.com/heartexlabs/labelImg) was used to manually draw bounding boxes around texts that should be extracted.
-This was done to avoid undesired text from being extracted such as page numbers and text that is not in Maltese, as well as to properly handle multi-column pages.
+The pages from these documents were extracted as separate images into the folder `interm_pages` using the script `scripts/docs2pages.py`.
+The application [labelImg](https://github.com/heartexlabs/labelImg) was used to manually draw bounding boxes around fragments of texts in the page images that should be extracted.
+This was done to avoid undesirable text from being extracted such as page numbers and text that is not in Maltese, as well as to properly handle multi-column pages.
 The following internal annotation rules were used to draw bounding boxes:
 
 - Ignore magin notes such as foot notes, headers, footers, and page numbers.
@@ -30,15 +30,15 @@ The following internal annotation rules were used to draw bounding boxes:
 - Ignore repetitions of the title page (the second page is sometimes the first page in greyscale).
 - Ignore paragraphs in the simple document that refer to the complex document by name (since the title of the complex document might not be in easy-to-read style).
 - Ignore text that is not meant to be read by the target audience of the simple document such as the acknowledgements page.
-- A paragraphs on the same page cannot be split into multiple bounding boxes, but separate paragraphs can be.
+- A paragraph on the same page cannot be split into multiple bounding boxes, but separate paragraphs can be.
 
-Bounding boxes were saved in [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) format XML files in the folder `proc_docs` together with the page images.
+Bounding boxes were saved in [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) format XML files in the folder `interm_pages` together with the page images.
 Some bounding boxes are used to replace an image region with a white box in order to remove something distracting from the page (named 'whiteout') whilst other bounding boxes are used to extract the text inside them (named 'text').
 
-labelImg saves the full path to the image in the XML file which is not necessary, so this is removed by using the script `scripts/remove_anno_paths.py`.
+labelImg saves the full path to the image in the XML file, which is not necessary, so this is removed by using the script `scripts/remove_img_path_annos.py`.
 
-Finally, the image regions described by the bounding boxes are OCRed using [Tesseract](https://tesseract-ocr.github.io/tessdoc/Home.html) using the script `scripts/annoimg2text.py` with the Maltese pre-trained model ('mlt').
-The reason for using an OCR instead of extracting text from the PDF directly is because some PDFs were written using special fonts to show unusual characters as Maltese diacritics.
+Finally, the image regions described by the bounding boxes are OCRed using [Tesseract](https://tesseract-ocr.github.io/tessdoc/Home.html) using the script `scripts/pages2corpus.py` with the Maltese pre-trained model ('mlt').
+The reason for using an OCR instead of extracting text from the PDF directly is because some PDFs were written using special fonts to show unusual characters as Maltese diacritics (e.g. '˙' gets mapped to the Maltese letter 'ħ').
 This, together with the method's inability to extract text from selected bounding boxes, makes direct text extraction less desirable than OCR.
 
 ## Corpus format
@@ -63,7 +63,7 @@ The format of the JSON file is as follows:
             "type": <'complex' or 'simple'>,
             "fname": <file name of the document>,
             "url": <direct URL of the document>,
-            "with_diacritics": <whether the document was written as proper Maltese text or text without Maltese diacritics>,
+            "with_diacritics": <whether the document was written as proper Maltese text or text without Maltese diacritics (e.g. using 'h' instead of 'ħ')>,
             "retrieved": <date and time of when the documents were downloaded using ISO 8601 GMT>
         }
     ]

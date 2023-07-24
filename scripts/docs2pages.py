@@ -14,8 +14,8 @@ for domain in os.listdir(top_path):
             info = json.loads(f.read())
         for doc in info['documents']:
             raw_doc_path = os.path.join(identifier_path, doc['fname'])
-            proc_doc_path = os.path.abspath(os.path.join('..', 'proc_docs', domain, identifier, doc['type']))
-            os.makedirs(proc_doc_path)
+            pages_path = os.path.abspath(os.path.join('..', 'interm_pages', domain, identifier, doc['type']))
+            os.makedirs(pages_path)
             print(raw_doc_path)
             
             with tempfile.TemporaryDirectory() as tmp:
@@ -28,4 +28,4 @@ for domain in os.listdir(top_path):
                 with open(pdf_path, 'rb') as f:
                     pages = pdf2image.convert_from_bytes(f.read())
                 for (page_num, page) in enumerate(pages, start=1):
-                    page.save(os.path.join(proc_doc_path, '{:0>3d}.jpg'.format(page_num)), 'JPEG')
+                    page.save(os.path.join(pages_path, '{:0>3d}.jpg'.format(page_num)), 'JPEG')

@@ -8,7 +8,7 @@ import pytesseract
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract'
 
-top_path = os.path.abspath(os.path.join('..', 'proc_docs'))
+top_path = os.path.abspath(os.path.join('..', 'interm_pages'))
 for domain in os.listdir(top_path):
     domain_path = os.path.join(top_path, domain)
     for identifier in os.listdir(domain_path):
@@ -16,18 +16,18 @@ for domain in os.listdir(top_path):
         corpus_path = os.path.abspath(os.path.join('..', 'corpus', domain, identifier))
         os.makedirs(corpus_path)
         for doctype in os.listdir(identifier_path):
-            proc_doc_path = os.path.join(identifier_path, doctype)
-            print(proc_doc_path)
+            pages_path = os.path.join(identifier_path, doctype)
+            print(pages_path)
             
-            page_fnames = [fname for fname in os.listdir(proc_doc_path) if fname.endswith('.jpg')]
-            anno_fnames = {fname for fname in os.listdir(proc_doc_path) if fname.endswith('.xml')}
+            page_fnames = [fname for fname in os.listdir(pages_path) if fname.endswith('.jpg')]
+            anno_fnames = {fname for fname in os.listdir(pages_path) if fname.endswith('.xml')}
             with open(os.path.join(corpus_path, doctype+'.txt'), 'w', encoding='utf-8') as f:
                 for page_fname in page_fnames:
                     anno_fname = page_fname[:-4]+'.xml'
                     if anno_fname in anno_fnames:
-                        page = np.array(Image.open(os.path.join(proc_doc_path, page_fname)))
+                        page = np.array(Image.open(os.path.join(pages_path, page_fname)))
 
-                        ann = PascalVOC.from_xml(os.path.join(proc_doc_path, anno_fname))
+                        ann = PascalVOC.from_xml(os.path.join(pages_path, anno_fname))
                         
                         for obj in ann.objects:
                             name = obj.name
