@@ -2,7 +2,7 @@
 
 A document-level parallel corpus of simple and complex Maltese texts.
 
-Version: 0.1
+Version: 0.2
 
 ## What's this?
 
