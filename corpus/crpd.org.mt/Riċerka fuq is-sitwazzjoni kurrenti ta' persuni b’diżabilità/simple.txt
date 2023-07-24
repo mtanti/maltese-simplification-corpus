@@ -6,7 +6,7 @@ B'DIŻABILITÀ
 U X-XOGĦOL
 
 F'MALTA
-A
+MS
 
 Dan il-fuljett jgħinek tifhem b'mod
 iżjed faċli u fil-qosor dak li hemm
@@ -76,7 +76,7 @@ x-xogħol tagħhom.
 
 Meta nħarsu lejn pajjiżi oħrajn fl-
 Ewropa, f'Malta hemm ftit persuni
-li qegħdin ifittxu xogħol. Xorta perċ
+li qegħdin ifittxu xogħol. Xorta pero
 hemm numru baxx ta' persuni
 b'diżabilità li jaħdmu f'Malta.
 
@@ -173,7 +173,7 @@ Dawn l-affarijiet għenu lil persuni
 b'diżabilità li ħadu sehem f'din ir-
 riċerka sabiex isibu xogħol:
 
-v
+4
 
 Job coaching, jew persuna li
 tgħin lil persuna b'diżabilità biex
@@ -280,7 +280,7 @@ e Ħafna minnhom qalu li huma
 kuntenti bl-affarijiet li jagħmlu ta'
 kuljum, bħal joħorġu, imorru jixtru,
 
-e Oħrajn qalu li jgħejjew malajr
+e. Oħrajn qalu li jgħejjew malajr
 minħabba d-diżabilità tagħhom
 jew li għandhom mard serju.
 
@@ -377,7 +377,7 @@ Persuni li jħaddmu persuni
 b'diżabilità mal-kumpanija tagħhom
 qalu li ħafna minnhom baqgħu bl-
 istess xogħol li kellhom. Kien hemm
-xi oħrajn perċ li mxew 'il quddiem
+xi oħrajn pero li mxew 'il quddiem
 fix-xogħol tagħhom.
 
 Dan jidher li kien iktar faċli għal
@@ -440,7 +440,7 @@ persuni b'diżabilità.
 e Kien hemm min qal li sabu
 tajba l-għajnuna mil-Lino Spiteri
 Foundation u anke l-għajnuna
-finanzjarja li tingħata lil- min
+finanzjarja li tingħata lil min
 iħaddem, u li din l-għajnuna
 għandha tkompli.
 
@@ -581,7 +581,7 @@ IS-CRPD TIXTIEQ TGĦID GRAZZI LILL-
 ENTITAJIET IMSEMMIJA HAWN TAĦT GĦALL-
 GĦAJNUNA LI TAW F'DAN IL-PROGETT:
 
-:: Il-Ministeru għas-Solidarjetà u Ġustizzja
+c: Il-Ministeru għas-Solidarjetà u Ġustizzja
 Soċjali, il-Familja u d- Drittijiet tat-Tfal (MSFC);
 
 e Il-Fondazzjoni għas-Servizzi ta' Ħarsien
@@ -591,19 +591,19 @@ e Jobsplus;
 
 e Il-Fondazzjoni Lino Spiteri;
 
-e Malta Chamber of Commerce, Enterprise and
+e: Malta Chamber of Commerce, Enterprise and
 Industrv (Il-Kamra tal-Kummerċ ta' Malta);
 
 e The Gozo Business Chamber (Il-Kamra tal-
 Kummerċ ta' Għawdex);
 
-e Malta Chamber of SMEs (Il-Kamra tan-
+e: Malta Chamber of SMEs (Il-Kamra tan-
 Negozji Żgħar u Medji);
 
-e Malta Emplovers' Association (L-Assoċjazzjoni
+e: Malta Emplovers' Association (L-Assoċjazzjoni
 ta' Min Iħaddem);
 
-e lt-trejdjunjins; u
+e. lt-trejdjunjins; u
 
 e Lill-organizzazzjonijiet mhux governattivi li
 jaħdmu fil-qasam tad-diżabilità.

@@ -6,7 +6,7 @@ b'diżabilità meta din ikollha bżonn
 Il-President, bil-permess tal-membri tal-Parlament, ħareġ
 b'din il-liġi:-
 
-1. Din ill-liġi fil-qosor jisimha l-Att tal-2012 u tbiddel xi
+1. Din il-liġi fil-qosor jisimha l-Att tal-2012 u tbiddel xi
 affarijiet li jeżistu diġà f'liġi li jisimha 'l-Kodiċi Civil''.
 
 2. F'din il-liġi żdiedet ukoll il-kustodja, jiġifieri min se jieħu
@@ -53,7 +53,7 @@ fil-Liġi dwar is-Saħħa Mentali.
 
 Imma kull meta jissemmew kliem bħal problemi fil-moħħ
 jew moħħ li ma żviluppax sew jew b'nuqqas ta' żvilupp,
-ma għandhomx jiftiehnmu bħala problemi ta' saħħa
+ma għandhomx jiftiehmu bħala problemi ta' saħħa
 mentali għal hawnhekk.
 
 X'għandu jagħmel il-kustodju
@@ -67,7 +67,7 @@ personali jew affarijiet oħra tal-persuna matul iż-
 żmien, meta l-persuna ma tkunx kapaċi tieħu ħsieb
 xi ħaġa jew iktar minn ħaġa waħda fil-ħajja tagħha.
 
-(c) Jagħmelkull ħaġa oħra għal u f'isem il-persuna li hu
+(c) Jagħmel kull ħaġa oħra għal u f'isem il-persuna li hu
 jkun qiegħed jieħu ħsieb, kif ikun mitlub li jagħmel
 mill-Bord tal-Kustodja, li huma grupp ta' nies lii
 jiddeċiedu min se jkun li jieħu ħsieb il-persuna
@@ -85,11 +85,11 @@ possibbli
 (b) jarali dak li jsir ikun għall-aħjar tal-persuna li tkun
 taħt kustodja
 
-(c) dakli jsir waqt li hemm kustodja jkun jaqbel mal-
+(c) dak li jsir waqt li hemm kustodja jkun jaqbel mal-
 għanijiet li għalihom qed isir u ma jsir xejn iżjed jew
 inqas minn dak li hemm bżonn
 
-(d)  persuna li tkun taħt kustodja, jiġifieri jkun hemm xi
+(d) persuna li tkun taħt kustodja, jiġifieri jkun hemm xi
 ħaddieħor li jieħu ħsieb ta' xi affarjiet tagħha jew l-
 affarijiet kollha tagħha, għandha dejjem ikollha dritt
 biex tagħżel u tiddeċiedi fuq l-affarjiet tagħha hi
@@ -155,7 +155,7 @@ jagħmel dan qabel ma l-persuna tagħlaq it-18-il sena.
 5. Dan ta' hawn taħt għandu jiżdied wara t-Titolu III tat-
 Taqsima ll tat-tieni Ktieb tal-liġi:
 
-Titolu IILA
+Titolu IIA
 Fuq il-Kustodja
 
 Bord dwar il-Kustodja
@@ -178,7 +178,7 @@ b'diżabilità
 
 (ċ) membru li jkun magħżul mill-awtorità li tieħu ħsieb id-
 drittijiet ta' persuni bi problemi ta' saħħa mentali wara li din
-tkun tkellmet mal-għaqdiet li jaħdmu ma' persuni ll
+tkun tkellmet mal-għaqdiet li jaħdmu ma' persuni lli
 għandhom problemi ta' saħħa mentali:
 
 Persuni oħra bħal dawn li semmejna hawn fuq jistgħu wkoll
@@ -193,20 +193,20 @@ Jekk membru tal-Bord jiġi magħżul xi żmien wara li ġew
 magħżula l-membri l-oħrajn, dan il-membru għandu xorta
 jispiċċa fl-istess żmien bħall-oħrajn.
 
-(4) Persunili ma jistgħux ikunu membri fil-Bord huma dawn:
+(4) Persuni li ma jistgħux ikunu membri fil-Bord huma dawn:
 
-(a)  Ministru, jew min jaħdem fil-Parlament, Sindku
+(a) Ministru, jew min jaħdem fil-Parlament, Sindku
 jew min jaħdem f'xi Kunsill Lokali.
 
 (b) persuna li jkunu mneħħija d-drittijiet tagħha
 bil-liġi.
 
-(c)  persuna li jkollha bżonn lil xi ħaddieħor biex
+(c) persuna li jkollha bżonn lil xi ħaddieħor biex
 jieħu ħsiebha.
 
-(d)  persunali tkun falluta u ma jkollhiex flus.
+(d) persunali tkun falluta u ma jkollhiex flus.
 
-(e)  persuna li nqabdet tagħmel xi ħaġa ħażina lil
+(e) persuna li nqabdet tagħmel xi ħaġa ħażina lil
 nies oħra, jew serqet jew ħadet xi flus li mhux
 tagħha, jew ħadet affarijiet li kienu misruqa,
 jew għamlet affarijiet oħra li jmorru kontra l-
@@ -215,11 +215,14 @@ liġi.
 
 (5) Jista' jkun hemm bżonn li jilħqu membri oħrajn
 f'dan il-Bord:
+
 a. meta jkun għadda ż-żmien li suppost
 joqogħdu fuq il-Bord.
-b.jekk ikun hemm affarijiet li-ġraw li
+
+b. jekk ikun hemm affarijiet li ġraw li
 suppost ma jħallux lill-persuna tkun
 membru fil-Bord.
+
 c. jekk xi membru jiddeċiedi li jieqaf.
 
 (6) Meta jintgħażlu l-persuni għall-Bord u anke meta l-
@@ -310,7 +313,7 @@ li dawn jibgħatu r-rapport tagħhom lil Bord f'ċertu żmien.
 
 Il-mod kif xi ħadd isir kustodju
 
-519D. (1) Talba biex isir kustodju, jiġifieri xi ħadd jieħu ħsieb
+5190. (1) Talba biex isir kustodju, jiġifieri xi ħadd jieħu ħsieb
 il-persuna jew xi affarijiet tal-persuna, għandha ssir lill-Bord
 dwar il-Kustodja.
 
@@ -543,7 +546,7 @@ għadhiex hemm
 (b) ikun hemm biżżejjed raġunijiet biex il-
 kustodja tiġi mneħħija.
 
-(2) Meta l-persuna b'diżabilità li:— jkollha
+(2) Meta l-persuna b'diżabilità li: jkollha
 kustodja tmut, il-kustodju għandu jinforma b'dan lill-Bord fi
 żmien ġimgħa.
 
@@ -605,7 +608,7 @@ Persuni li jitneħħewlhom id-drittijiet tagħhom jew li ma
 jkunux jistgħu jagħmlu l-affarijiet waħedhom
 
 519M. (1) Kull persuna msemmija f'din il-liġi tista' tgħid
-lil-Qorti biex tbiddel id-deċiżjoni li tkun ittieħdet dwar xi
+lill-Qorti biex tbiddel id-deċiżjoni li tkun ittieħdet dwar xi
 
 persuna b'diżabilità li: tiddependi għalkollox: minn
 ħaddieħor. Barra dan, il-Qorti tista' tgħid lill-Bord tal-
@@ -636,7 +639,7 @@ tal-kompjuter;
 (ċ) jagħmlu l-formoli li jkun hemm bżonn
 isiru;
 
-(d)  ikun hemm lista ta' affarijiet li mhux
+(d) ikun hemm lista ta' affarijiet li mhux
 suppost isiru u anke multi ta' mhux
 iktar minn tliet elef ewro (3000 ewro),
 jiġifieri flus li trid tħallas jekk ma timxix
@@ -647,7 +650,7 @@ biex il-kustodju jkun jista' jieħu ħsieb
 flus tal-persuna b'diżabilità fejn ikun
 hemm bżonn;
 
-(f) — jiktbu dawk li jridu jitħallsu lill-esperti
+(f) jiktbu dawk li jridu jitħallsu lill-esperti
 li jkun għażel il-Bord, jiġifieri nies li
 jkunu jafu u jifhmu ħafna fuq dan ix-
 xogħol.

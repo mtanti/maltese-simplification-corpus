@@ -41,7 +41,7 @@ l-istess drittijiet bħal ħaddieħor.
 
 2 Xi jfissru l-kliem
 
-Komunikazzjoni tiisser il-mod
+Komunikazzjoni tfisser il-mod
 kif il-persuni jitkellmu jew jifhmu
 l-informazzjoni, per eżempju
 bil-kompjuters, bil-verżjoni faċli
@@ -55,7 +55,7 @@ bħal ħaddieħor għax
 
 per eżempju għandek diżabilità.
 
-Lingwa tiisser il-mod kif jitkellmu
+Lingwa tfisser il-mod kif jitkellmu
 n-nies, anke bil-lingwa tas-sinjali.
 
 Midja tfisser il-gazzetti,
@@ -153,14 +153,14 @@ jisimgħu lill-persuni b'diżabilità
 meta jkunu qed jagħmlu liġijiet
 jew policies ġodda.
 
-5 ilkoll Indaqs
+b ilkoll Indaqs
 
 Il-pajjiżi jaqblu li kulħadd huwa
 indaqs skond il-liġi u li ħadd
 m'għandu jiddiskrimina kontra
 l-persuni b'diżabilità.
 
-6 In-nisa b'diżabilità huma daqs ħaddieħor
+le In-nisa b'diżabilità huma daqs ħaddieħor
 
 Il-pajjiżi jaqblu li nisa u bniet
 li għandhom diżabilità huma
@@ -206,10 +206,10 @@ e Jagħmlu attivitajiet biex jibdlu
 l-mod kif in-nies jaħsbu dwar
 il-persuni b'diżabilità
 
-e Jurulil kulħadd l-affarijiet li jistgħu
+e Juru lil kulħadd l-affarijiet li jistgħu
 jagħmlu l-persuni b'diżabilità.
 
-e Jgħallmu lit-tfal dwar
+e. Jgħallmu lit-tfal dwar
 
 id-drittijiet indaqs
 lill-persuni b'diżabilità.
@@ -222,7 +222,7 @@ Jgħinu biex isiru attivitajiet
 biex in-nies isiru jafu aktar
 dwar il-persuni b'diżabilità.
 
-9 Aċċessibilità
+je Aċċessibilità
 
 Il-pajjiżi jridu jkunu ċerti li l-affarijiet
 ikunu aktar aċċessibbli
@@ -263,13 +263,13 @@ Id-dritt għall-ħajja
 Kulħadd għandu d-dritt li jgħix,
 anke l-persuni b'diżabilità.
 
-Il-pajjiżi għandhom ikunu ċetti li
+Il-pajjiżi għandhom ikunu ċerti li
 l-persuni b'diżabilità jistgħu jgħixu
 l-ħajja tagħhom bħal ħaddieħor.
 
 Emerġenzi
 
-Il-pajjiżi għandhom ikunu ċetti li jekk
+Il-pajjiżi għandhom ikunu ċerti li jekk
 ikun hemm emerġenza, il-persuni
 b'diżabilità ikollhom min jieħu
 ħsiebhom. Per eżempju, jekk ikun
@@ -302,7 +302,7 @@ dwar il-flus tagħhom.
 
 e Jissellfu l-flus bħal ħaddieħor.
 
-s Ħadd ma jeħodilhom il-flus
+e Ħadd ma jeħodilhom il-flus
 jew id-dar tagħhom.
 
 Il-ġustizzja
@@ -354,7 +354,7 @@ jekk jitressqu l-qorti.
 e Lijekk jixtiequ, il-każ tagħhom
 jerġa' jinstema', bħal ta' kulħadd.
 
-1 5 L-ebda tortura jew trattament ħażin
+1 b L-ebda tortura jew trattament ħażin
 
 Il-persuni b'diżabilità m'għandhomx
 jiġu torturati jew trattati ħażin.
@@ -423,7 +423,7 @@ infushom. Għalhekk dawn
 għandhom ikunu rispettati
 bħal ta' kulħadd.
 
-1 8 Meta tmur tgħix f'post ieħor
+1 19. Meta tmur tgħix f'post ieħor
 
 Il-persuni b'diżabilità għandhom dritt li:
 
@@ -451,7 +451,7 @@ jieħdu ħsiebhom.
 Il-ħajja indipendenti
 bħalha parti mill-komunità
 
-Il-pajjiżi għandhom ikunu ċetti li
+Il-pajjiżi għandhom ikunu ċerti li
 l-persuni b'diżabilità jistgħu jagħżlu
 bħal kulħadd fejn igħixu u l-affarijiet
 li jagħmlu fil-komunità tagħhom.
@@ -477,7 +477,7 @@ servizz tajjeb.
 
 20 Toħroġ mid-dar
 
-Il-pajjiżi għandhom ikunu ċetti li
+Il-pajjiżi għandhom ikunu ċerti li
 l-persuni b'diżabilità jistgħu jkunu
 indipendenti kemm jista' jkun biex
 joħorġu mid-dar.
@@ -491,7 +491,7 @@ e Jgħinu lill-persuni b'diżabilità
 jkollhom l-għajnuna u apparat
 li għandhom bżonn biex joħorġu.
 
-e Jkunu ċertili dawn l-affarijiet
+e Jkunu ċerti li dawn l-affarijiet
 ma jkunux jiswew ħafna flus.
 
 e Jagħtu taħriġ lill-persuni
@@ -506,7 +506,7 @@ tal-persuni b'diżabilità.
 Tgħid dak li tixtieq
 u aċċess għall-informazzjoni
 
-Il-pajjiżi għandhom ikunu ċetti li
+Il-pajjiżi għandhom ikunu ċerti li
 l-persuni b'diżabilità jkollhom id-dritt
 bħal kulħadd li jsibu l-informazzjoni
 li għandhom bżonn, jagħtu
@@ -558,14 +558,14 @@ drittijiet indaqs li jiżżewġu u jibdew
 familja, jekk iż-żewġ persuni
 tal-koppja jkunu jridu hekk.
 
-: Il-persuni b'diżabilità għandhom
+e Il-persuni b'diżabilità għandhom
 id-dritt li jagħżlu kemm ikollhom
 tfal u meta jkollhom it-tfal. Huma
 m'għandhomx jiġu sterilizzati
 kontra x-xewqa tagħhom
 biex ma jkollhomx tfal.
 
-: Il-persuni b'diżabilità għandhom
+e Il-persuni b'diżabilità għandhom
 id-dritt li jippjanaw il-familja
 tagħhom u jkollhom l-informazzjoni
 li tgħinhom jagħmlu dan.
@@ -605,27 +605,27 @@ meta jikbru.
 
 Jekk isir hekk:
 
-: Il-persuni b'diżabilità jkunu jistgħu
+e Il-persuni b'diżabilità jkunu jistgħu
 jiżviluppaw il-ħiliet u l-abbiltajiet
 tagħhom u jieħdu posthom fid-dinja.
 
-: Il-persuni b'diżabilità ma jitħallewx
+e Il-persuni b'diżabilità ma jitħallewx
 barra minn xi tip ta' edukazzjoni.
 
-: Il-persuni b'diżabilità għandhom
+e Il-persuni b'diżabilità għandhom
 imorru fl-iskejjel tal-istess post
 fejn joqogħdu mingħajr ma
 jħallsu, bħal kulħadd.
 
-e Il-bżonnijiet tal-persuni
+e il-bżonnijiet tal-persuni
 b'diżabilità għandhom jiġu
 milħuqa, sa fejn hu possibbli.
 
-: Il-persuni b'diżablità għandhom
+e Il-persuni b'diżablità għandhom
 ikollhom is-sapport li għandhom
 bżonn biex jitgħallmu.
 
-: Il-persuni b'diżabilità għandhom
+e Il-persuni b'diżabilità għandhom
 id-dritt li jitgħallmu l-Braille jew
 mezz ieħor ta' komunikazzjoni,
 skond il-bżonn tagħhom.
@@ -647,7 +647,7 @@ b'diżabilità għandhom id-dritt
 għas-sapport li jkollhom bżonn
 biex ikomplu jitgħallmu.
 
-2 5 Is-saħħa
+2 b Is-saħħa
 
 Il-persuni b'diżabilità għandhom
 id-dritt li jkunu b'saħħithom u
@@ -688,7 +688,7 @@ persuna għax għandha diżabilità.
 
 26 Servizzi li jgħinuk biex tfieq u tkun aħjar
 
-Il-pajjiżi għandhom ikunu ċetti li
+Il-pajjiżi għandhom ikunu ċerti li
 l-persuni b'diżabilità jkollhom ħajja
 indipendenti u b'saħħitha sa kemm
 hu possibbli. Biex dan isir, huma
@@ -792,7 +792,7 @@ għandhom is-servizzi u apparat
 li għandhom bżonn u li dawn
 ma jqumux ħafna flus.
 
-: Il-persuni b'diżabilità jkollhom
+e Il-persuni b'diżabilità jkollhom
 l-għajnuna biex ikollhom kwalità
 ta' ħajja tajba. Dan igħodd b'mod
 speċjali għan-nisa, tfal, u anzjani
@@ -803,7 +803,7 @@ ikollhom għajnuna mingħand
 il-gvern għall-ispejjeż li jagħmlu
 minħabba d-diżabilità.
 
-: Il-persuni b'diżabilità jkunu
+e Il-persuni b'diżabilità jkunu
 jistgħu jużaw skemi tad-djar.
 
 e Il-persuni b'diżabilità jkollhom
@@ -849,7 +849,7 @@ Il-persuni b'diżabilità għandhom dritt
 li jieħdu sehem f'attivatijiet ta' sport
 u ta' divertiment daqs kulħadd.
 
-Il-pajjiżi għandhom jaħdmu biex ikunu ċetti li:
+Il-pajjiżi għandhom jaħdmu biex ikunu ċerti li:
 
 e Affarijiet bħal kotba jkunu
 aċċessibbli għal kulħadd.
@@ -858,7 +858,7 @@ e It-television, films u teatri
 jkunu aċċessibbli
 għal kulħadd.
 
-: Il-persuni b'diżabilità jkunu
+e Il-persuni b'diżabilità jkunu
 jistgħu jmorru f'postijiet bħal
 ma huma l-mużewijiet.
 
@@ -875,7 +875,7 @@ e Il-kultura ta' min hu deaf
 u kulturi oħra għandhom
 jiġu rispettati.
 
-: Il-persuni b'diżabilità
+e Il-persuni b'diżabilità
 għandhom ikollhom sapport
 biex jieħdu sehem f'attivitajiet
 ta' sport li huma għal kulħadd.
@@ -944,7 +944,7 @@ biex ikunu jafu kemm fil-fatt
 dak li hemm f'dan il-Ftehim
 qed isir.
 
-: Il-persuni b'diżabilità għandhom
+e Il-persuni b'diżabilità għandhom
 jagħtu sehem sħiħ biex jaraw
 li dak li hemm fil-Ftehim qed isir.
 
@@ -969,7 +969,7 @@ jridu jagħtu dan ir-rapport lill-Kumitat
 Speċjali sa sentejn wara li jkunu
 daħlu f'dan il-Ftehim.
 
-s Wara dawn is-sentejn, kull pajjiż
+e Wara dawn is-sentejn, kull pajjiż
 irid jibgħat rapport kull 4 snin.
 Il-pajjiżi jridu wkoll jibagħtu
 rapporti oħra li l-Kumitat jitlobhom
@@ -1040,7 +1040,7 @@ tad-drittijiet tal-bniedem biex jiktbu
 rapporti dwar ix-xogħol tagħhom li
 għandu x'jaqsam ma' dan il-Ftehim.
 
-3 9 Ir-rapport tal-Kumitat Speċjali
+3 o Ir-rapport tal-Kumitat Speċjali
 
 Il-Kumitat se jikteb rapport kull
 sentejn u jagħtih lill-Assemblea
@@ -1106,14 +1106,14 @@ Dan il-Ftehim jibda jaħdem
 30 ġurnata wara li jkun hemm
 20 pajjiż li daħlu fih.
 
-4 6 Il-pajjizi kif iżommu mal-Ftehim
+4 le Il-pajjizi kif iżommu mal-Ftehim
 
 Il-pajjiżi jistgħu jgħidu li mhux
 se jiffirmaw parti mill-Ftehim,
 ħlief għal dawk il-partijiet li
 huma importanti ħafna.
 
-47 Tibdil lil dan il-Ftehim
+A7 Tibdil lil dan il-Ftehim
 
 Kull pajjiż jista' jitlob li jkun
 hemm tibdiliet fil-Ftehim.
@@ -1146,14 +1146,14 @@ ikun aċċessibbli għall-persuni
 b'diżabilità. Dan jinkludi l-verżjoni
 faċli biex taqra, bħal ma hi din.
 
-5 0 Dan il-Ftehim f'lingwi differenti
+b 0 Dan il-Ftehim f'lingwi differenti
 
 Dan il-Ftehim se jkun ippublikat biċ-
 Ċiniż, Franciż, Għarbi, Ingliż, Russu
 u Spanjol. Il-Ftehim jgħodd indaqs
 f'dawn il-lingwi.
 
-sn lu l l-iifel:
+Ftehim leħor
 dwar id-Drittijiet tal-Persuni b'Diżabilità
 
 Introduzzjoni
@@ -1334,7 +1334,7 @@ ikollu 6 xhur ċans jaħseb dwar dak
 li se jagħmel. Wara dawn is-6 xhur,
 il-Kumitat jista' jitlob lill-pajjiż jikteb
 rapport dwar x'se jagħmel biex l-
-aftarijiet ikunu aħjar.
+affarijiet ikunu aħjar.
 
 8.Meta pajjiż jiffirma dan il-Ftehim
 leħor, hu jkun jista' jgħid li ma
@@ -1346,19 +1346,19 @@ pajjiż tiegħu.
 Nazzjonijiet Uniti jżomm l-
 informazzjoni u r-rapporti li
 għandhom x'jaqsmu ma' dan
-il-Ftehim leħor.
+il-Ftehim Ieħor.
 
 10. Il-pajjiżi ilhom jistgħu
 jiffirmaw dan il-Ftehim
 leħor mit-30 ta' Marzu 2007.
 
-11.Il-pajjiżi jistgħu jiffirmaw dan
+11. Il-pajjiżi jistgħu jiffirmaw dan
 il-Ftehim leħor jekk huma jkunu
 ffirmaw il-Ftehim bejn il-Pajjiżi
 dwar id-Drittijiet tal-Persuni
 b'Diżabilità.
 
-12.Xi pajjiżi huma maqgħuda
+12. Xi pajjiżi huma maqgħuda
 flimkien, bħall-pajjiżi tal-Unjoni
 Ewropea.
 
@@ -1413,7 +1413,7 @@ Nirringrazzjaw
 Dan il-ktieb jgħinek tifhem dak li hemm miktub
 fil-ftehim. Dan il-ktieb ma jgħoddx minflok il-ftehim.
 Biex tkun taf eżatt x'hemm miktub fil-ftehim,
-iiglof Eis-Kogelel (n -n
+trid tara d-dokument sħiħ.
 
 Tista' taqrah bil-Malti mill-websajt tal-KNPD:
 www.knpd.org

@@ -57,9 +57,9 @@ e fil-qasam tas-saħħa,
 
 e fil-qasam soċjali (tas-soċjetà),
 
-e lijaħdmu ġol-ħwienet,
+e li jaħdmu ġol-ħwienet,
 
-e persunili għandhom l-awtiżmu u l-familji tagħhom,
+e persuni li għandhom l-awtiżmu u l-familji tagħhom,
 e lill-pubbliku inġenerali.
 
 Dan it-tagħlim ser isir billi mmorru f'dawn id-dipartimenti, nagħmlu
@@ -259,7 +259,7 @@ Ser naħdmu wkoll biex l-għajnuna li tingħata biex titħallas inqas
 taxxa, tibda tingħata wkoll lil persuni fuq il-firxa wiesgħa ta' awtiżmu
 li jaħdmu għal rashom.
 
-Ser naħdmu ħafna wkoll biex innaqgsu l-każijiet ta' diskriminazzjoni
+Ser naħdmu ħafna wkoll biex innaqqsu l-każijiet ta' diskriminazzjoni
 ma' persuni fuq il-firxa wiesgħa ta' awtiżmu fuq il-postijiet tax-
 xogħol.
 
@@ -301,7 +301,7 @@ servizzi biex:
 
 — nitkellmu dwar il-bżonn tas-servizzi tagħhom,
 
-— naraw ix-xogħolli jagħmlu u l-għajnuna li qegħdin jagħtu,
+— naraw ix-xogħol li jagħmlu u l-għajnuna li qegħdin jagħtu,
 
 — inkomplu nitkellmu magħhom ta' spiss.
 
@@ -355,7 +355,7 @@ servizzi fuq:
 
 $ Xogħol,
 
-D Li tkun tista' tgħix fil-komunità minflok fi djar għal persuni
+B Li tkun tista' tgħix fil-komunità minflok fi djar għal persuni
 b'diżabilità,
 
 Għajnuna fis-soċjetà,

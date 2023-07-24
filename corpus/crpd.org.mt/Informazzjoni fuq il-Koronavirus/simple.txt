@@ -16,13 +16,13 @@ Tista' tkun bħal meta jkollok riħ u meta tisgħol jittieħed il-virus.
 
 Huwa importanti li meta tisgħol jew tagħtas:
 
-V tgħatti ħalqek b'tissue
+V. tgħatti ħalqek b'tissue
 
-V it-tissue titfagħha fil-żibel
+V. it-tissue titfagħha fil-żibel
 
-V taħselidejk
+V' taħselidejk
 
-V Tista' wkoll tuża hand sanitizer biex iżżomm idejk nodfa, u ma
+V. Tista' wkoll tuża hand sanitizer biex iżżomm idejk nodfa, u ma
 jkomplix jinxtered il-virus.
 
 Kif tittieħed bil-Coronavirus7
@@ -49,9 +49,9 @@ jkollhom xi mard ieħor jew ikunu kbar fl-età.
 Kif tinduna li jista' jkollok il-Coronavirus7
 Jekk inti jkollok:
 
-:: Sogħla
-4- Deni
-4- Taqta' nifsek jew ma tkunx tista' tieħu nifs sew
+:- Sogħla
+4 Deni
+:- Taqta' nifsek jew ma tkunx tista' tieħu nifs sew
 
 ma jfissirx li inti għandek il-Coronavirus, jista' jkollok riħ jew xi virus
 ieħor.
@@ -59,10 +59,10 @@ ieħor.
 Jista' jkollok il-Coronavirus jekk ikollok is-sogħla jew id-deni, jew
 ma tkunx tista' tieħu nifs sew u:
 
-X Tkun mort f'xi pajjiż fejn hemm ħafna nies li kellhom dan il-
+X: Tkun mort f'xi pajjiż fejn hemm ħafna nies li kellhom dan il-
 virus dawn l-aħħar ġimgħat.
 
-X Kontviċin xi ħadd li t-tabib qaltlu jew qalilha li għandha l-
+X' Kont viċin xi ħadd li t-tabib qaltlu jew qalilha li għandha l-
 Coronavirus.
 
 X'tagħmel jekk inti taħseb li għandek il-Coronavirus
@@ -93,7 +93,7 @@ appuntament.
 Għandek iċċempel biss fuq 111 jew 21324086 jekk inti taħseb li
 għandek il-Coronavirus u għandek bżonn l-għajnuna.
 
-Minn fejn nista' nsib aktar informazzjoni2
+Minn fejn nista' nsib aktar informazzjoni
 
 F'din il-websajt hawn taħt, tista' ssib aktar informazzjoni dwar
 il-Coronavirus f'Malta:

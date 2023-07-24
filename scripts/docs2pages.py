@@ -28,4 +28,4 @@ for domain in os.listdir(top_path):
                 with open(pdf_path, 'rb') as f:
                     pages = pdf2image.convert_from_bytes(f.read())
                 for (page_num, page) in enumerate(pages, start=1):
-                    page.save(os.path.join(pages_path, '{:0>3d}.jpg'.format(page_num)), 'JPEG')
+                    page.save(os.path.join(pages_path, f'{page_num:0>3d}.jpg'), 'JPEG')

@@ -37,9 +37,13 @@ Some bounding boxes are used to replace an image region with a white box in orde
 
 labelImg saves the full path to the image in the XML file, which is not necessary, so this is removed by using the script `scripts/remove_img_path_annos.py`.
 
-Finally, the image regions described by the bounding boxes are OCRed using [Tesseract](https://tesseract-ocr.github.io/tessdoc/Home.html) using the script `scripts/pages2corpus.py` with the Maltese pre-trained model ('mlt').
+Finally, the image regions described by the bounding boxes are OCRed using [Tesseract](https://tesseract-ocr.github.io/tessdoc/Home.html) using the script `scripts/pages2frags.py` with the Maltese pre-trained model ('mlt').
 The reason for using an OCR instead of extracting text from the PDF directly is because some PDFs were written using special fonts to show unusual characters as Maltese diacritics (e.g. '˙' gets mapped to the Maltese letter 'ħ').
 This, together with the method's inability to extract text from selected bounding boxes, makes direct text extraction less desirable than OCR.
+
+The OCRed text is saved in the folder `interm_frags` which has a separate file for each 'text' bounding box with the file names being `<page#>_<box#>.txt`.
+These allow for manual inspection and correction of the OCRed text (to be done in a future version).
+These fragmented text files for each document are then concatenated together into a single document text file in the folder `corpus` using the script `scripts/frags2corpus.py`.
 
 ## Corpus format
 

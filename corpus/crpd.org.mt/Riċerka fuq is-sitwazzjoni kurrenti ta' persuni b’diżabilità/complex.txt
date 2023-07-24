@@ -44,7 +44,7 @@ is-setgħa f'aspetti differenti ta' ħajjithom, inkluż l-impjieg.
 Dan l-istudju jitkellem f'ċifri u persentaġġi - iżda dawn jirriflettu nies reali
 b'ħajjiet reali, aspirazzjonijiet, ħtiġijiet u sfidi. Persuni b'diżabilità jaspiraw
 għal ħajja indipendenti, biex jaħdmu, jistudjaw, jiksbu u jissodisfaw il-
-potenzjal tagħhom. Huwa d-dmir tas-soċjetà li tiżgura li huma — li aħna-
+potenzjal tagħhom. Huwa d-dmir tas-soċjetà li tiżgura li huma — li aħna
 ningħataw opportunitajiet indaqs.
 
 L-INTRODUZZJONI
@@ -66,7 +66,7 @@ għal Gruppi Vulnerabbli. Il-benefiċjarju ta' dan il-proġett huwa l-Ministeru
 għas-Solidarjetà u l-Ġustizzja Soċjali, il-Familja u d-Drittijiet tat-Tfal (MSFC),
 u s-CRPD hija waħda mill-organizzazzjonijiet imsieħba f'dan il-proġett. Din
 ir-riċerka ġiet ikkummissjonata permezz ta' sejħa pubblika għall-offerti lil
-Ernst and Voung (Maltal), b'Dr Anne-Marie Callus bħala esperta dwar id-
+Ernst and Voung (Malta), b'Dr Anne-Marie Callus bħala esperta dwar id-
 diżabilità u bl-assistenza ta' Ms Arianne Attard.
 
 Din ir-riċerka ġiet imwettqa permezz ta' intervisti ma' persuni b'diżabilità u
@@ -92,7 +92,6 @@ ta' xogħol bi ħlas.
 
 e Inattivament mingħajr impjieg — individwu preżentament mingħajr
 impjieg u li m'għandux interess li jbiddel dan l-istatus.
-
 
 SFOND
 
@@ -135,7 +134,6 @@ minflok niffukaw fuq is-setgħa tal-persuni b'diżabilità. Dan l-Att ikopri
 d-diskriminazzjoni f'fażijiet differenti tax-xogħol li jinkludu l-fażi meta
 tapplika għax-xogħol, tingħata promozzjoni jew sensja, it-taħriġ, il-
 kundizzjonijiet tax-xogħol u l-kumpens. Emendi oħra li jelaboraw iżjed id-
-
 
 diskriminazzjoni abbażi tad-diżabilità jinkludu (1) in-nuqqas li tiġi provduta
 akkomodazzjoni xierqa u informazzjoni dwarha, (ii) diskriminazzjoni b'mod
@@ -191,8 +189,8 @@ ostakli u każijiet ta' diskriminazzjoni li jtellfu lil persuni b'diżabilità m
 jilħqu l-potenzjal kollu tagħhom fuq il-post tax-xogħol u milli jgħixu fuq bażi
 ugwali ma' nies oħra.
 
-IS-SEJBIET EWLENIN LI ĦARĠU , N
-MILL-INTERVISTI MA' PERSUNI B'DIZŻABILITA
+IS-SEJBIET EWLENIN LI ĦARĠU , Ni
+MILL-INTERVISTI MA' PERSUNI B'DIŻABILITÀ
 
 ĦARSA ĠENERALI LEJN L-INTERVISTI LI SARU LIL PERSUNI
 B'DIŻABILITÀ
@@ -211,16 +209,15 @@ diżabilitajiet intellettwali. Mill-persuni li ma jaħdmux, 21.190 għandhom
 diżabilitajiet fiżiċi u 31.490 għandhom diżabilitajiet intellettwali. Mit-tweġibiet
 li nġabru, in-nuqqas ta' saħħa mentali hija iżjed komuni fost il-parteċipanti li
 ma jaħdmux (25.196 tal-persuni li wieġbu u ma jaħdmux) b'kuntrast mal-
-persuni li jaħdmu (12.290 tal-parteċipanti li wieġbu u jaħdmul).
+persuni li jaħdmu (12.290 tal-parteċipanti li wieġbu u jaħdmu).
 
 Mill-parteċipanti li qegħdin jaħdmu, 3596 waslu sal-livell tas-sekondarja
 fl-edukazzjoni, 23.370 komplew jistudjaw f'istituzzjonijiet postsekondarji
 
 u 28.670 għandhom livell terzjarju fl-edukazzjoni. Il-livelli tal-edukazzjoni
-huma iżjed baxxi fost dawk il-parteċipanti li ma jaħdmux: 46.290 għandhom
+huma iżjed baxxi fost dawk il-parteċipanti li ma jaħdmux: 46.20 għandhom
 livell sekondarju, 15.490 għandhom livell postsekondarju u ftit inqas minn
 7.790 biss għandhom livell terzarju fl-edukazzjoni.
-
 
 L-ewwel figura Demografiċi ewlenin maħruġa mill-intervisti
 
@@ -238,16 +235,16 @@ L-OGĦLA LIVELL TA' EDUKAZZJONI
 L-OGĦLA LIVELL TA' EDUKAZZJONI
 — MHUX IMPJEGAT/A
 
-TIP TA' D_IŻABILITA — 9 TA' DAWK LI
-'WIEĠBU U HUMA IMPJEGATI
+TIP TA' DIŻABILITÀ — 9 TA' DAWK LI
+WIEĠBU U HUMA IMPJEGATI
 
-TIP TA'_DIŻAEILITA — M TA' DAWK LI
+TIP TA' DIŻABILITÀ — Mm TA' DAWK LI
 WIEĠBU U MHUMIEX IMPJEGATI
 
 IS-SEJBIET EWLENIN MILL-INTERVISTI MA' PERSUNI B'DIŻABILITÀ
 
 Il-maġġoranza tal-parteċipanti esprimew opinjoni pożittiva dwar ix-xogħol
-tagħhom. 43.790 tal-parteċipanti qalu li huma kuntenti bix-xogħol tagħhom u
+tagħhom. 43.79, tal-parteċipanti qalu li huma kuntenti bix-xogħol tagħhom u
 3590 qalu li huma kuntenti ħafna bix-xogħol li qed jagħmlu.
 
 Mill-parteċipanti li kienu qegħdin jaħdmu, 24.8 jagħmlu xogħlijiet klerikali,
@@ -256,7 +253,7 @@ għandhom xogħol ta' livell maniġerjali. Għaldaqstant, dawn il-figuri juru li
 l-maġġoranza tal-parteċipanti b'diżabilità jinstabu fl-impjigi l-inqas imħallsa.
 Dawn l-istatistiċi jaqblu mad-dħul ta' kull xahar li ġie rrapportat mill-
 parteċipanti fir-riċerka. Ġeneralment il-paga medja ta' persuna b'diżabilità
-hija (sa) €800 fix-xahar, 37.990 tal-persuni li qed jaħdmu għandhom din il-paga
+hija (sa) €800 fix-xahar, 37.99, tal-persuni li qed jaħdmu għandhom din il-paga
 u 48.390 tal-persuni b'diżabilità kellhom din il-paga qabel.
 
 nstab ukoll li 58.390 tal-persuni b'diżabilità jaħdmu jew kienu jaħdmu fuq bażi
@@ -268,9 +265,9 @@ r-riżultati tal-iskemi tat-taħriġ fix-xogħol għal persuni b'diżabilità jv
 l-maġġoranza tal-parteċipanti qatt ma ħadu sehem fi skemi ta' dan
 
 it-tip. Fil-fatt 44.790 tal-parteċipanti li jaħdmu ħadu sehem fi skema tat-
-taħriġ għax-xogħol imma 55.390 qatt ma għamlu dan. 37.790 tal-persuni
+taħriġ għax-xogħol imma 55.39 qatt ma għamlu dan. 37.79, tal-persuni
 
-i ma jaħdmux ġieli pparteċipaw fi skemi bħal dawn imma 62.396 qatt ma
+i ma jaħdmux ġieli pparteċipaw fi skemi bħal dawn imma 62.39 qatt ma
 pparteċipaw. Persuni b'diżabilità li jaħdmu għandhom probabilità ogħla li
 jkunu ġew offruti xogħol fl-aħħar tal-iskema tat-taħriġ (45.790). Mill-banda
 -oħra, persuni b'diżabilità li ma jaħdmux għandhom iktar probabilità li ma
@@ -283,17 +280,16 @@ offerta għal xogħol.
 l-parteċipanti li qegħdin jew kienu qegħdin jaħdmu ġew mitluba jidentifikaw
 x'għenhom l-iżjed biex sabu jew żammew ix-xogħol tagħhom. L-iżjed prattika
 i għenet biex isibu (jew iżommul xogħol hija dik tal-job coaching lintgħażlet
-minn 31.696 tal-persuni li jaħdmu u 22.396 tal-persuni li kienu jaħdmu qabell.
+minn 31.696 tal-persuni li jaħdmu u 22.396 tal-persuni li kienu jaħdmu qabel).
 30.19 tal-parteċipanti li għandhom impjieg u 14.690 tal-persuni li kellhom
 impjieg qabel jemmnu li t-taħriġ għall-ħaddiema huwa t-tieni l-aqwa
 prattika li tintuża biex jinstab jew jinżamm il-post tax-xogħol.
 
-
 Il-maġġoranza tal-parteċipanti b'diżabilità wieġbu li jaħdmu jew kienu
 jaħdmu fis-settur privat, jiġifieri 55.890 tal-persuni li jaħdmu u 66.390
-tal-persuni li kienu jaħdmu qabel. 37.490 tal-persuni b'diżabilità li jaħdmu
+tal-persuni li kienu jaħdmu qabel. 37.49, tal-persuni b'diżabilità li jaħdmu
 
-u 25.890 tal-persuni li kien jaħdmu, jagħmlu dan jew kienu jagħmlu dan
+u 25.89 tal-persuni li kien jaħdmu, jagħmlu dan jew kienu jagħmlu dan
 fis-settur pubbliku. 26.790 tal-parteċipanti li jaħdmu għandhom jew kellhom
 xogħol imħallas ma' organizzazzjonijiet li jaħdmu fis-settur tad-diżabilità.
 1890 tal-persuni li kellhom xogħol qabel, kellhom xogħol ma' waħda minn
@@ -316,10 +312,10 @@ i l-konnessjonijiet familjari huma pperċepiti effettivi daqs l-aġenziji tal-
 impjieg biex persuni b'diżabilità jsibu xogħol.
 
 l-parteċipanti ġew mitluba jwieġbu jekk żammewx l-istess irwol (fl-impjieg
-preżenti). 68.490 tal-persuni b'diżabilità li jaħdmu ma bidlux l-irwol tagħhom,
+preżenti). 68.49 tal-persuni b'diżabilità li jaħdmu ma bidlux l-irwol tagħhom,
 ilwaqt li 31.690 kellhom irwoli differenti fl-istess post tax-xogħol. L-individwi
 i qalu li kellhom diversi xogħlijiet, ġew mitluba jwieġbu dwar il-progress
-l-impjieg tagħhom. Għal 38.590 tal-persuni li qegħdin jaħdmu, ix-xogħol li
+l-impjieg tagħhom. Għal 38.50 tal-persuni li qegħdin jaħdmu, ix-xogħol li
 kellhom qabel kien tal-istess grad filwaqt li għal 38.576 l-impjieg li kellhom
 qabel kien ta' grad iżjed baxx. 13.870 wieġbu li qabel kellhom xogħol ta'
 
@@ -334,7 +330,6 @@ e Ikollhom trasport mid-dar għax-xogħol u lura;
 e Aċċess fiżiku u aċċess għal komunikazzjoni u informazzjoni fuq
 il-post tax-xogħol;
 
-
 Akkomodazzjoni raġonevoli, li tinkludi teknoloġija assistiva, proviżjoni
 ta' sapport u arranġamenti għall-flessibilità fil-ħinijiet tax-xogħol;
 
@@ -347,7 +342,7 @@ L-għarfien tad-drittijiet bħala persuna b'diżabilità.
 
 Minn dawn il-kwistjonijiet kollha, il-maġġoranza tal-persuni li jaħdmu
 jemmnu li l-interazzjoni mas-superjuri u l-kollegi tagħhom sejra tajjeb.
-88.890 stqarrew li l-interazzjoni mas-superjuri sejra tajjeb filwaqt li 87.990
+88.890 stqarrew li l-interazzjoni mas-superjuri sejra tajjeb filwaqt li 87.99
 jemmnu li l-interazzjonijiet mal-kollegi ta' fuq ix-xogħol sejrin tajjeb ukoll.
 Mill-banda l-oħra, l-iżjed kwistjonijiet problematiċi huma 'l-abilità li ssuq'
 u 'l-għarfien tad-drittijiet bħala persuna b'diżabilità' hekk kif kważi kwart
@@ -402,7 +397,7 @@ għandhom x'jaqsmu ma' salarju.
 Meta ġew mitluba jidentifikaw tliet raġunijiet għaliex ma sabux impjieg
 
 ieħor, l-iżjed raġuni komuni (26.990) kienet minħabba li ma sabux xogħol
-bil-kundizzjonijiet adatti għalihom. 16.196 stqarrew li ma jistgħux ikomplu
+bil-kundizzjonijiet adatti għalihom. 16.16 stqarrew li ma jistgħux ikomplu
 jaħdmu. 2.290 tal-parteċipianti sostnew li ma jistgħux isibu impjieg minħabba
 li ma ġewx aċċettati minn min iħaddem.
 
@@ -435,7 +430,7 @@ ma kinux interessanti.
 41.59 mill-parteċipanti mingħajr impjieg qegħdin ifittxu xogħol b'mod attiv.
 Ħafna minn dawn (65.490) huma lesti li jaċċettaw offerta ta' impjieg filwaqt
 li 33.89 jippreferu li jibqgħu mingħajr xogħol. 59.290 mill-parteċipanti li
-ma jaħdmux huma lesti li jaċċettaw post fuq skema ta' taħriġ imma 33.890
+ma jaħdmux huma lesti li jaċċettaw post fuq skema ta' taħriġ imma 33.89
 
 qegħdin b'mod a
 
@@ -446,7 +441,7 @@ impjieg jew ta' taħriġ għax-xogħol jinkludu:
 
 e Il-kundizzj
 
-onijiet tax-xogħol;
+jonijiet tax-xogħol;
 
 e Id-distanza għall-post tax-xogħol jew tat-taħriġ;
 
@@ -494,10 +489,10 @@ fil-forzi armati.
 
 edukazzjoni u esperjenzi minn xogħlijiet preċedenti huma ta' għajn
 
-lus, filwaqt li 19.290 identifikaw l-abilità li tissoċja
+lus, filwaqt li 19.29 identifikaw l-abilità li tissoċja
 ieni.
 
-agħżlu l-impjieg tagħhom. L-ebda persuna li qed t
+agħżlu l-impjieg tagħhom. L-ebda persuna li qed ti
 
 izza bħala
 
@@ -535,7 +530,7 @@ jew mard serju (47.590).
 Xi risposti oħra li ngħataw minn persuni li ma jaħdmux u li mhumiex qegħdin
 ifittxu xogħol, jirriżultaw minn kawżi ambjentali. Dawn jinkludu:
 
-e 42.190 għandhom bżonn arranġamenti ta' flessibilità fuq il-post tax-
+e 42.19 għandhom bżonn arranġamenti ta' flessibilità fuq il-post tax-
 xogħol u għadhom ma sabux lil xi ħadd li jħaddimhom u joffrilhom dan;
 31.790 m'għandhomx mezz ta' trasport biex imorru x-xogħol;
 
@@ -544,26 +539,25 @@ xogħol u għadhom ma sabux lil xi ħadd li jħaddimhom u joffrilhom dan;
 24.690 m'għandhomx l-assistenza neċessarja biex jippreparaw biex
 immorru għax-xogħol;
 
-24.190 attendew diversi intervisti fil-passat imma qatt ma ġew
+24.19, attendew diversi intervisti fil-passat imma qatt ma ġew
 magħżula;
 209 għamlu sena jfittxu impjieg imma qatt ma ġew mitluba jattendu
 għal intervista; u
 
-e 20.790 għandhom il-ġenituri tagħhom li ma jriduhomx isibu impjieg.
+e 20.70 għandhom il-ġenituri tagħhom li ma jriduhomx isibu impjieg.
 
 L-iktar tliet attivitajiet li ssemmew b'mod frekwenti mill-parteċipanti li mhux
-qed ifittxu xogħol huma; li jipparteċipaw f'attivitajiet ta' rikreazzjoni (41.390);
-imorru jixtru (37.590); u jipparteċipaw f'attivitajiet reliġjużi (30.490).
+qed ifittxu xogħol huma; li jipparteċipaw f'attivitajiet ta' rikreazzjoni (41.30);
+imorru jixtru (37.590); u jipparteċipaw f'attivitajiet reliġjużi (30.40).
 
-Dawk li qegħdin b'mod attiv ifittxu xogħol jammontaw għal 41/0 mill-grupp
+Dawk li qegħdin b'mod attiv ifittxu xogħol jammontaw għal 410 mill-grupp
 sħiħ ta' persuni mingħajr impjieg. Dan jinkludi kemm lil dawk li qatt ma
 ħadmu u kif ukoll li kellhom impjieg qabel. Kwazi terz ta' dawk li qatt ma
-ħadmu (32.490) qegħdin ifittxu xogħol, bil-motivazzjoni ewlenija hija l-bżonn
+ħadmu (32.49) qegħdin ifittxu xogħol, bil-motivazzjoni ewlenija hija l-bżonn
 li jissoċjalizzaw ma' individwi oħra. Ħafna minn dawn huma lesti li jieħdu
 taħriġ relatat mal-impjieg u jixtiequ wkoll xogħol klerikali. Ir-raġunijiet
 tas-saħħa huma l-iżjed raġunijiet komuni (54.890) għaliex persuni li qabel
 kellhom impjieg, issa ma jridux jaħdmu jew inkella mhux qed ifittxu xogħol.
-
 
 IS-SEJBIET EWLENIN MILL-INTERVISTI U
 MILL-GRUPPI FOKALI MA' MIN IĦADDEM
@@ -577,7 +571,7 @@ dawn attendew total ta' 28 rappreżentant ta' min iħaddem.
 Il-maġġoranza ta' dawk li ġew intervistati, huma rappreżentanti ta' kumpaniji
 / intrapriżi ta' daqs medju (46.29), segwiti minn rappreżentati ta' kumpaniji
 
-/ intrapriżi kbar (40.490). Il-manifattura kien l-iktar settur ekonomiku li ġie
+/ intrapriżi kbar (40.40). Il-manifattura kien l-iktar settur ekonomiku li ġie
 rrappreżentat (2599), filwaqt li gruppi żgħar ta' dawk li wieġbu jaħdmu fil-
 kostruzzjoni, fl-edukazzjoni u f'attivitajiet professjonali, xjentifiċi u tekniċi. Il-
 maġġoranza tal-kumpaniji / intrapriżi li wieġbu jinsabu Malta (93.890) filwaqt
@@ -603,13 +597,12 @@ għal dak ix-xogħol, ma jkollhomx biżżejjed ħiliet u għarfien dwar ir-rwol,
 jkollhomx biżżejjed kwalifiki, jew inkella għax ikunu sabu kanditat li jkun aħjar
 għar-rwol offrut. Dawn ir-raġunijiet ikopru 65.3890 tal-persuni intervistati.
 
-84.690 ta' dawk li wieġbu, impjegaw bejn 1 sa 10 persuni b'diżabilità
+84.69, ta' dawk li wieġbu, impjegaw bejn 1 sa 10 persuni b'diżabilità
 
 'perjodu ta' ħames snin. Mill-bqija, 3.890 biss (jiġifieri 2 parteċipanti) wieġbu
-i jħaddmu bejn 51 u 100 persuna b'diżabilità. 69.290 tal-persuni li ġew
-intervistati jħaddmu l-persuni b'diżabilità fuq bażi full-time filwaqt li 30.890
-jħaddmu l-persuni b'diżabilità fuq bażi part-time. 29.590 ta' min iħaddem
-
+i jħaddmu bejn 51 u 100 persuna b'diżabilità. 69.29, tal-persuni li ġew
+intervistati jħaddmu l-persuni b'diżabilità fuq bażi full-time filwaqt li 30.89
+jħaddmu l-persuni b'diżabilità fuq bażi part-time. 29.59, ta' min iħaddem
 
 b'diżabilitajiet intellettwali. L-inqas komuni kienu impjegati b'nuqqas ta' vista
 hekk kif 7.190 minn dawk intervistati għandhom ħaddiema b'nuqqas ta' vista.
@@ -629,7 +622,7 @@ jaqilgħu bejn €801 u €2,500 fix-xahar. L-ebda persuna li tħaddem ma
 ddikjarat ħaddiema b'diżabilità li jaqilgħu iżjed minn €5,000 fix-xahar. Iżjed
 min-nofs tal-persuni li jħaddmu u li ġew intervistati (55.80) m'għandhomx
 ħaddiema b'diżabilità li progressaw fil-karriera tagħhom minn mindu bdew
-jaħdmu mal-kumpanija. 44.290 tal-persuni li jħaddmu individwi b'diżabilità
+jaħdmu mal-kumpanija. 44.29, tal-persuni li jħaddmu individwi b'diżabilità
 rrappurtaw progress fil-karriera tal-ħaddiema b'diżabilità. Uħud minn dawk
 i jħaddmu, u li ġew intervistati, jemmnu li l-progress fil-karriera huwa iżjed
 aċli għal persuni li għandhom diżabilità fiżika milli għal persuni b'diżabilità
@@ -638,7 +631,7 @@ iżjed xogħol u/jew responsabbiltajiet.
 
 Kważi tliet persuni minn kull erbgħa li jħaddmu u li ġew intervistati (71.299)
 joffru opportunitajiet ta' taħriġ intern għal persuni b'diżabilità, madankollu,
-23.190 dan ma jagħmluhx. Barra minn hekk, 63.590 mhux qed jipprovdu
+23.190 dan ma jagħmluhx. Barra minn hekk, 63.50 mhux qed jipprovdu
 opportunitajiet ta' edukazzjoni u taħriġ għal ħaddiema b'diżabilità barra
 mill-post tax-xogħol, filwaqt li 32.790 jipprovdu opportunitajiet għal persuni
 b'diżabilità barra mill-post tax-xogħol. Uħud minn dawk li mhux qed
@@ -646,14 +639,13 @@ jipprovdu l-opportunitajiet, stqarrew li huma lesti joffru u jissapportjaw
 taħriġ u edukazzjoni barra mill-post tax-xogħol, ġaladarba dan ikun meħtieġ
 jew mitlub mill-ħaddiema b'diżabilità.
 
-Il-maġġoranza tal-parteċipanti (69.290) indikaw li l-postijiet tax-xogħol
+Il-maġġoranza tal-parteċipanti (69.29) indikaw li l-postijiet tax-xogħol
 
 tagħhom huma attrezzati biex jaqdu l-bżonnijiet tal-ħaddiema b'diżabilitajiet
 fiżiċi billi jipprovdu aċċessibilità fiżika. Iktar min-nofs sostnew li jipprovdu
 sapport kemm fil-bidu u kif ukoll b'mod kontinwu lil ħaddiema b'diżabilità.
 
 Madwar 21.290 jippreferu l-għażla li jaħdmu mid-dar u jħaddmu sistema ta'
-
 
 sigħat ta' xogħol flessibbli. 65.490 tal-persuni li jħaddmu u li ġew intervistati
 jiffinanzjaw huma stess l-aġġustamenti meħtieġa għal ħaddiema b'diżabilità.
@@ -678,7 +670,7 @@ Reġistru ta' Persuni b'Diżabilità tal-Jobsplus.
 57.794 tal-persuni li ġew intervistati qatt ma kellhom kuntatt mas-CRPD, filwaqt
 
 li 36.570 għandhom jew kellhom kuntatt ma' din l-entità. Minn dawn is-36.594 li
-għamlu kuntatt mas-CRPD, 38.890 staqsew għal pariri dwar aġġustamenti mitluba
+għamlu kuntatt mas-CRPD, 38.80 staqsew għal pariri dwar aġġustamenti mitluba
 għal impjegati b'diżabilità. Iżjed min-nofs tal-persuni li jħaddmu u li ġew intervistati
 qatt ma ġew kuntattjati mis-CRPD dwar ilmenti li jirrigwardaw każi allegati ta'
 diskriminazzjoni, mentri 44.490 ġew kuntattjati minn din il-Kummissjoni. Il-persuni
@@ -695,8 +687,7 @@ rrapportaw li l-iskemi huma ffinanzjati mill-Gvern ta' Malta.
 b'diżabilità joqogħdu lura milli jaqsmu informazzjoni dwar id-diżabilità
 tagħhom u dan jista' jwaqqafhom milli jsibu xogħol. Barra minn hekk, 44.290
 jemmnu li n-nuqqas ta' esperjenza relatata max-xogħol ittellef lil persuni
-b'diżabilità milli jsibu impjieg. 36.590 iżommu lura milli jimpjegaw persuni
-
+b'diżabilità milli jsibu impjieg. 36.59 iżommu lura milli jimpjegaw persuni
 
 b'diżabilità minħabba l-bidliet (perċepiti) fil-prattiċi tax-xogħol li ilhom
 stabbiliti. 34.670 tal-persuni li jħaddmu jemmnu li l-arranġamenti għal
@@ -831,9 +822,9 @@ Jobsplus;
 Il-Fondazzjoni Lino Spiteri;
 
 The Malta Chamber of Commerce, Enterprise and Industrv (Il-Kamra
-tal-Kummerċ ta' Maltal);
+tal-Kummerċ ta' Malta);
 
-Malta Chamber of SMEs (Il-Kamra tan-Negozji Żgħar u Medii);
+Malta Chamber of SMEs (Il-Kamra tan-Negozji Żgħar u Medji);
 
 Malta Emplovers Association (L-Assoċjazzjoni ta' Min Iħaddem);
 It-trejdjunjins; u

@@ -14,7 +14,7 @@ Indaqs għall-Persuni b'Diżabilità'.
 
 2. F'din il-Liġi dawn il-kliem ifissru hekk:
 
-— Id-diżabilità tfisser li l-persuna
+-— id-diżabilità tfisser li l-persuna
 jkollha nuqqas fil-ġisem jew fil-moħħ li
 minħabba fih ma tkunx tista' tagħmel
 kull ma għandha bżonn.
@@ -38,7 +38,7 @@ il-persuna b'diżabilità minflok il-
 — KNPPD tfisser il-Kummissjoni Nazzjonali
 Persuni b'Diżabilità
 
-— Ministru tfisser il-Ministru li jieħu ħsieb
+-— Ministru tfisser il-Ministru li jieħu ħsieb
 dak li għandu x'jaqsam mal-persuni
 b'diżabilità.
 
@@ -133,7 +133,7 @@ jsirx;
 
 7d.
 
-— persuna b'diżabilità li għandha bżonn
+-— persuna b'diżabilità li għandha bżonn
 xi tibdil li mhux kbir ħafna ma jkollhiex
 ċans taħdem;
 
@@ -151,7 +151,7 @@ xogħol.
 Diskriminazzjoni tista' ssir kontra membri
 tal-familja tal-persuna b'diżabilità jew
 nies oħra li huma qrib ħafna tagħha. Min
-iħaddem ma jistax ma jagħtix xogħoll lil
+iħaddem ma jistax ma jagħtix xogħol lil
 dawn il-persuni jekk huma tajbin biex
 jagħmlu dan ix-xogħol.
 
@@ -207,7 +207,7 @@ xogħol;
 
 — lijkun hemm tibdil fil-magni
 
-- lijinxtraw magni jew apparat ieħor
+- li jinxtraw magni jew apparat ieħor
 apposta;
 
 — lijkun hemm tibdil fil-mod kif isir it-
@@ -270,7 +270,7 @@ Trade unions huma għaqdiet li jieħdu
 jagħmlu diskriminazzjoni kontra persuni
 b'diżabilità. Dan ifisser dawn l-affarijiet:
 
-— persuni b'diżabilità jew membri tal-
+-— persuni b'diżabilità jew membri tal-
 familja tagħhom għandhom dritt ikunu
 membru ta' trade union;
 
@@ -279,7 +279,7 @@ b'diżabilita jew membri tal-familja
 tagħhom ma jistgħux ikunu membri
 tagħha;
 
-— persuni b'diżabilità jew membri tal-
+-— persuni b'diżabilità jew membri tal-
 familja tagħhom li huma membri ta'
 trade union għandhom l-istess drittijiet
 bħall-membri l-oħra ta' dik il-union.
@@ -393,12 +393,12 @@ vapur jew ajruplan;
 — lituża s-servizz ta' xi ħadd (per
 eżempju bajjad, tabib);
 
-— litkun membru ta' klabb jew għaqda;
+-— litkun membru ta' klabb jew għaqda;
 
 — litgawdi d-drittijiet tiegħek u tagħmel
 id-dmirijiet tiegħek;
 
-— servizzi u oġġetti oħra li l-Ministru jgħid
+-— servizzi u oġġetti oħra li l-Ministru jgħid
 li għandhom jidħlu f'din il-Liġi.
 
 Din il-lista tagħti eżempji ta' servizzi u
@@ -423,11 +423,11 @@ tagħhom għandhom dritt li jkollhom fejn
 joqogħdu. Min jikri jew ibiegħ postijiet ma
 jistax jagħmel diskriminazzjoni.
 
-— Persuni b'diżabilità jew membri tal-
+-— Persuni b'diżabilità jew membri tal-
 familja tagħhom għandhom dritt
 japplikaw għal post fejn joqgħodu.
 
-— Persuni b'diżabilità jew membri tal-
+-— Persuni b'diżabilità jew membri tal-
 familja tagħhom għandhom id-dritt li
 jikru jew jixtru post fejn joqgħodu bl-
 istess mod bħal nies oħra.
@@ -554,7 +554,7 @@ tibdil f'dawn l-affarijiet:
 
 — il-mod kif tieħu servizz;
 
-— il-mod kif tuża karozza tal-linja jew
+-— il-mod kif tuża karozza tal-linja jew
 vettura oħra, vapur, ajruplan jew mod
 ieħor biex tivjaġġa;
 
@@ -647,7 +647,7 @@ e taħdem biex ma jibqax ikun hemm
 diskriminazzjoni kontra persuni
 b'diżabilità;
 
-e tarali n-nies jobdu din il-Liġi;
+e tara li n-nies jobdu din il-Liġi;
 
 e meta persuna b'diżabilità tgħid li
 saret diskriminazzjoni kontriha,
@@ -662,7 +662,7 @@ e tgħin lill-persuni b'diżabilità biex id-
 drittijiet tagħhom ikunu mħarsa. Hi
 tista' tgħin billi tipprovdi avukat;
 
-e tarali din il-Liġi qed taħdem tajjeb u
+e tara li din il-Liġi qed taħdem tajjeb u
 jekk ikun hemm bżonn xi tibdil tgħid
 lill-Ministru;
 
@@ -684,7 +684,7 @@ Chairman jew il-Viċi Chairman jidhru
 f'isem il-KNPD. Huma jistgħu wkoll
 jagħżlu lil xi ħadd li jidher f'isimhom.
 
-24a. Il-membri tal-Bord tal-KNPD idumu
+244. Il-membri tal-Bord tal-KNPD idumu
 sentejn fuq il-Bord. Il-Prim Ministru jista'
 jerġa jagħżilhom.
 
@@ -695,7 +695,7 @@ dawn l-affarijiet:
 
 — ma jattendix il-laqgħat tal-Bord tal-
 KNPD għal sitt xhur mingħajr ma
-jkun hemm ftehim mal-KNPPD li jista'
+jkun hemm ftehim mal-KNPD li jista'
 jagħmel dan;
 
 — ikollu ħafna dejn jew ikun kiser xi liġi;
@@ -706,7 +706,7 @@ jagħmel dan;
 ministeru jew għaqda u ma jibqax ma'
 dak il-ministeru jew dik l-għaqda.
 
-25a. Biex issir laqgħa tal-Bord tal-KNPD irid
+254. Biex issir laqgħa tal-Bord tal-KNPD irid
 ikun hemm mill-inqas 5 membri li wieħed
 minnhom ikun iċ-Chairman jew il-Viċi
 Chairman.
@@ -716,7 +716,7 @@ xi membru tal-Bord tal-KNPD ikun nieqes.
 
 25ċ. Il-membri tal-Bord tal-KNPD jiddeċiedu
 billi jivvutaw. Jekk il-voti kontra u favur
-ikunu indaqgs, jiddeċiedi ċ-Chairman.
+ikunu indaqs, jiddeċiedi ċ-Chairman.
 Jekk ma jkunx hemm, jiddeċiedi l-Viċi
 Chairman.
 
@@ -775,7 +775,7 @@ jagħżel lil xi ħaddieħor minfloku.
 27d. Meta ħaddiem tal-Gvern ikun qed
 jaħdem mal-KNPD, hu jrid jimxi mar-
 regoli tal-KNPD u jaħdem skont kif tgħidlu
-l-KNPD. Imma hu xotrta jibqa' ħaddiem
+l-KNPD. Imma hu xotta jibqa' ħaddiem
 tal-Gvern.
 
 27e. Meta ħaddiem tal-Gvern ikun jaħdem
@@ -852,7 +852,7 @@ X'Għandha Tagħmel il-KNPD Jekk Xi Ħadd
 Jgħid Li Hemm Diskriminazzjoni Kontra
 Persuni b'Diżabilità.
 
-32a. Jekk il-KNPD taħseb li hemm
+324. Jekk il-KNPD taħseb li hemm
 diskriminazzjoni hi tista' taħdem biex tara
 x'ġara.
 

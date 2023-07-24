@@ -1,0 +1,37 @@
+Kif tittieħed bil-Coronavirus7
+
+Tista' tittieħed bil-Coronavirus jekk kont f'xi wieħed minn dawn il-
+pajjiżi hawn taħt, fejn hemm ħafna nies li kellhom dan il-virus
+dawn l-aħħar ġimgħat:
+
+Dawn huma l-Cambodia, China, Hong Kong, Iran, Japan, Laos,
+Malavsia, Macau, Mvanmar, Italja, Singapore, South Korea,
+Taiwan, Thailand, Vietnam.
+
+jew
+
+jekk kont viċin xi ħadd li t-tabib qaltlu jew qalilha li għandha l-
+Coronavirus.
+
+Il-Coronavirus tista' ġġiegħel lil xi nies iħossuhom ma jifilħux ħafna u
+anke jmutu.
+
+Dawn in-nies ħafna drabi jkunu diġà jħossuhom ma jifilħux peress li
+jkollhom xi mard ieħor jew ikunu kbar fl-età.
+
+Kif tinduna li jista' jkollok il-Coronavirus7
+Jekk inti jkollok:
+
+:- Sogħla
+4 Deni
+:- Taqta' nifsek jew ma tkunx tista' tieħu nifs sew
+
+ma jfissirx li inti għandek il-Coronavirus, jista' jkollok riħ jew xi virus
+ieħor.
+
+Jista' jkollok il-Coronavirus jekk ikollok is-sogħla jew id-deni, jew
+ma tkunx tista' tieħu nifs sew u:
+
+X: Tkun mort f'xi pajjiż fejn hemm ħafna nies li kellhom dan il-
+virus dawn l-aħħar ġimgħat.
+

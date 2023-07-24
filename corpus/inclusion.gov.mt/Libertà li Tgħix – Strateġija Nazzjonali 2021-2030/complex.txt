@@ -4,8 +4,8 @@ TGĦIX
 Strateġija Nazzjonali 2021-2030 għal Malta
 dwar id-Drittijiet ta' Persuni b'Diżabilità
 
-iKlefejt
-IEIE O RIIEJATBJI
+abela
+tal-Kontenut
 
 Ċjesszut
 
@@ -49,7 +49,7 @@ ICT
 
 IEP
 
-IMU
+MU
 
 KLSM
 
@@ -69,7 +69,7 @@ ummissjoni għad-Drittijiet ta' Persuni b'Diżabilità
 
 D
 
-KI
+Ki
 
 Direttorat għall-Affarijiet dwar id-Diżabilità
 
@@ -123,7 +123,7 @@ UN ESCWA Il-Kummissjoni Ekonomika u Soċjali tal-Ġnus Magħquda għall-Asja tal
 
 WCAG Linji Gwida dwar l-Aċċessibilità tal-Kontenut Web
 
-Dilajt
+Daħla
 
 mill-Onor. Ministru
 
@@ -148,7 +148,7 @@ għandu l-ebda konnessjoni mar-realtà.
 Din hija r-raġuni għaliex dan id-dokument
 ġie ffinalizzat biss wara konsultazzjoni
 pubblika, li matulha konna ċerti li ninkludu
-l-ilħna u l-aspirazzjonijiet ta' persuni
+l-ilħna u. l-aspirazzjonijiet ta' persuni
 differenti involuti fis-settur tad-diżabilità —
 membri tal-familja, persuni li jaħdmu fis-
 settur, akkademiċi, professjonisti u, l-aktar
@@ -164,7 +164,6 @@ aħna mhux biss irridu nikkonsultaw u
 ninvolvu lin-nies qabel ma niffinalizzaw
 l-Istrateġija Nazzjonali tad-Diżabilità, iżda
 wkoll wara, meta nimplimentawha.
-
 
 F'konformità mal-obbligi tagħha skont
 il-Konvenzjoni, Malta waqqfet ukoll
@@ -183,7 +182,7 @@ jaħdmu fis-settur tad-Diżabilità f'Malta,
 sabiex jiġu flimkien fuq bażi regolari, u
 jikkooperaw aħjar fir-rigward ta' materji
 tekniċi. Dan ser jiġi ssupplimentat minn
-Kumitat Inter-Ministerjali,  sabiex jiġi
+Kumitat Inter-Ministerjali, sabiex jiġi
 żgurat li d-diskussjonijiet tekniċi mbagħad
 jiġu segwiti wkoll minn rappreżentanti
 ta' Ministeri u Segretarjati Parlamentari
@@ -218,7 +217,7 @@ għal dan id-dokument finali. Jiena kburija
 i qed nara lil dan il-Gvern jissodisfa
 wegħda elettorali oħra billi jippubblika din
 -Istrateġija Nazzjonali dwar id-Diżabilità,
-u nixtieq nitringrazzja wkoll minn qabel
+u nixtieq nirringrazzja wkoll minn qabel
 il dawk kollha li se jaħdmu biex jagħmlu
 -Libertà li Tgħix realtà.
 
@@ -226,15 +225,15 @@ Julia Farrugia Portelli
 Ministru għall-Inklużjoni
 u l-Kwalità tal-Ħajja
 
-'74(0)8)
+77JONI
 eqejel
 
 L-għan ewlieni ta' din l-Istrateġija huwa li
-iijeje/ġoiZellfojiialelid-744(018r1 je a R IEJNIV gE TO
+tipprovdi pjan direzzjonali għas-settur tad-
 diżabilità Malti matul is-snin li ġejjin, li jwassal
 għall-2030, is-sena identifikata għall-kisba
 tal-Għanijiet ta' Żvilupp Sostenibbli tal-Ġnus
-i(fetejntejbfercħ
+Magħquda.
 
 Fl-2015, Malta ffirmat ukoll impenn
 biex jiġu implimentati dawn l-għanijiet,
@@ -247,7 +246,7 @@ Persuni b'Diżabilità (UNCRPD).
 Wara l-Politika Nazzjonali tal-2014 dwar
 id-Drittijiet ta' Persuni b'Diżabilità, din
 l-Istrateġija tkopri l-oqsma kollha indirizzati
-minn dik il-Politika, u  tissottoskrivi
+minn dik il-Politika, u tissottoskrivi
 għall-istess etos trasversali, li l-persuni
 b'diżabilità kollha, irrispettivament minn
 min huma jew x'inhu l-isfond tagħhom,
@@ -273,7 +272,6 @@ Qafas ta' Sendai dwar it-Tnaqqis tar-Riskju
 ta' Diżastri, illi ssir referenza għalihom
 ukoll f'dan id-dokument, wara l-aderenza
 ta' Malta fir-rigward tagħhom. Barra minn
-
 
 hekk, l-approċċ lejn kwistjonijiet bħall-
 Għajxien Indipendenti u Komunitarju kien
@@ -307,9 +305,9 @@ fil-livelli kollha ta' politika u ta' teħid ta'
 deċiżjonijiet, u; l-iżgurar tal-istabbiliment
 u l-funzjonament xieraq ta' mekkaniżmu
 ta' parteċipazzjoni għas-soċjetà. ċivili,
-ENGAGE, . sabiex jikkontribwixxi kemm
+ENGAGE,. sabiex jikkontribwixxi kemm
 għall-kunċettwalizzazzjoni kif ukoll
-għall-implimentazzjoni — eventwali — tal-
+għall-implimentazzjoni eventwali tal-
 politika u tat-teħid ta' deċiżjonijiet. Dan
 huwa f'konformità mal-Artikolu 4(3) tal-
 Konvenzjoni, u l-Kumment Ġenerali Nru
@@ -328,7 +326,7 @@ kontroll tal-Libertà tagħhom li. Jgħixu,
 jibqa' dejjem l-aktar fattur importanti f'dan
 ir-rigward.
 
-m sARE VA70
+Han ta Azzjoni
 ghall-Istrateġia
 
 L-Azzjonijiet kollha f'din l-Istrateġija huma kkodifikati bil-kulur skont il-perjodi ta' żmien li
@@ -345,8 +343,8 @@ Roża: Għandha titwettaq fis-sentejn li ġejjin
 Oranġjo: Għandha titwettaq fil-5 snin li ġejjin
 Aħdar: Għandha titwettaq fid-9 snin li ġejjin
 
-inafe)jaqte MitC7/4(0)01
-iEINSUENEEOJE
+impiIMENtZZJONI
+tal-Istrateġija
 
 L-implimentazzjonita' dinl-Istrateġijatkun
 tiddependi mill-operat tal-Mekkaniżmu
@@ -355,17 +353,17 @@ id-Direttorat għall-Affarijiet dwar id-
 Diżabilità (DDI).
 
 Dan qed jiġistabbilit fit-termini tal-Artikolu
-33(1) tal-UNCRPD, u huwa previst
+33(1) tal-UNCRPD, u. huwa previst
 ukoll fl-Att tal-UNCRPD. Il-Mekkaniżmu
-jikkonsisti f'żewġ  partijiet. L-ewwel
+jikkonsisti f'żewġ partijiet. L-ewwel
 parti hija l-Kumitat ta' Koordinazzjoni
-Interdipartimentali (IDCC), l— jlaqqa'
+Interdipartimentali (IDCC), li jlaqqa'
 flimkien rappreżentanti ta' awtoritajiet,
 aġenziji u entitajiet differenti tal-Gvern,
 li x-xogħol tagħhom jorbot direttament
 jew b'mod tanġenzjali mas-settur tad-
-diżabilità. It-tieni parti hija  l-Kumitat
-Amministrattiv- Inter-Ministerjali: dwar
+diżabilità. It-tieni parti hija l-Kumitat
+Amministrattiv. Inter-Ministerjali: dwar
 id-Diżabilità (IACD), li jlaqqa' flimkien
 rappreżentanti ta' Ministeri differenti.
 
@@ -380,7 +378,7 @@ differenti ta' din l-Istrateġija.
 
 Filwaqt li l-biċċa l-kbira tal-partijiet
 interessati joperaw fuq livell nazzjonali,
-rwol:- partikolari huwa previst għall-
+rwol: partikolari huwa previst għall-
 Kunsilli Lokali, minħabba l-għarfien lokali
 tagħhom, u l-abilità tagħom li jingaġġaw
 atturi diversi fil-komunitajiet tagħhom.
@@ -390,7 +388,7 @@ indipendenti fi ħdan il-komunità għall-
 persuni kollha b'diżabilità.
 
 Qed tiġi stabbilita wkoll sistema ta'
-rappurtar. — dwar: l-implimentazzjoni
+rappurtar. dwar: l-implimentazzjoni
 tal-partijiet kollha ikkonċernati mid-
 DDI, li permezz tagħha rapporti ta'
 progress trimestrali jiġu ppreżentati
@@ -403,13 +401,12 @@ Koordinazzjoni tad-DDI, u permezz ta'
 ENGAGE, il-mekkaniżmu tad-DDI għal
 parteċipazzjoni mis-soċjetà ċivili.
 
-
-Mejajjiej(ete/e
-iEINSIUKENEEOJE
+Monitoraġġ
+tal-Istrateġija
 
 Il-monitoraġġ tal-implimentazzjoni tal-
 Istrateġija se jkun fi ħdan il-kompetenza
-tal-Kummissjoni — għad-Drittijiet — ta'
+tal-Kummissjoni għad-Drittijiet — ta'
 Persuni b'Diżabilità (CRPD), maħtur
 bħala l-mekkaniżmu ta' monitoraġġ
 indipendenti ta' Malta ai termini tal-
@@ -436,7 +433,6 @@ OBJEMIM
 
 RIFORMI U UGWALJANZA
 
-
 Punti pożittivi, Sfidi u
 Opportunitajiet
 
@@ -451,14 +447,14 @@ L-istrutturi rilevanti għandhom. jinħolqu
 permezz ta' din. il-leġiżlazzjoni, bħal
 sistema strutturata ta' punti fokali, u
 mekkaniżmu nazzjonali ta' koordinazzjoni,
-għall-kollaborazzjoni dwar : kwistjonijiet
+għall-kollaborazzjoni dwar kwistjonijiet
 trasversali bejn dipartimenti u Ministeri
 differenti.
 
-Fl-ispirtu  tal-Konvenzjoni  ta'
-'Xejn — Dwarna,  Mingħajrna',
+Fl-ispirtu tal-Konvenzjoni ta'
+'Xejn Dwarna,  Mingħajrna',
 mekkaniżmu ta' parteċipazzjoni
-tas-soċjetà  ċivili: — jikkompleta
+tas-soċjetà ċivili: — jikkompleta
 l-qafas tal-entitajiet rilevanti li
 jgħinu l-implimentazzjoni.
 
@@ -475,7 +471,7 @@ assessjar tad-diżabilità u tal-eliġibbiltà
 għal programmi għandhom jiġu riformati
 f'sistema unifikata u olistika bbażata fuq
 kriterji funzjonali u soċjali, minflok kriterji
-mediċi,  fl-interess  tas-simplifikazzjoni,
+mediċi, fl-interess  tas-simplifikazzjoni,
 is-sostenibbiltà u d-dinjità tal-persuni
 b'diżabilità li jkollhom jużaw dawn. is-
 sistemi.
@@ -521,7 +517,7 @@ Dokumentazzjoni ewlenija oħra
 1.2.1 Is-CRPD għandha tkompli bl-isforzi li qed isiru permezz tal-grupp ta' ħidma
 tagħha, li qed jgħaddi l-leġiżlazzjoni u dokumentazzjoni importanti oħra, biex:
 
-1.21.1 Jimmappja l-leġiżlazzjoni u d-dokumenti ta' politika kollha li jkollhom effett
+1.2.1 Jimmappja l-leġiżlazzjoni u d-dokumenti ta' politika kollha li jkollhom effett
 fuq il-persuni b'diżabilità u d-drittijiet tagħhom;
 
 1.2.1.2 Jidentifika klawżoli li jiddiskriminaw kontra persuni b'diżabilità. Dan jestendi
@@ -544,7 +540,7 @@ Assessjar tad-Diżabilità u Riforma fl-Eliġibbiltà tal-Programmi
 
 1.3.2
 
-1.3.38
+1.3.3
 
 1.3.4
 
@@ -576,10 +572,10 @@ entità, filwaqt li tiġi indirizzata l-komunikazzjoni bejn il-professjonisti f'
 u għandha tiġi implimentata b'kongruwenza mar-riforma li toħloq sistema unika
 olistika ta' assessjar tad-diżabilità.
 
-GES IINAZ
+OBJETTIV 2
 
 RIĊERKA U ĠBIR
-TA' DAITA
+TA' DAIA
 
 Punti pożittivi, Sfidi u
 Opportunitajiet
@@ -588,7 +584,7 @@ Dan l-Objettiv jenfasizza l-importanza tar-
 Riċerka, filwaqt li jipprevedi għal Ġbir ta'
 Data effiċjenti u konformi mal-Konvenzjoni.
 F'din l-aħħar istanza, l-osservanza tal-
-kriterji tal-aħjar  prattiċi, bħal: dawk
+kriterji tal-aħjar prattiċi, bħal: dawk
 żviluppati mill-Grupp ta' Washington tal-
 Ġnus Magħquda dwar l-Istatistika dwar id-
 Diżabilità, tkun żgurata meta jsiru eżerċizzji
@@ -599,7 +595,6 @@ ta' Reġistru Nazzjonali tad-Diżabilità, li
 jkun marbut mal-proċess ta' riforma tal-
 assessjar tad-diżabilità msemmi fl-Objettiv
 1.
-
 
 Riċerka speċifika dwar oqsma ewlenin,
 
@@ -631,7 +626,7 @@ l-konklużjoni ta' Memorandum. ta' Qbil
 
 bejn il-Gvern u d
 
--Dipartiment. tal-Istudji
+Dipartiment. tal-Istudji
 
 dwar id-Diżabilità tal-Università ta' Malta, u
 
@@ -699,13 +694,13 @@ akkademiċi
 
 2.3.1
 
-2012
+2:02
 
 2.3.8
 
 2.3.4
 
-2,8.5
+28.5
 
 Il-Ministeru għad-Drittijiet tal-Persuni b'Diżabilità, id-DDS u l-ADSU għandhom
 jidħlu f'diskussjonijiet, iffaċilitati mid-DDI, bil-għan li jidentifikaw oqsma ta' riċerka li
@@ -717,7 +712,7 @@ Għandu jsir Memorandum ta' Qbil bejn il-Ministeru għad-Drittijiet tal-Persuni
 b'Diżabilità, id-DDS. u l-ADSU, dwar oqsma ta' riċerka identifikati, wara dawn
 id-diskussjonijiet.
 
-Id-DDS u l-ADSU għandhom jippromwovu dawn l-oasma ta' riċerka identifikati
+Id-DDS u l-ADSU għandhom jippromwovu dawn l-oqsma ta' riċerka identifikati
 lill-istudenti tagħhom u lill-akkademiċi fl-Università ta' Malta, bil-possibbiltà li
 Task Force ta' Riċerka tal-Università, ikkoordinata mid-DDS, tiġi eventwalment
 ikkunsidrata, li tlaqqa' flimkien għarfien espert minn Fakultajiet u Dipartimenti
@@ -757,7 +752,7 @@ Q li jirriżulta jsegwi l-istess prinċipji deskritti hawn fuq.
 
 Tixrid Pubbliku ta' Riċerka Speċifika
 
-2.4.1 Id-DDS għandha tiżviluppa sistema li biha tkun prevista promozzjoni aħjar tar-
+2.4.1. Id-DDS għandha tiżviluppa sistema li biha tkun prevista promozzjoni aħjar tar-
 riċerka fis-settur tad-diżabilità, b'attenzjoni speċifika għar-rwol tal-Mekkaniżmu
 Nazzjonali ta' Koordinazzjoni fi ħdan id-DDI, u tal-ENGAGE, bħala l-mekkaniżmu
 ta' parteċipazzjoni tas-soċjetà ċivili fi ħdan id-DDI.
@@ -785,7 +780,7 @@ għas-sensibi
 
 l-partijiet
 
--komunità.
+komunità.
 
 għandhom jiġu ddeterminati u jsiru sforzi fil-konfront
 onijiet rilevanti minn żmien għal żmien f'dan ir-rigward
@@ -819,16 +814,15 @@ msemmi fl-Azzjoni 3 tal-Objettiv 1, u amministrata mill-NSO, sabiex tiġi żgura
 stampa ġenerali iktar ċara tas-settur tad-diżabilità, u tassisti fil-forniment xieraq
 ta' ħtiġijiet ta' servizz u appoġġ.
 
-
 OBJEMIM 8
 
-se/ 91187749/0
-IBSBIZA ZI A
+SENSIBILIZZAZZJON
+ID-DIZABILITA
 
 Punti pożittivi, Sfidi u
 Opportunitajiet
 
-Objettiv- 3 jkopri l-fenomenu dejjem
+Objettiv. 3: jkopri l-fenomenu dejjem
 meħtieġ tal-Għarfien, kemm fi ħdan is-
 soċjetà b'mod ġenerali, iżda wkoll fost
 il-familji b'diżabilità kif ukoll dawk qrib
@@ -853,7 +847,6 @@ ontinwu kemm fl-isfera pubblika kif ukoll
 'dik privata, u l-għoti ta' taħriġ bażiku fil-
 Lingwa tas-Sinjali Maltija lill-istudenti u lill-
 persunal ewlieni.
-
 
 Eżiti għal 3.1:
 Għarfien Ġenerali Kontinwu
@@ -885,10 +878,10 @@ minħabba diżabilità
 
 SiŻsl
 
-822
+82.2
 
 Is-CRPD għandha tfassal pjan ta' azzjoni, bil-għan li tilħaq lill-persuni b'diżabilità,
-lil-familji tagħhom u lis-soċjetà.
+lill-familji tagħhom u lis-soċjetà.
 
 Is-CRPD, flimkien mal-partijiet interessati rilevanti, b'mod partikolari
 l-organizzazzjonijiet tal-persuni b'diżabilità u l-organizzazzjonijiet tas-soċjetà
@@ -947,9 +940,9 @@ isforzi konġunti tal-KLSM u l-Ministeru tal-Edukazzjoni.
 3.4.3 Wara l-perjodu inizjali għat-tlestija tal-ewwel fażi ta' din l-Azzjoni, attivitajiet
 sussegwenti f'dan ir-rigward jibqgħu għaddejjin.
 
-OE8 MA
+OBJEMIM 4
 
-fitetetejetojjejjjjiee:
+Aċċessibilità
 
 Punti pożittivi, Sfidi u
 Opportunitajiet
@@ -966,7 +959,6 @@ miktuba f'liġi. Fil-livell tal-Unjoni Ewropea,
 Malta ppromwoviet ukoll l-Att Ewropew
 dwar l-Aċċessibilità, li issa hija impenjata li
 timplimenta lokalment matul is-snin li
-
 
 ġejjin, filwaqt li taqsam l-esperjenzi tagħha
 permezz tal-Grupp ta' Ħidma Ad Hoc
@@ -991,7 +983,7 @@ r-responsabbiltà tal-Istat li: jmexxi
 bl-eżempju — fl-entitajiet — tiegħu
 stess, u l-obbligi ta' Malta li tiżgura
 aċċess għall-ġustizzja għal persuni
-b'diżabilità, u  l-eżerċizzju tal-
+b'diżabilità, u l-eżerċizzju tal-
 kapaċità legaliġhuma koperti wkoll
 
 Eżiti għal 4.1:
@@ -1002,13 +994,12 @@ inklużjoni tat-TM, u konsultazzjoni mal-Taqsima dwar il-Konformità tas-CRPD,
 biex jiddiskuti l-aċċessibilità tal-infrastruttura tat-toroq u t-trasport ta' Malta,
 inkluż dik tat-terminals tal-ajru u tal-baħar u tal-punti tal-imbark.
 
-4.1.22: Dawn id-diskussjonijiet fost dawn il-partijiet interessati għandhom jiddiskutu
+4.1.2: Dawn id-diskussjonijiet fost dawn il-partijiet interessati għandhom jiddiskutu
 wkoll l-użu eżistenti ta', kif ukoll jagħmlu analiżi tal-ħtiġijiet li tikkonċerna sinjali
 u qsim aċċessibbli xierqa għal kulħadd, u disinji għal tali, inkluż fir-rigward ta'
 mudell uniformi għal dwal tat-traffiku awdjoviżiv u bankini, wisa' tal-bankina, u
 rotot aċċessibbli mmarkati tajjeb fi ħdan lokalitajiet differenti li jgħaqqdu servizzi
 differenti.
-
 
 4.1.3
 
@@ -1022,7 +1013,7 @@ pedonali.
 
 Għandu jitfassal rapport li jagħti dettalji dwar is-sitwazzjoni attwali wara
 diskussjonijiet imsemmija, inklużi rakkomandazzjonijiet u pjan ta' implimentazzjoni
-li għandu jiġi kkoordinat mid-DDI, lijkopri wkolltestijiet meħtieġa bil-parteċipazzjoni
+li għandu jiġi kkoordinat mid-DDI, li jkopri wkolltestijiet meħtieġa bil-parteċipazzjoni
 sħiħa ta' persuni b'diżabilità, fir-rigward ta' karatteristiċi ġodda li għandhom jiġu
 implimentati, flimkien ma' kampanja ta' sensibilizzazzjoni.
 
@@ -1249,7 +1240,7 @@ annimali gwida jew tas-servizz, sabiex persuna tkun tista' taċċessa post.
 Eżiti għal 4.7:
 Linji gwida dwar il-Preżentazzjoni ta' Informazzjoni f'diversi Formati Aċċessibbli
 
-474
+4.74
 
 4.7.2
 
@@ -1273,7 +1264,7 @@ standards Ewropej u internazzjonali rilevanti li jorbtu lil Malta u jkunu fis-se
 minn żmien għal żmien.
 
 Il-linji gwida għandhom ikunu disponibbli għall-konsultazzjoni mal-partijiet
-interessati, u l-persuni: — b'diżabilità u l-organizzazzjonijiet rappreżentattivi
+interessati, u l-persuni: b'diżabilità u l-organizzazzjonijiet rappreżentattivi
 tagħhom.
 
 Eżiti għal 4.8:
@@ -1319,9 +1310,9 @@ bħat-tfal tal-iskola.
 Eżiti għal 4.10:
 Aċċess għas-Sistema Ġudizzjarja u l-Kapaċità Legali
 
-41041
+410.
 
-4102
+4,102
 
 4,10.3
 
@@ -1349,14 +1340,13 @@ tal-Artikolu 12 tal-Konvenzjoni UNGRPD, permezz tal-introduzzjoni tal-kunċetti
 ta' teħid ta' deċiżjonijiet appoġġati u ta' teħid ta' deċiżjonijiet konġunti fil-liġi
 Maltija.
 
-
 OBJEMM 5
 
-SASI 01 L VŻATONI
+PARTEĊIPAZZJONI
 FIL-KULTURA,
 ID-DIVERTIMENT,
-insiniilai 174101 IB
-L-ISPORT A
+IR-RIKREAZZJONI U
+L-ISPORT 4
 
 Punti pożittivi, Sfidi u
 Opportunitajiet
@@ -1367,9 +1357,9 @@ Objettiv 5 fejn, minbarra li tibni fuq il-preċetti
 
 ġenerali li jinsabu fl-Objettiv 4, azzjonijiet
 
-partikolari: huma  preskritti, speċj
+partikolari: huma preskritti, speċj
 
-fir-rigward ta' elementi  speċifiċi
+fir-rigward ta' elementi speċifiċi
 
 jalment
 bħall-
@@ -1388,7 +1378,7 @@ ta' din il-parteċipazzjoni huma indirizza
 
 iwkoll.
 
-L-aċċess għall-kulturaud-divertiment
+L-aċċess għall-kultura ud-divertiment
 permezz tal-midja jeħtieġu konformità
 ma' ċerti proċessi, u l-inklużjoni ta'
 elementi bħas-sottotitoli, ukoll fid-
@@ -1406,7 +1396,6 @@ bil-għan li: l-persuni b'diżabilità jkunu
 jistgħu jinvolvu ruħhom b'mod komdu fil-
 midja, kif ukoll jipparteċipaw f'esperjenzi
 tal-midja fuq l-istess bażi bħall-oħrajn.
-
 
 azzjonijiet Speċifiċi u Eżiti marbuta
 
@@ -1459,7 +1448,7 @@ l-għeruq tagħhom fil-kunċett ta' disinn universali, u abbażi tal-esperjenzi 
 persuni b'diżabilità.
 
 5.2.4 Il-promozzjoni ta' avvenimenti aċċessibbli għandha tiġi indirizzata wkoll, permezz
-tal-isforzi konġunti tal-pattijiet involuti, bħala riżultat ta' dawn id-diskussjonijiet,
+tal-isforzi konġunti tal-partijiet involuti, bħala riżultat ta' dawn id-diskussjonijiet,
 flimkien ma' inizjattivi għall-inkoraġġiment tal-parteċipazzjoni attiva.
 
 Eżiti għal 5.3:
@@ -1470,7 +1459,7 @@ u jinvolvi lill-Ministeru għad-Drittijiet tal-Persuni b'Diżabilità u d-DDS, u
 interessati bħall-Ministeru responsabbli għall-Arti, il-Ministeru responsabbli
 għall-Wirt Nazzjonali, Heritage Malta, l-MTA, l-ACM u Festivals Malta, filwaqt li
 
-5:8:2
+5:83:22
 
 5.8.8
 
@@ -1480,13 +1469,13 @@ aċċessibbli, li għandhom l-għeruq tagħhom fil-prinċipju tad-disinn univers
 d-diskussjonijiet għandhom iwasslu għall-identifikazzjoni u l-implimentazzjoni
 eventwali ta' inizjattivi mill-partijiet interessati msemmija hawn fuq, filwaqt li
 jinkoraġġixxu l-parteċipazzjoni attiva ta' persuni b'diżabilità fis-soċjetà inġenerali,
-permezz ta' avvenimenti kulturali, jagħtu spinta lill-opportunitajiet għal tagħlim
+pizza ta' avvenimenti kulturali, jagħtu spinta lill-opportunitajiet għal tagħlim
 ormali billi jiżguraw ukoll aċċess aktar sħiħ għat-tagħlim, minflok sempliċimen
 għall-apprezzament tal-kultura, bħala riżultat tal-iżgurar tal-aċċessibilità, filwaqt
 jaraw li n-nuqqasijiet attwali fir-rigward tal-aċċessibilità ta' dawn l-avvenimenti
 jiġu indirizzati permezz ta' inizjattivi xierqa.
 
-s
+ej
 
 Skemi ta' għotjiet għall-promoturi, flimkien ma' linji gwida rilevanti u kriterji ta'
 eliġibilità, għandhom jiġu kkunsidrati wkoll bħala eżitu li għandu jiġi segwit, u li
@@ -1519,7 +1508,6 @@ politiċi f'dan il-qasam għandhom jinġabru mis-CRPD bħala riżultat ta' dawn 
 diskussjonijiet, u mgħoddija lid-DDI, sabiex dan ixerridhom lil atturi ewlenin, bħal
 djar tal-midja, sabiex tiġi assigurata gwida xierqa, filwaqt illi taħdem ma' tali atturi
 skont il-bżonn.
-
 
 5.4.4
 
@@ -1562,7 +1550,6 @@ jitfasslu dwar il-fażi ta' implimentazzjoni mill-KLSM, is-CRPD u l-OCMH, u
 mgħoddija lid-DDI, għal diskussjoni mal-partijiet rilevanti, biex jiġi żgurat li
 jinħadem segwitu xieraq.
 
-
 Eżiti għal 5.6:
 Nagħmlu avvenimenti tradizzjonali lokali u Sports Inklużivi u Aċċessibbli
 
@@ -1573,18 +1560,17 @@ biex jittieħed kont tas-sitwazzjoni attwali dwar l-aċċessibilità ta' avvenim
 tradizzjonali lokali, u biex jiġu diskussi soluzzjonijiet u inizjattivi konkreti sabiex
 jiġu indirizzati oqsma fejn hemm tħassib.
 
-5.6.22: Id-DDI għandu. jikkoordina d-diskussjonijiet, f'konsultazzjoni mas-CRPD,
+5.6.2: Id-DDI għandu. jikkoordina d-diskussjonijiet, f'konsultazzjoni mas-CRPD,
 u jinvolvi lil SportMalta u lill-partijiet prinċipali mill-komunità sportiva lokali, kif
 ukoll rappreżentanti ta' sport iffukat fuq id-diżabilità bħall-futbol tal-qafas (frame
 football), u entitajiet rilevanti bħal Special Olvmpics, Paralvmpics u Deafivmpies,
 sabiex jiġi diskuss l-aċċess għall-isport għal persuni b'diżabilità, l-isfidi attwali, u
 proposti u inizjattivi konkreti sabiex jiġi żgurat l-isport għal kulħadd.
 
+OBJEMHIM CO
 
-OE0 NINAe
-
-pis 89//40/0)) 101/ F
-FAMILJA,SESSWALITÀ,
+RELAZZJONIJIET,
+FAMILJA, SESSWALITÀ,
 U LI TKUN GENITUR
 
 Punti pożittivi, Sfidi u
@@ -1617,13 +1603,12 @@ saħansitra trattament inqas minn korrett
 minn dawk li suppost jirrispettawhom u
 jappoġġjawhom.
 
-
 L-azzjonijiet ikopru aspetti bħall-ħtieġa li
 l-edukazzjoni sesswali tkun xierqa għall-
 profil ta' persuna, iżda li madankollu qatt
 ma tiġi miċħuda, u li l-politiċi u l-istrateġiji
 nazzjonali tas-saħħa sesswali jkunu
-inklużivi wkoll  għad-diżabilità.  Huma
+inklużivi wkoll għad-diżabilità. Huma
 jappellaw għal linji gwida xierqa dwar id-
 dritt għall-ġenituri, inkluż dawk il-ġenituri
 illi jirċievu appoġġ, li għandhom ikunu
@@ -1652,7 +1637,7 @@ jsiru sforzi biex tiġi żgurata l-integrazzjoni l-aktar wiesgħa possibbli ta' 
 bħal dan.
 
 6.1.2 Dawn id-diskussjonijiet għandhom iqisu wkoll kunsiderazzjonijiet speċifiċi għat-
-twassil ta' edukazzjoni sesswali u edukazzjoni dwar is-sesswalità lil-gruppi
+twassil ta' edukazzjoni sesswali u edukazzjoni dwar is-sesswalità lil gruppi
 differenti ta' persuni b'diżabilità, bħal nisa żgħażagħ b'diżabilità, fejn l-edukazzjoni
 dwar il-kunsens għandha tiġi enfasizzata bħala mezz biex tiġi miġġielda
 l-vjolenza potenzjali, inkluża l-vjolenza sesswali, il-persuni LGBTIQ-- żgħażagħ
@@ -1660,7 +1645,6 @@ b'diżabilità u l-migranti żgħażagħ b'diżabilità, fir-rigward ta' kwistjo
 esperjenzi, il-ħtiġijiet, l-isfondi, il-kulturi u l-fidi ta' persuni differenti, u għandu
 jitqies l-involviment ta' entitajiet bħas-CCWR, l-HRID, l-NCPE, l-AWAS, l-EASO
 u l-organizzazzjonijiet tas-soċjetà ċivili lejn dan il-għan.
-
 
 6.1.3 B'riżultat ta' dawn id-diskussjonijiet, għandu jitfassal rapport inizjali mid-DDI dwar
 is-sitwazzjoni attwali, b'enfasi partikolari fuq liema suġġetti qed ikunu koperti
@@ -1756,7 +1740,7 @@ jfassal Politika u Strateġija ġodda komprensiviu in
 at fuq l-indeboliment, u huma garantiti opportunitajiet
 l-kura tas-saħħa riproduttiva u sesswali.
 
-jal-ġodda għandhom jenfasizzaw li l-i
+ja l-ġodda għandhom jenfasizzaw li l-i
 
 b'mod parti
 
@@ -1831,7 +1815,7 @@ DDI, din it-Taqsima għandha tidentifika r-riżorsi umani u riżorsi oħra meħt
 6.3.4
 
 u tadotta l-aħjar prattiċi biex. — tipprovdi l-interventi meħtieġa, waħedha u/jew
-flimkien ma' entitajiet governattivi jew privati oħra, u  tibni fuq l-isforzi attwali li
+flimkien ma' entitajiet governattivi jew privati oħra, u. tibni fuq l-isforzi attwali li
 qed isiru minn Aġenzija Sapport u d-DDS.
 
 Mistogsijiet fl-ambitu ta' dan l-Objettiv jistgħu jew jiġu indirizzati minn jew inkella
@@ -1864,7 +1848,7 @@ Linji gwida dwar id-Dritt li Tkun Ġenitur u d-Dritt li Tkun Ġenitur Appoġġja
 6.5.2
 
 Id-DDI, permezz tal-mekkaniżmi rilevanti tiegħu, f'konsultazzjoni mas-CRPD,
-u bl-involviment tad-DDS, Aġenzija  Sapport u entitajiet oħra li jipprovdu
+u bl-involviment tad-DDS, Aġenzija Sapport u entitajiet oħra li jipprovdu
 servizzi lil persuni b'diżabilità, u lil tfal ta' ġenituri b'diżabilità , għandhom isejħu
 diskussjonijiet bil-ħsieb li jfasslu linji gwida dwar id-dritt li tkun ġenitur, inklużi
 kwistjonijiet ta' kunsens, u dwar il-dritt li tkun ġenitur appoġġjat, għal persuni
@@ -1873,7 +1857,6 @@ b'diżabilità, u jibnu fuq l-isforzi attwali.
 Il-linji gwida għandu jkun fihom ukoll enfasi qawwija fuq il-perspettiva tal-ġeneru,
 bħal fir-rigward tal-iżgurar tal-appoġġ lil nisa b'diżabilità fil-maternità tagħhom,
 inkluż bħala ommijiet single b'diżabilità.
-
 
 6.5.3: Dawn il-linji gwida għandhom mnedija bħala standards permezz tal-SCSA, wara
 proċess ta' konsultazzjoni, bil-parteċipazzjoni sħiħa tal-ġenituri b'diżabilità, illi
@@ -1889,23 +1872,22 @@ oħra kif prattikabbli minn żmien għal żmien, biex jiżviluppaw materjal awdj
 edukattiv, immirat lejn il-pubbliku inġenerali, li jfittxu li jiksru t-tabu dwar is-
 sesswalità u l-isterjotipi assoċjati mas-sesswalità ta' persuni b'diżabilità.
 
-6.6.2 Id-DDI u s-CRPD għandhom jiddiskutu mal-pattijiet ikkonċernati ewlenin bħad-
+6.6.2 Id-DDI u s-CRPD għandhom jiddiskutu mal-partijiet ikkonċernati ewlenin bħad-
 DDS, dwar l-organizzazzjoni ta' konferenzi u seminars regolari li jiffukaw fuq
 is-sesswalità ta' persuni b'diżabilità, li jkunu indirizzati lejn professjonisti bħal
 tobba u infermiera, għalliema, carers u assistenti personali, kif ukoll il-korpi
 professjonali tagħhom.
 
+OBJE MIN
 
-OBJE IM /
-
-m DIO SIVZALONNI
+EDUKAZZJONI
 INFORMALI, FORMALI U
 MHUX FORMALI
 
 Punti pożittivi, Sfidi u
 Opportunitajiet
 
-Fil-qasam: tal-Edukazzjoni,  għalkemm
+Fil-qasam: tal-Edukazzjoni, għalkemm
 l-aħħar snin raw fehim aħjar tal-kunċett
 ta' inklużjoni għall-kuntrarju ta' sempliċi
 integrazzjoni, iż-żieda ta' appoġġi fis-
@@ -1933,7 +1915,7 @@ mhux formali u informali, f'konformità
 ma' approċċ komuni dejjem aktar
 enfasizzat fi ħdan strutturi bħal dawk
 tal-Unjoni Ewropea, u ai termini ta'
-obbligi bħall-Għanijiet ta'  Żvilupp
+obbligi bħall-Għanijiet ta' Żvilupp
 Sostenibbli.
 
 Studji dwar l-aċċessibilità minn
@@ -1946,7 +1928,6 @@ l-implimentazzjoni ta' proġetti mmirati lejn
 gruppi speċifiċi, bħaż-żgħażagħ u dawk
 b'nuqqas ta' smigħ u bżonnijiet speċifiċi
 oħra.
-
 
 Eżiti għal 7.1:
 IEPs għall-Istudenti kollha b'Diżabilità
@@ -1979,7 +1960,6 @@ għal ieħor.
 sabiex jitressqu l-bidliet rilevanti fil-politika u l-leġiżlazzjoni, kif ukoll jitnedew
 skemi li jinvolvu diversi atturi, biex jiġi żgurat l-użu ta' mudelli mfassla apposta u
 skont l-aħjar prattiċi.
-
 
 Eżiti għal
 
@@ -2055,7 +2035,7 @@ postsekondarja, terzjaja u edukazzjoni oħra mhux obbligatorja, inkluża
 
 d-DDI għandu jfassal rapport inizjali wara dawn id-diskussjonijiet, filwaqt li
 jenfasizza wkoll il-lakuni fir-rigward tal-aċċessibilità tas-servizzi edukattivi,
--approċċi pedagoġiċi, l-aċċess għall-informazzjoni (bħal materjal akkademiku),
+approċċi pedagoġiċi, l-aċċess għall-informazzjoni (bħal materjal akkademiku),
 id-disponibbiltà ta' akkomodazzjoni aċċessibbli għall-istudenti, u l-għarfien
 u l-kompetenza tal-persunal dwar kwistjonijiet ta' diżabilità, kif ukoll li jkun
 sensittiv għall-aspett tal-intersezzjonalità fir-rigward ta' studenti b'diżabilità ta',
@@ -2090,7 +2070,7 @@ u r-Riċerka tagħha, għandha tirrevedi l-progress miksub fid-dawl tal-pjan ta'
 
 azzjoni u kwalunkwe leġiżlazzjoni adottata, u toffri feedback regolari, li għandu
 
-jitqies fil-proċess ta'i
+jitqies fil-proċess ta' i
 
 mplimentazzjoni, u li għandu jintuża għal kwalunkwe emenda
 
@@ -2188,12 +2168,12 @@ il-komunità jistgħu jiġu organizzati għall-benefiċċju ta' persuni b'diżab
 pubbliku inġenerali.
 
 OBJEMM B
-KURA TAS—W
+KURA zz
 
 Punti pożittivi, Sfidi u
 Opportunitajiet
 
-L-Objettiv- 8 huwa qasam. kruċjali iżda
+L-Objettiv 8 huwa qasam. kruċjali iżda
 delikat. Filwaqt li l-Kura tas-Saħħa hija
 wkoll ta' importanza kbira għall-persuni
 b'diżabilità, għadha sfida fundamentali
@@ -2212,8 +2192,8 @@ Is-sensitizzazzjoni kontinwa tal-
 professjonisti mediċi hija rekwiżit f'dan il-
 qasam, kemm fir-rigward ta' kontenut, kif
 
-""" bħal 'notifikazzjoni
-ta' aħbar', kemm. fir-rigward: tal-
+ċifiċi bħal 'notifikazzjoni
+ta' aħbar, kemm. fir-rigward: tal-
 kundizzjonijiet tas-saħħa li jikkontribwixxu
 għal diżabilità, kif ukoll fir-rigward tal-
 komunikazzjoni ma' persuni b'diżabilità
@@ -2226,7 +2206,6 @@ għandhom jiġu stabbiliti mekkaniżmi xierqa
 ta' monitoraġġ u għoti ta' kontribuzzjonijiet
 wara dan.
 
-
 Perspettiva ta' diżabilità fil-bordijiet
 mediċi hija indirizzata wkoll permezz
 ta' azzjoni rilevanti, bħalma hija wkoll
@@ -2235,7 +2214,7 @@ lejn persuni b'diżabilità. Fl-aħħar nett,
 jiġi diskuss mekkaniżmu ta' rappurtar
 xieraq dwar l-aċċess għas-saħħa
 minn persuni b'diżabilità, sabiex
-jiġu identifikati n-nugqasijiet u jiġu
+jiġu identifikati n-nuqqasijiet u jiġu
 infurmati l-politika u l-prattika futuri.
 
 Eżiti għal 8.1:
@@ -2249,7 +2228,7 @@ mid-diskorsi tradizzjonali dwar id-diżabilità.
 
 8.1.2 Is-CRPD, permezz tat-Taqsima dwar il-Monitoraġġ tal-Konvenzjoni UNCRPD u
 r-Riċerka tagħha, għandha tirrevedi l-funzjonament tal-Kodiċijiet tal-Etika eżistenti
-u riveduti, u tressaq rakkomandazzjonijiet, li mbagħad jiġu diskussi mal-patrtijiet
+u riveduti, u tressaq rakkomandazzjonijiet, li mbagħad jiġu diskussi mal-partijiet
 ikkonċernati mid-DDI, bil-ħsieb tal-implimentazzjoni.
 
 Eżiti għal 8.2:
@@ -2370,9 +2349,9 @@ mas-CRPD, sabiex jiddiskuti t-triq 'il quddiem fl-indirizzar ta' kwistjonijiet u
 identifikati, bil-parteċipazzjoni u l-kontribut ta' persuni b'diżabilità u l-familji u
 n-netwerks ta' appoġġ tagħhom.
 
-OE8 RIA
+OBJEMIMO
 
-)(0/€1n O/ BA V/150)/ 101
+XOGĦOL U IMPJIEGI
 
 Punti pożittivi, Sfidi u
 Opportunitajiet
@@ -2392,7 +2371,7 @@ biex isiru r-riformi
 
 dawn l-aħħar snin
 ta' inċentivi, bħal
-min iħaddem, u qai
+min iħaddem, u qal
 akkomodazzjoni raġ
 
 impjegati b'diżabilità, flimkien ma
@@ -2412,12 +2391,11 @@ onevoli ġenerali għall-
 
 iċċentrat fuq
 kemm. biex
-attwali, kif  ukol
+attwali, kif ukol
 
 sforzi
 u miżuri ta' infurzar,
 f'għadd. ta'
-
 
 Hemm il-ħtieġa li nitbiegħdu minn sistema
 illi tpoġġi lill-persuni b'diżabilità ġo kaxxi,
@@ -2426,7 +2404,7 @@ impjiegi 'speċjali' jew segregati, jew lli
 jkunu impjegabbli biss f'ċerti impjiegi ta'
 livell baxx. Għad hemm ukoll nuqqas ta'
 għarfien fi ħdan il-komunità tan-negozju
-dwar x'inhi d-diżabilità, u — x'jistgħu
+dwar x'inhi d-diżabilità, u x'jistgħu
 verament joffru l-persuni b'diżabilità.
 
 L-għan aħħari li: għandu. jintlaħaq
@@ -2439,7 +2417,7 @@ soċjetà illi jgħixu ħajja ta' sodisfazzjon,
 u jikkontribwixxu lil tali soċjetà, filwaqt illi
 jinbidlu l-perċezzjonijiet soċjali fil-proċess.
 
-Għalhekk, il-gwida dwar il-karrieragħandha
+Għalhekk, il-gwida dwar il-karriera għandha
 tibda kmieni, flimkien ma' kampanji ta'
 informazzjoni għall-partijiet kollha involuti,
 inkluż permezz tal-midja.
@@ -2452,13 +2430,13 @@ meħtieġa enfasi xierqa fuq iż-żamma
 tal-impjiegi, filwaqt li għandhom jiġu
 indirizzati niċeċ speċifiċi bħall-ħidma
 fost iż-żgħażagħ, u l-intrapriża soċjali,
-kemm  għall-persuni: — b'diżabilità
+kemm għall-persuni: b'diżabilità
 nfushom, kif ukoll għal dawkli jaħdmu
 magħhom.
 
 Il-mixja minn sistema ta' kwoti għal sistema
 aktar inklużiva għandha tiġi inċentivata
-wkoll  permezz: taċ-ċertifikazzjoni  ta'
+wkoll permezz: taċ-ċertifikazzjoni  ta'
 impjegaturi inklużivi, filwaqt li tkompli tibni
 fuq strutturi eżistenti, u obbligi bħall-għoti
 ta' akkomodazzjoni raġonevoli.
@@ -2493,7 +2471,7 @@ Strateġija ta' Qabel l-Impjieg, l-Impjieg u ż-Żamma tal-Impjieg
 
 Id-DDI għandu, permezz tal-mekkaniżmi rilevanti tiegħu, jikkoordina ma' partijiet
 interessati differenti, bħal JobsPlus, LSF u kwalunkwe entità oħra li tissodisfa
-skop simili, Malta Enterprise, entitajiet akkreditati mill-MFHEA, u tappreżentanti
+skop simili, Malta Enterprise, entitajiet akkreditati mill-MFHEA, u rappreżentanti
 esperti ta' min iħaddem, jikkonsulta lis-CRPD u l- Forum Malti dwar id-Diżabilità u
 n-Negozju tagħha, u jqis l-involviment u l-input ta' persuni b'diżabilità, sabiex tiġ
 abbozzata Strateġija ta' Qabel l-Impjieg, l-Impjieg u Żamma tal-Impjieg, ibbażata
@@ -2504,7 +2482,7 @@ prattiċi.
 c
 
 l-ħidma preparatorja dwar l-Istrateġija ta' Qabel l-Impjieg, l-Impjieg u ż-Żamma
-tal-Impjieg għandha tiżgura enfasi partikolarifuq it-taħriġ u l-investiment f'taqsimiet
+tal-Impjieg għandha tiżgura enfasi partikolari fuq it-taħriġ u l-investiment f'taqsimiet
 tal-popolazzjoni fejn persuni b'diżabilità, minħabba fatturi bħat-tip ta' nuqqas
 jew l-istatus soċjoekonomiku, kienu storikament kronikament żvantaġġati,
 filwaqt li tqis miżuri speċifiċi bħall-għoti ta' mudelli lil min iħaddem sabiex joħorġu
@@ -2513,7 +2491,6 @@ diskriminatorju ta' pożizzjonijiet ibbażati fuq il-kapaċità tal-individwu li
 ir-rwol u d-dmirijiet, mhux ibbażati fuq diżabilità jew simpatija, u ċertifikazzjoni
 formali ta' kowċis tal-impjiegi, f'kollaborazzjoni mal-MFHEA u istituzzjonijiet
 edukattivi speċifiċi.
-
 
 9.2.8
 
@@ -2544,7 +2521,7 @@ Appoġġ u Aġġustamenti Relatati max-Xogħol
 
 9.3.1
 
-9:8.2
+9:82
 
 9.3.8
 
@@ -2577,7 +2554,7 @@ Promozzjoni ta' Inċentivi għall-Intrapriża Soċjali
 9.4.2
 
 Id-DDI, permezz tal-mekkaniżmi rilevanti tiegħu, u b'konsultazzjoni mas-CRPD u
-l- Forum Malti dwar id-Diżabilità u n-Negozju tiegħu, għandu jiddiskuti mal-partijiet
+l-Forum Malti dwar id-Diżabilità u n-Negozju tiegħu, għandu jiddiskuti mal-partijiet
 interessati ewlenin, inkluż iżda mhux limitati għall-Ministeru għall-Ekonomija u
 l-Malta Enterprise, il-formulazzjoni u l-implimentazzjoni ta' skema ta' intrapriża
 soċjali f'Malta, biex jibbenefikaw ukoll inizjattivi meħuda fir-rigward tas-settur
@@ -2601,7 +2578,6 @@ u ta' gwida vokazzjonali, li jibdew kmieni fil-ħajja ta' persuna, biex iservu a
 lil persuni b'diżabilità involuti fis-suq tax-xogħol, u b'mod partikolari fis-suq tax-
 xogħol mainstream, li jiffokaw ukoll fuq ħiliet rilevanti bħall-intervisti għall-impjieg,
 u temi bħad-drittijiet tal-impjegati.
-
 
 9.5.2: Diskussjonijiet bħal dawn għandhom jimmiraw ukoll speċifikament lejn l-akkwist
 u t-taħriġ ta' persunal xieraq, li jimplimenta programmi bbażati fuq l-aħjar prattiċi
@@ -2642,22 +2618,21 @@ u d-DDS, jiżviluppa u jniedi skema biex jiċċertifika Impjegaturi Inklużivi, 
 persuni u entitajiet għandhom jidhru regolarment bħala eżempji tal-aħjar prattiċi
 fil-kampanja tal-midja msemmija.
 
-
 9.7.3: Għandu jsir sforz kollettiv sabiex il-persuni b'diżabilità jkunu fuq quddiem fl-istadji
 differenti kollha tad-disinn u t-twassil tal-kampanja tal-midja, u tal-programm ta'
 Ċertifikazzjoni msemmi.
 
-OE NINAJO
+OBJEMIM 1O
 
 ĦAJJA INDIPENDENTI U
 FIL-KOMUNITA, U
-DE-ISTITUZZJONALIZZAZZJONIA
+DE-ISTITUZZJONA L IZZA
 
 Punti pożittivi, Sfidi u
 Opportunitajiet
 
 L-Objettiv 10 jittratta wieħed mill-oqsma
-l-aktar  kontroversjali iżda fundamentali
+l-aktar kontroversjali iżda fundamentali
 marbuta mal-implimentazzjoni tal-
 Konvenzjoni. Matul dawn l-aħħar. snin,
 l-approċċi lejn għajxien indipendenti nbidlu
@@ -2687,14 +2662,13 @@ iffukata fuq l-assistenza personali, kisbet
 aktar trazzjoni, u hija sistema li Malta diġà
 bdiet timplimenta.
 
-
 Filwaqt li: għandhom. jitqiesu l-ħtiġijiet
 speċifiċi u aktar kumplessi esperjenzati
 minn ċerti persuni b'diżabilità, li xi minn
 daqqiet jiġu indirizzati permezz ta' servizzi
 partikolari offruti permezz ta' faċilitajiet
 aktar ċentralizzati, minħabba aspetti bħad-
-daqs u l-kunsiderazzjonijiet ekonomiċi
+daqs u. l-kunsiderazzjonijiet ekonomiċi
 ta' Malta, jibqa' l-fatt li din għandha tkun
 l-eċċezzjoni, u mhux ir-regola.
 
@@ -2706,12 +2680,12 @@ tal-Ġnus Magħquda dwar id-Drittijiet ta'
 Persuni b'Diżabilità, tinsab fiċ-ċentru ta'
 dan l-Objettiv.
 
-jappellaw għal analiżitad-diskrepanza
+jappellaw għal analiżi tad-diskrepanza
 fil-qasam tal-forniment tas-servizzi,
 biex jittieħed kont tas-sitwazzjoni
 attwali, u jiġu indirizzati lakuni rilevanti,
 pjanstrateġikusabiexjissaħħul-iskemi
-eżistenti tal-għajxien  fil-komunità,
+eżistenti tal-għajxien fil-komunità,
 mekkaniżmi għal: koordinazzjoni
 aħjar fost il-fornituri tas-servizzi
 lokali, sistemi fis-seħħ biex jitnaqqas
@@ -2731,11 +2705,11 @@ Eżiti għal 10.1:
 Nindirizzaw il-Lakuni fis-Servizzi Mainstream fil-Komunità
 
 10.1.1 DDI, permezz tal-mekkaniżmi rilevanti tiegħu, bl-involviment ta' fornituri differenti
-ta' servizzi pubbliċi u privati u rappreżentanti tal-Kunsill Lokali, u waqtli jikkonsulta
+ta' servizzi pubbliċi u privati u rappreżentanti tal-Kunsill Lokali, u waqt li jikkonsulta
 s-CRPD, għandu jibda diskussjonijiet dwar is-sitwazzjoni attwali fir-rigward tal-
 aċċessibilità tas-servizzi mainstream fil-komunità, offruti minn fornituri ta' servizzi
 pubbliċi u privati f'lokalitajiet differenti f'Malta u Għawdex, kif ukoll jidentifika
-oppottunitajiet għal aktar tixrid ta' servizzi komunitarji f'lokalitajiet differenti, bil-
+opportunitajiet għal aktar tixrid ta' servizzi komunitarji f'lokalitajiet differenti, bil-
 Kunsilli Lokali jkollhom rwol ewlieni f'termini ta'għarfien lokali, materji loġistiċi u
 opportunitajiet.
 
@@ -2809,7 +2783,7 @@ Twaqqif ta' Taqsima għat-Taħriġ ta' Min Iħarreġ (Train the Trainer)
 għandhom isiru diskussjonijiet dwar materji relatati ma' taħriġ speċjalizzat li
 għandu jingħata lil professjonisti involuti ma' persuni b'diżabilità. Id-diskussjonijiet
 għandhom jiġu kkoordinati mid-DDI, filwaqt li Aġenzija Sapport, DDS u fakultajiet
-u dipartimenti rilevanti oħra fl-Università ta' Malta għandhom ikunu l-patrtijiet
+u dipartimenti rilevanti oħra fl-Università ta' Malta għandhom ikunu l-pattijiet
 
 interessati ewlenin involuti, bis-CRPD tiġi kk
 
@@ -2864,8 +2838,7 @@ ent, bil-ħsieb li jiġu
 ijiet ta' vulnerabbiltà
 dipendenti b'sigurtà,
 u jiġu offruti wkoll
--Konvenzjoni tal-Aja
-
+Konvenzjoni tal-Aja
 
 Eżiti għal 10.5:
 Koordinazzjoni aħjar fost il-Fornituri tas-Servizzi
@@ -2927,10 +2900,9 @@ rigward tas-settur tad-diżabilità, filwaqt li tirrapporta regolarment lid-DDI,
 dawk il-kontributi mbagħad ikunu jistgħu jiġu kkunsidrati f'aġġornamenti tal-
 Istrateġija, jew f'azzjonijiet li jsiru bis-saħħa tagħha.
 
+OBJEMMTI
 
-OBJEMM TI
-
-SASI0 L VŻATONI
+PARTEĊIPAZZJONI
 FIL-ĦAJJA POLITIKA
 U PUBBLIKA
 
@@ -2949,10 +2921,9 @@ il-prattiċi rilevanti fir-rigward ta' votazzjoni,
 ikunu kompletament aċċessibbli għall-
 persuni b'diżabilità fuq bażi ugwali ma'
 oħrajn, u jinħtieġ li jitnedew diskussjonijiet
-wiesgħa mal-partijiet  rilevanti  kollha,
+wiesgħa mal-partijiet rilevanti kollha,
 b'persuni b'diżabilità u l-ħtiġijiet tagħhom
 fiċ-ċentru ta' dan.
-
 
 Malta ħadet passi inkoraġġanti. fil-
 qasam tal-aċċess għall-votazzjoni fil-
@@ -2963,14 +2934,14 @@ vot, u t-tibdil fid-dehra tal-poloz tal-
 vot imsemmija, filwaqt li saru inizjattivi
 biex titjieb l-aċċessibilità fiżika fil-
 postijiet tal-votazzjoni, u t-tixrid ta'
-informazzjoni  mill-Istat u l-partiti
+informazzjoni mill-Istat u l-partiti
 politiċi sar aktar aċċessibbli permezz
 ta' għodod: bħall-interpretazzjoni
 għal-lingwa tas-sinjali.
 
 Madankollu, għandhom jiġu implimentati
 nizjattivi li jappoġġaw u jinkoraġġixxu
-parteċipazzjon usa' : —minn  persuni
+parteċipazzjon usa' minn persuni
 b'diżabilità f'kull tip ta' elezzjoni organizzata
 lokalment, il-partiti politiċi għandhom
 kunu sensitizzati aħjar għall-ħtiġijiet tal-
@@ -2978,8 +2949,7 @@ persuni b'diżabilità, filwaqt li l-aċċessibilità
 tal-Parlament, l-ogħla istituzzjoni  tal-
 pajjiż, għandha tiġi żgurata, kemm għar-
 
-
-rappreżentanti  b'diżabilità preżenti kif
+rappreżentanti b'diżabilità preżenti kif
 ukoll għal dawk futuri, u għall-membri tal-
 pubbliku inġenerali, u kwalunkwe persuna
 li taħdem temporanjament jew aktar fit-tul
@@ -3009,7 +2979,7 @@ tal-UE
 
 11.22.1 Id-DDI, permezz tal-mekkaniżmi rilevanti tiegħu, u bl-inklużjoni ta' rappreżentanti
 mill-Kummissjoni Elettorali u l-partiti politiċi, inklużi kandidati b'diżabilità, għandu
-jsejjaħ laqgħat, filwaat li jikkonsulta mas-CRPD, biex jiddiskuti modi u mezzi li
+jsejjaħ laqgħat, filwaqt li jikkonsulta mas-CRPD, biex jiddiskuti modi u mezzi li
 bihom jistgħu jiġu appoġġati l-kandidati b'diżabilità, inkluż permezz tal-għoti ta'
 akkomodazzjoni raġonevoli xierqa.
 
@@ -3030,11 +3000,10 @@ politiċi tagħhom aċċessibbli għal kulħadd, kemm b'mod fiżiku kif ukoll b'
 sensorjali, u b'hekk isiru aktar inklużivi u attraenti għal membri jew partitarji
 b'diżabilità attwali jew potenzjali.
 
-11.3.3 Is-CRPD għandha toffri wkoll DET ta' darba lill-kandidati kollha, b'diżabilità jew
+11.33 Is-CRPD għandha toffri wkoll DET ta' darba lill-kandidati kollha, b'diżabilità jew
 le, li jikkontestaw elezzjoni f'isem partit politiku reġistrat, u tiffoka fuq kwistjonijiet
 bħal prattiċi ta' komunikazzjoni inklużivi fir-rigward ta' persuni b'diżabilità,
 b'materjali għal tali DETs jiġi pprovdut f'formati aċċessibbli.
-
 
 Eżiti għal 11.4:
 Insaħħu l-aċċessibilità fil-Parlament
@@ -3070,7 +3039,7 @@ anti.
 
 għall-monitoraġġ tal-implimentazzjoni tar-
 u għall-komunikazzjoni ta' kwalunkwe tħassib u
--imsemmija kontributi jkunu jistgħu jiġu diskussi
+imsemmija kontributi jkunu jistgħu jiġu diskussi
 
 il-ħsieb
 
@@ -3078,7 +3047,7 @@ i tittieħed azzjoni rilevanti.
 
 OBJEMIM 12
 
-EISAAN(ONNIAB, TNAQQIS
+ĠESTJONI U TNAQQIS
 TAR-RISKJU TA' DIZASIRI
 
 Punti pożittivi, Sfidi u
@@ -3102,7 +3071,6 @@ imsemmija fit-test tal-Objettiv, l-obbligi
 tagħha ai termini tal-Qafas ta' Sendai tal-
 Ġnus Magħquda huma wkoll ikkwotati u
 għandhom jiġu osservati wkoll.
-
 
 it-Task Force dwar id-Diżabilità
 u l-COVID-19, stabbilita: matul. il-
@@ -3206,11 +3174,10 @@ OBJEMIM 18
 JJONALI U
 ALI
 
-
 Punti pożittivi, Sfidi u
 Opportunitajiet
 
-Fl-aħħarnett, l-Objettiv- 13 jindirizza
+Fl-aħħarnett, l-Objettiv. 13: jindirizza
 l-obbligi ta' — Malta fil-qasam al-
 Kooperazzjoni Internazzjonali, u jiddeskrivi
 azzjonijiet li jindirizzaw sħubijiet reġjonali
@@ -3228,7 +3195,7 @@ nizjattiva ewlenija li għandha tiġi żviluppata
 aktar hija l-isforz ta' Malta biex tkun pont
 bejn l-Unjoni Ewropea u d-dinja Għarbija,
 permezz tat-twaqqif tal-Forum tal-Belt
-Valletta. dwar  id-Drittijiet  tal-Persuni
+Valletta. dwar id-Drittijiet tal-Persuni
 b'Diżabilità f'April tal-2019, wara laqgħa
 ta' livell għoli li saret f'Malta. Inizjattivi
 
@@ -3237,9 +3204,8 @@ jesploraw u jaħdmu flimkien fuq aspetti
 differenti relatati mad-drittijiet tal-persuni
 b'diżabilità.
 
-
 Dan għandu jsir flimkien mal-
-parteċipazzjoni kontinwa. . fil-livell
+parteċipazzjoni kontinwa. fil-livell
 tal-Istat, u l-promozzjoni. fil-livell
 individwali ta' aktar parteċipazzjoni,
 f'avvenimentioħra, raggruppamenti
