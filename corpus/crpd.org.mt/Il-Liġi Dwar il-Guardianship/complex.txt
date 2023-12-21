@@ -31,7 +31,7 @@ artikoli ġodda li ġejjin:
 'Subtitolu IA
 FUQ IL-KUSTODJA
 
-188A. (l) Minkejja d-dispożizzjonijiet tas-
+188A. (Il) Minkejja d-dispożizzjonijiet tas-
 Subtitolu II fuq l-Interdizzjoni u l-Inabilitazzjoni,
 persuna tal-età b'diżordni mentali jew b'kundizzjoni
 oħra, li tagħmilha inkapaċi li tieħu ħsieb ħwejjiġha
@@ -90,7 +90,7 @@ mhux kapaċi li teżegwixxi xi att wieħed jew
 aktar tal-ħajja ċivili kif speċifikat fl-Ordni dwar
 il-Kustodja;
 
-(ċ). jagħmel kull ħaġa oħra għal u f'isem
+(ċ) jagħmel kull ħaġa oħra għal u f'isem
 il-persuna li tagħha jkun ġie maħtur bħala
 kustodju hekk kif ikun hekk ordnat jew
 awtorizzat jagħmel mill-Bord dwar il-Kustodja
@@ -169,12 +169,12 @@ kustodju.
 flimkien mal-Ministru responsabbli għall-Politika
 Soċjali u l-Ministru responsabbli għas-Saħħa jista'
 jagħmel regolamenti għall-implimentazzjoni aħjar tad-
-dispożizzjonijiet ta' dan is-Subtitolu. '.
+dispożizzjonijiet ta' dan is-Subtitolu. ''.
 
 4. L-artikolu 191 tal-Kodiċi għandu jiġi sostitwit b'dan li
 ġej:
 
-191. (1) Minuri taħt it-tutela jista' jiġi
+191. (1) Minuri taħt. it-tutela jista' jiġi
 mqiegħed taħt il-kustodja jew interdett jew inabilitat
 fl-aħħar sena li jkun għadu taħt l-età, u f'kull każ bħal
 dan il-Bord dwar il-Kustodja jew il-Qorti, skont il-każ,
@@ -242,7 +242,7 @@ ikollha l-kariga tal-membru tal-Bord jekk dik il-
 persuna:-
 
 (a) tkun Ministru, Segretarju
-Parlamentari jew Membru tal-Kamra tad-
+Parlamentari jew Membru. tal-Kamra. tad-
 Deputati jew Sindku jew Kunsillier f'Kunsill
 Lokali; jew
 
@@ -259,7 +259,7 @@ frodi, jew li xjentement ġiet mogħtija lilu
 proprjetà miksuba minn serq jew frodi, jew ta'
 reati kontra l-bonordni tal-familja.
 
-(5) Il-kariga tal-membru tal-Bord: issir
+(5) Il-kariga tal-membru. tal-Bord: issir
 vakanti:-
 
 (a) meta jintemm il-perjodu tal-kariga;
@@ -270,7 +270,7 @@ dik il-persuna ma kenitx membru tal-Bord,
 kienu jwasslu biex dik il-persuna ma
 tikkwalifikax biex tinħatar f'dik il-kariga; jew
 
-(ċ)  mar-riżenja ta' dak il-membru.
+(ċ) mar-riżenja ta' dak il-membru.
 
 (6) Il-ħatra ta' xi persuna bħala membru tal-
 Bord u t-temm tal-kariga jew riżenja ta' dik il-
@@ -391,7 +391,7 @@ Kustodja skont l-artikolu 188A tal-Kodiċi Ċivili.
 tal-fatti li fuqhom hi bbażata t-talba u indikazzjoni
 tax-xhieda, jekk ikun hemm, dwar dawk il-fatti.
 
-(3): Kull dokument li jappoġġa. t-talba
+(3) Kull dokument li jappoġġa. t-talba
 għandu jiġi ppreżentat flimkien mar-rikors.
 
 519E. (1) Il-Bord dwar il-Kustodja għandu
@@ -462,13 +462,13 @@ Kustodja approvati jew revokati.
 reġistru aġġornat tal-Ordnijiet kollha ta' Kustodja
 approvati jew revokati u l-kondizzjonijiet dwarhom.
 
-(7) Ebdainformazzjoni meħuda mir-reġistru
+(7) Ebda informazzjoni meħuda mir-reġistru
 msemmi fis-subartikolu (6) ma tista' tingħata mir-
 Reġistratur sakemm il-Bord ma jkunx assigura l-
 interess leġittimu tal-persuna li tkun qed titlob din l-
 informazzjoni.
 
-519G. (1) Il-Bord jista' jaħtar kull persuna li
+519G (1) Il-Bord jista' jaħtar kull persuna li
 tkun għalqet l-età ta' tmintax-il sena, tkun residenti
 ordinarjament f'Malta u tagħti l-kunsens tagħha biex
 taġixxi bħala kustodju, jekk il-Bord ikun sodisfatt li
@@ -495,7 +495,7 @@ Parlamentari jew membru tal-Kamra tad-
 Deputati jew Sindku jew Kunsillier f'Kunsill
 Lokali; u
 
-(e). ma tkunx legalment inabilitata jew
+(e) ma tkunx legalment inabilitata jew
 
 interdetta; u
 
@@ -667,7 +667,7 @@ Iżda l-Bord, jekk u meta jidhirlu
 opportun, jista' jesiġi li dik l-informazzjoni tiġi
 konfermata bil-ġurament.
 
-(2): Meta persuna maħtura mill-Bord skont
+(2) Meta persuna maħtura mill-Bord skont
 id-dispożizzjonijiet tas-subartikolu (1) biex
 tistħarreġ il-każ tinforma lill-Bord li ma setgħetx
 twettaq dik il-funzjoni minħabba fi xkiel minn xi
@@ -770,7 +770,7 @@ Ordnijiet ta' Kustodja;
 
 (f) jippreskrivu d-drittijiet tar-reġistru kif
 ukoll id-drittijiet oħra nklużi dawk li jitħallsu lill-
-esperti nominati mill-Bord taħt dan it-Titolu. ''.
+esperti nominati mill-Bord taħt dan it-Titolu. '.
 
 6. L-artikolu 22 tal-Att dwar Opportunitajiet Indaqs lil
 Persuni b'Diżabilità għandu jiġi emendata kif ġej:
@@ -779,12 +779,12 @@ Persuni b'Diżabilità għandu jiġi emendata kif ġej:
 u', għandhom jidħlu l-kliem ''b'diżabilità;';
 
 (b) fil-paragrafu (s) tiegħu, minflok il-kliem, ''minn Malta. ',
-għandhom jidħlu l-kliem ''minn Malta; u'; u
+għandhom jidħlu l-kliem ''minn Malta; u';u
 
 (ċ) minnufih wara l-paragrafu (s) tiegħu, għandu jiżdied dan
 il-paragrafu ġdid li ġej:
 
-'(t). sabiex jissorvelja Ordnijiet ta' Kustodja. ''.
+'(t) sabiex jissorvelja Ordnijiet ta' Kustodja. ''.
 
 Mgħoddi mill-Kamra tad-Deputati fis-Seduta Nru. 531 tat-3 ta'
 Diċembru, 2012.

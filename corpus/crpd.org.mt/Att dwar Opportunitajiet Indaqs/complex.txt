@@ -5,7 +5,7 @@ GĦAL PERSUNI B'DIZABILITA
 10 ta' Frar, 2000
 1 ta' Ottubru, 2000
 
-L-ATT I tal-2000, kif emendat bl-Avviż Legali 426 tal-2007; u bl-Atti II u
+L-ATTI tal-2000, kif emendat bl-Avviż Legali 426 tal-2007; u bl-Atti IIu
 XXIV tal-2012, u XXIV tal-2016, XXIX tal-2019 u LIX tal-2021.
 
 TAQSIMA I
@@ -14,7 +14,7 @@ PRELIMINARI
 1. It-titolu fil-qosor ta' dan l-Att hu l-Att dwar
 Opportunitajiet Indaqs għal Persuni b'Diżabilità.
 
-2. — F'dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx
+2. F'dan l-Att, kemm-il darba r-rabta tal-kliem ma teħtieġx
 xort'oħra-
 
 'Bord' huwa l-Bord imwaqqaf permezz tal-artikolu 20A;
@@ -102,7 +102,7 @@ IMĦASSRA BL-ATT LVIII TAL-2021
 TAQSIMA IV
 
 PROJBIZZJONI TA' DISKRIMINAZZJONI MINĦABBA
-F'DIŻABILITÀA
+F'DIŻABILITA
 
 IMĦASSRA BL-ATT LVIII TAL-2021
 
@@ -233,7 +233,7 @@ jolqot il-bon ordni tal-familji, jew ksur ta' xi
 
 dispożizzjoni ta' dan l-Att jew tal-Konvenzjoni; jew
 
-(e) ma ttkunx kapaċi twettaq dmirijietha; jew
+(e) ma tkunx kapaċi twettaq dmirijietha; jew
 
 (f) tkun membru ta' għaqda ta', jew għal, persuni
 b'diżabilità.
@@ -353,7 +353,7 @@ l-livell nazzjonali milħuq fil-politika dwar l-
 inklużjoni;
 
 is-setgħa li tieħu kull azzjoni adatta, li tkun tinkludi
-miżuri amministrattivi proporzjonati u azzjoni
+miżuri amministrattivi proporzjonati u mazzjoni
 ġudizzjarja, sabiex telimina d-diskriminazzjoni fuq il-
 bażi ta' diżabilità kif imfissra f'dan l-Att;
 
@@ -492,7 +492,7 @@ dak l-istat rappreżentattiv; jew
 (e) f'każ li sseħħ xi waħda miċ-ċirkostanzi msemmija fis-
 subartikolu (4).
 
-25. (Il) Il-Kummissarju għandu jedd li jirregola l-
+25. (1) Il-Kummissarju għandu jedd li jirregola l-
 proċedimenti tal-Kunsill.
 
 (2) Bla ħsara għas-subartikolu (1), il-quorum tal-laqgħat tal-
@@ -547,7 +547,7 @@ kariga u b'effett minn dik id-data li tista' tkun speċifikata fl-ordni
 l-ieħor, u d-dispożizzjonijiet tas-subartikolu (2) għandhom
 japplikaw sakemm idum iseħħ l-ordni l-ieħor dwar dak l-uffiċjal.
 
-(4). Meta uffiċjal pubbliku jkun allokat għal xogħol mal-
+(4) Meta uffiċjal pubbliku jkun allokat għal xogħol mal-
 Kummissjoni skont xi waħda mid-dispożizzjonijiet ta' dan l-
 artikolu, dak l-uffiċjal għandu, matul iż-żmien li fih l-ordni jkollu
 effett dwaru, ikun taħt l-awtorità amministrattiva u l-kontroll tal-
@@ -809,7 +809,7 @@ taħt dan l-Att.
 (8) Kull persuna awtorizzata skont dan l-artikolu għandha
 tipproduċi mezz ta' identifikazzjoni maħruġ mill-Kummissjoni.
 
-32A. (1) It-Taqsima dwar l-Infurzar għandha taġixxi wara illi
+32A. (lI): It-Taqsima dwar l-Infurzar għandha taġixxi wara illi
 tkun debitament awtorizzata li tagħmel dan mit-Taqsima dwar l-
 Investigazzjonijiet, sussegwentement illi tkun għamlet l-
 investigazzjonijiet tagħha, kif stipulat f'dan l-Att.
@@ -854,7 +854,7 @@ dwar l-Investigazzjonijiet.
 32E. (1) Id-dritt għal appell lit-Tribunal għandu jkun
 kompetenti lil kull persuna li lilha d-deċiżjoni hi indirizzata.
 
-(2) Appell minn deċiżjoni tat-Taqsima dwar. l-
+(2) Appell minn deċiżjoni tat-Taqsima dwar l-
 Investigazzjonijiet għandha ssir permezz ta' rikors u għandu jiġi
 preżentat lis-Segretarju tat-Tribunal fi żmien għoxrin (20) ġurnata
 mid-data li fiha tali deċiżjoni tkun ġiet notifikata.
@@ -865,7 +865,7 @@ toto jew in parte, u għandu jagħti r-raġunament għad-deċiżjoni tiegħu
 bil-miktub, u jagħmel tali deċiżjoni pubblika u jikkomunikaha lill-
 partijiet tal-appell.
 
-33. (l) Għar-rigward ta' investigazzjonijiet ġenerali jew ta'
+33. (1) Għar-rigward ta' investigazzjonijiet ġenerali jew ta'
 investigazzjonijiet ta' ilmenti li l-Kummissarju jagħmel, il-
 Ministru għandu permezz ta' regolamenti jippreskrivi -
 
@@ -935,7 +935,7 @@ imsemmi Panel għandu jkun iggwidat mid-dispożizzjonijiet tal-Att
 dwar il-Konvenzjoni tal-Ġnus Magħquda dwar id-Drittijiet ta'
 Persuni b'Diżabilità, inkluż l-Iskedi annessi miegħu.
 
-(6) — Għandu jkun hemm numru ta' kmamar tal-Panel skont ma l-
+(6) Għandu jkun hemm numru ta' kmamar tal-Panel skont ma l-
 Kummissarju jippreskrivi. It-talbiet għandhom jiġu assenjati lill-varji
 Panels abbażi ta' rotazzjoni minn dawk l-uffiċċjali maħtura mir-
 Reġistru tal-Panel.
@@ -966,7 +966,7 @@ materja li tkun tista' ssir legalment, titlob lill-Prim'Awla tal-Qorti
 fir-rigward ta' kull tali materja, sakemm id-diskriminazzjoni allegata
 f'tali materja ma tkunx waħda ta' natura multipla jew intersettorjali.
 
-(2) — Il-Prim'Awla tal-Qorti Ċivili għandu jkollha ġuriżdizzjoni
+(2) Il-Prim'Awla tal-Qorti Ċivili għandu jkollha ġuriżdizzjoni
 oriġinali li tisma' u tiddeċiedi kwalunkwe talba magħmula minn xi
 persuna skont l-artikolu 33E(1), u tista' tagħmel dawk l-ordnijiet,
 toħroġ dawk l-atti u tagħti dawk id-direttivi li tqis xierqa sabiex
@@ -992,7 +992,7 @@ subartikolu u, bla ħsara għad-dispożizzjonijiet tal-artikolu 33E(4), l-
 imsemmija Qorti li quddiemha tkun qamet il-kwistjoni għandha
 tiddisponi mill-istess kwistjoni skont dik id-deċiżjoni.
 
-(4). Kull parti fi proċeduri miġjuba quddiem il-Prim'Awla tal-
+(4) Kull parti fi proċeduri miġjuba quddiem il-Prim'Awla tal-
 Qorti Ċivili skont dan l-artikolu għandu jkollha dritt ta' appell
 quddiem il-Qorti Kostituzzjonali illi jkollha, flimkien mal-
 ġuriżdizzjoni mogħtija lilha mill-artikolu 95 tal-Kostituzzjoni,
@@ -1018,7 +1018,7 @@ artikolu 46 tal-Kostituzzjoni, jew l-artikolu 4 tal-Att dwar il-
 Konvenzjoni Ewropea u dan l-artikolu, tista' ssir fl-istess rikors jew
 riferenza.
 
-(8): Meta rikors għal rimedju jew riferenza lill-Prim'Awla tal-
+(8). Meta rikors għal rimedju jew riferenza lill-Prim'Awla tal-
 Qorti Ċivili ppreżentati wara li jidħol fis-seħħ dan l-Att ikunu bbażati
 biss taħt l-artikolu 46 tal-Kostituzzjoni, jew taħt l-artikolu 4 tal-Att
 dwar il-Konvenzjoni Ewropea, jew taħt dan l-artikolu, u jkun għadu
@@ -1040,7 +1040,7 @@ tippreżenta talba dwar l-istess fatti taħt dan l-Att.
 eżerċizzju tad-dritt tagħha li tikkomunika mal-Kumitat tal-Ġnus
 Magħquda skont id-dispożizzjonijiet tal-Protokoll mhux Obbligatorju.
 
-(2)  Id-dispożizzjonijiet ta' dan l-Att għandhom ikunu mingħajr
+(2) Id-dispożizzjonijiet ta' dan l-Att għandhom ikunu mingħajr
 preġudizzju għal kwalunkwe azzjoni oħra li tista' tkun disponibbli taħt
 l-Att, jew taħt kwalunkwe liġi oħra.
 

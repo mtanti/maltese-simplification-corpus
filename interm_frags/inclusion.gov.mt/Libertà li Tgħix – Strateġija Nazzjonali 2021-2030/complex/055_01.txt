@@ -1,4 +1,4 @@
-2.2.2: B'riżultat ta' dawn id-diskussjonijiet li għaddejjin, id-DDI għandu jressaq
+2.2.2 B'riżultat ta' dawn id-diskussjonijiet li għaddejjin, id-DDI għandu jressaq
 
 suġġerimenti lill-Gvern li jirriflettu d-diskussjonijiet u l-eżiti rilevanti, wara li tkun
 twettqet riċerka ta' azzjoni parteċipattiva bl-użu ta' kontribut ewlieni minn
@@ -16,7 +16,7 @@ akkademiċi
 
 2.3.1
 
-2:02
+283
 
 2.3.8
 

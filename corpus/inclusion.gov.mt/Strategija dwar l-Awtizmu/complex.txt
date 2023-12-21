@@ -10,11 +10,11 @@ għall-2021 - 2030
 Pjan Nazzjonali ta' Sapport għall-Awtiżmu skont l-Artikolu 11
 tal-Att dwar l-Empowerment tal-Persuni Fuq il-Firxa Wiesgħa ta' Awtiżmu
 
-labela
+abela
 tal-Kontenut
 
 Jahla
-lil-Ministru
+lill-Ministru
 
 ill-Onor. Ministru
 iżjoni u l-Kwalità tal-Ħajja
@@ -69,7 +69,7 @@ Awtiżmu.
 
 Dan ta rikonoxximent fil-liġi Maltija lid-
 drittijiet tal-persuni bl-awtiżmu, filwaqt
-li waqqaf il-Kunsill Konsultattiv: dwar
+li waqqaf. il-Kunsill Konsultattiv. dwar
 l-Awtiżmu, u tah mandat sabiex jabbozza u
 jissorvelja l-implimentazzjoni ta' Strateġija
 Nazzjonali dwar l-Awtiżmu. Leġiżlazzjoni
@@ -86,7 +86,7 @@ sabiex dawn ikunu jistgħu jindirizzaw l-isfidi
 i jsibu ma' wiċċhom ta' kuljum. Huma
 jaħdmu biex ibiddlu l-ħajjiet tan-nies.
 
-L-emanċipazzjoni mhijiex. biss. dwar
+L-emanċipazzjoni mhijiex. biss dwar
 -indirizzar ta' problema perċepita, jew
 it-tnaqqis tat-tbatija tan-nies. Hija dwar
 -għoti, kemm lill-persuni fuq il-firxa wiesgħa
@@ -102,7 +102,7 @@ Inklużjoni u l-Kwalità tal-Ħajja, niżżik ħaj
 għall-ħidma tiegħek sabiex tagħmel
 Malta post aħjar.
 
-Ea
+cT
 
 Fl-aħħar, iżda fuq kollox, insellem
 dawk il-persuni kollha fuq il-firxa wiesgħa
@@ -187,7 +187,7 @@ ull waħda minnhom, wara li fassalna
 riassunt tat-tħassib ewlieni mqajjem għal
 ull kategorija. Dak illi intom, il-persuni li
 konsultajna, għedtu, huwa kollu miġbur
-f'dan id-dokument, flimkien ma' dak lli
+f'dan id-dokument, flimkien ma' dak li
 aħna, bħala l-Kunsill Konsultattiv dwar
 -Awtiżmu, irridu niksbu matul l-10 snin li
 
@@ -312,10 +312,10 @@ i kkontribwew, qasmu
 illum.
 
 Alistair de Gaetano
-Qhairperson
+Chairperson
 
 ox, lil dawk kollha
--għarfien espert
+għarfien espert
 
 tagħhom, u fetħu qalbhom, sabiex ġie
 
@@ -403,7 +403,7 @@ e. żjarat fiżiċi;
 
 e. kampanji tal-midja soċjali;
 
-e. midja stampata u awdjo-viżiva.
+e midja stampata u awdjo-viżiva.
 
 1.4. Niżguraw li l-isforzi tagħna jirrappreżentaw gruppi differenti fis-soċjetà Maltija, b'mod
 partikolari meta dawk il-gruppi jkunu, bħalissa, f'sitwazzjonijiet aktar vulnerabbli:
@@ -432,7 +432,7 @@ dawk qrib tagħhom;
 e lejn l-aċċettazzjoni ta' persuni fuq il-firxa wiesgħa ta' awtiżmu bħala membri
 ugwali tas-soċjetà Maltija, kif speċifikat fil-liġi;
 
-e. lejn l-inklużjoni u l-emanċipazzjoni tal-persuni fuq il-firxa wiesgħa ta' awtiżmu u
+e lejn l-inklużjoni u l-emanċipazzjoni tal-persuni fuq il-firxa wiesgħa ta' awtiżmu u
 l-familji tagħhom, u lejn il-kisba tal-indipendenza għall-persuni fuq il-firxa wiesgħa
 ta' awtiżmu.
 
@@ -443,9 +443,9 @@ bħal:
 
 tfal iħossuhom inklużi assi u f'attivitajiet ekstrakurrikulari;
 
-e
+Q
 —-
-'
+f
 
 pubblika jkunu mfassla b'tali mod li jkunu aċċessibbli
 -ħtiġijiet sensorjali wkoll, u mhux biss il-ħtiġijiet
@@ -454,7 +454,7 @@ e. lil-binijew it-trasportazzjon
 għal kulħadd, u dan ikun jinkludi
 iżiċi;
 
-e. li l-uffiċċji tal-Istat, il-faċilitajiet mediċi, il-ħwienet u servizzi bħal tal-parrukkiera,
+e lill-uffiċċji tal-Istat, il-faċilitajiet mediċi, il-ħwienet u servizzi bħal tal-parrukkiera,
 ikunu jistgħu jilqgħu lil kulħadd;
 
 e. lijiżdied l-għarfien dwar il-Karta tad-Diżabilità tal-UE u għal xiex din tista' tintuża,
@@ -463,7 +463,7 @@ prodotti u servizzi, u sabiex jiġi żgurat li din tiġi użata u aċċettata b'
 
 wiesa';
 
-e. lijiġi żgurat li l-ispazji miftuħa u l-postijiet għat-tgawdija tal-ħin liberu jkunu jistgħu
+e lijiġi żgurat li l-ispazji miftuħa u l-postijiet għat-tgawdija tal-ħin liberu jkunu jistgħu
 jintużaw minn kulħadd;
 
 e li filwaqt li jkun żgurat impenn lejn il-prinċipju tad-Disinn Universali bħala regola
@@ -475,7 +475,7 @@ ar adattat għall-persuni fuq il-firxa wiesgħa ta' awtiżmu.
 1.8 Nenfasizzaw il-ħtieġa, f'kampanji bħal dawn, li nemanċipaw lill-persuni li ma jagħmlu
 l-ebda użu jew ftit li xejn użu tal-lingwa mitkellma, billi:
 
-e nipprovdulhom ukoll aċċess għal, finanzjament, taħriġ u appoġġ għall-użu
+e. nipprovdulhom ukoll aċċess għal, finanzjament, taħriġ u appoġġ għall-użu
 ta' sistemi u strateġiji ta' komunikazzjoni awmentattiva u alternattiva (AAC), li
 jinkludu:
 
@@ -502,7 +502,7 @@ konxji ta' u mgħammra sabiex jinteraġixxu ma' persuni li jużaw komunikazzjoni
 alternattiva u awmentattiva, sabiex jingħelbu l-barrieri fir-rigward tal-attitudni fejn
 jidħlu tali forom ta' komunikazzjoni, u jiġi żgurat li dawn il-persuni jinstemgħu.
 
-e
+eŻ
 
 Identifikazzjoni Bikrija u
 Interventi għall-Awtiżmu
@@ -519,7 +519,7 @@ ukoll għal spejjeż sinifikanti;
 e. Il-metodoloġija użata għall-identifikazzjoni bikrija jeħtieġ li tiġi riveduta, u l-ġenituri
 qed jitolbu aktar ċarezza;
 
-s. Kemm kmieni huwa kmieni biżżejjed jew kmieni wisq għall-intervent bikri'2
+Kemm kmieni huwa kmieni biżżejjed jew kmieni wisq għall-intervent bikri2
 
 e. Il-bniet qed jintilfu mis-sistema dijanjostika, jew mhux qed jiġu servuti tajjeb mill-
 interventi attwali disponibbli;
@@ -541,7 +541,7 @@ benefiċċju tal-utenti tas-servizzi;
 e. It-tfal fuq il-firxa wiesgħa ta' awtiżmu u l-familji tagħhom għandhom jiġu inklużi,
 kemm jista' jkun, fil-proċess ta' identifikazzjoni bikrija;
 
-9. Il-persuni fuq il-firxa wiesgħa ta' awtiżmu u l-familji tagħhom, b'mod partikolari
+e. Il-persuni fuq il-firxa wiesgħa ta' awtiżmu u l-familji tagħhom, b'mod partikolari
 l-ġenituri u l-aħwa, kif ukoll dawk qrib tagħhom, għandhom ikunu fiċ-ċentru ta'
 kwalunkwe intervent għall-awtiżmu;
 
@@ -555,10 +555,10 @@ mhumiex qed jiġu indirizzati b'mod sensittiv għall-awtiżmu;
 9. M'hemm l-ebda medikazzjoni xierqa li nista' nsib għall-awtiżmu/waħda mill-akbar
 problemi tagħna hija l-medikazzjoni żejda;
 
-s. M'hemmx biżżejjed informazzjoni jew gwida dwar interventi alternattivi għall-
+.. M'hemmx biżżejjed informazzjoni jew gwida dwar interventi alternattivi għall-
 awtiżmu;
 
-9. Huwa importanti li strutturi u sistemi jkunu fis-seħħ biex jippermettu lill-persuni fuq
+e. Huwa importanti li strutturi u sistemi jkunu fis-seħħ biex jippermettu lill-persuni fuq
 il-firxa wiesgħa ta' awtiżmu jirċievu dijanjosi preċiża u l-appoġġ li jeħtieġu, u b'hekk
 jiġi ffaċilitat il-funzjonament ottimali tagħhom, u l-kapaċità tagħhom li jipparteċipaw
 f'attivitajiet ta' kuljum, f'soċjetà li taċċettahom u tifhimhom.
@@ -634,7 +634,7 @@ qiegħed jagħmel id-dijanjosi ma jagħtix dijanjosi formali lil dawn il-persuni
 partikolari, jew dawk li altrimenti jippreżentaw b'modi differenti ħafna għan-
 normi sterjotipiċi mistennija, jistgħu wkoll jiġu esklużi mid-dijanjosi formali, u;
 
-— Li għandu jsir kull sforz biex jiġi żgurat li dawn il-fatturi ma jimpedixxux
+- Li għandu jsir kull sforz biex jiġi żgurat li dawn il-fatturi ma jimpedixxux
 persuna milli tirċievi dijanjosi, kmieni kemm jista' jkun, u skont il-linji gwida
 dwar l-aħjar prattiċi l-aktar kurrenti, biex jiġi żgurat li persuna jkollha aċċess
 għall-appoġġi kollha meħtieġa biex tindirizza l-isfidi li tiffaċċja, inklużi dawk
@@ -706,7 +706,7 @@ fornitur privat mal-Istat;
 e. l-iżgurar li s-servizzi ma jiġux offruti biss lit-tfal, imma jkunu disponibbli tul il-ħajja
 ta' persuna;
 
-e. in-negozjar ta' arranġamenti xierqa sabiex jiġi indirizzat il-fenomenu tal-listi ta'
+e in-negozjar ta' arranġamenti xierqa sabiex jiġi indirizzat il-fenomenu tal-listi ta'
 stennija.
 
 2.5 Naħdmu miegħek, ma' entitajiet governattivi rilevanti, u ma' fornituri ta' servizzi,
@@ -776,7 +776,7 @@ e. Inħarsu lejn il-fenomenu tal-medikazzjoni żejda, u nindirizzaw kwalunkwe
 
 tħassib kif meħtieġ;
 
-e. Niżguraw illi sforzi xierqa dwar għarfien isiru fir-rigward ta' persuni fuq il-firxa
+e Niżguraw illi sforzi xierqa dwar għarfien isiru fir-rigward ta' persuni fuq il-firxa
 
 wiesgħa ta' awtiżmu u ta' dawk
 
@@ -868,14 +868,14 @@ e. nibnu fuq proċessi, bħall-ħidma tal-Bord għall-Moderazzjoni tad-Dikjarazz
 Inklużjoni, u fuq settijiet ta' għodod bħas-Sett ta' Għodod ta' Appoġġ għall-Firxa
 Wiesgħa ta' Awtiżmu (Autism Spectrum Support Toolkit), li jeżistu bħalissa;
 
-e. niżguraw li l-Pjanijiet ta' Edukazzjoni Individwalizzati (IEPs) ikunu estiżi wkoll
+e niżguraw li l-Pjanijiet ta' Edukazzjoni Individwalizzati (IEPs) ikunu estiżi wkoll
 għall-istudenti fl-edukazzjoni terzjarja, filwaqt li jikkumplimentaw skemi eżistenti
 bħar-rapporti ta' Course Access Needs (CAN) użati mill-Università ta' Malta, u
 l-involviment tal-istudenti fil-proċess tal-abbozzar u s-segwitu tagħhom, filwaqt
 illi għandhom jittieħdu miżuri sabiex jiġi żgurati l-IEPs jiġu implimentati u osservati
 bl-aħjar mod possibbli;
 
-e. insaħħu strutturi ta' appoġġ eżistenti u niżviluppaw strutturi ġodda ta' appoġġ
+e insaħħu strutturi ta' appoġġ eżistenti u niżviluppaw strutturi ġodda ta' appoġġ
 fost l-istituzzjonijiet edukattivi, u eventwalment pjan komuni għal strutturi bħal
 dawn fil-livell primarju, sekondarju u terzjarju;
 
@@ -957,9 +957,9 @@ għall-edukazzjoni terzjarja;
 
 e. bejn l-edukazzjoni formali u l-impjieg.
 
-OZI
+D4
 
-igsjejifeje
+igajejifeje
 
 INTOM GĦIDTU:
 
@@ -973,14 +973,14 @@ e. Miniħaddem ma jafx x'inhu l-awtiżmu, jew inkella ma jridx jimpjega persuni 
 firxa wiesgħa ta' awtiżmu;
 
 .
-L
+Z
 
 ibża' li ngħid li jien fuq il-firxa wiesgħa ta' awtiżmu fuq ix-xogħol, għax jaqbdu u
 eċċuni;
 
 F
 
-9. M'hemm l-ebda mod li se jkolli xogħol ta' stoffa jekk jien fuq il-firxa wiesgħa ta'
+e. M'hemm l-ebda mod li se jkolli xogħol ta' stoffa jekk jien fuq il-firxa wiesgħa ta'
 awtiżmu, qatt ma ġejt offrut xejn għajr ċekċik minħabba li jien kif jien, imma naf li
 kapaċi li nagħmel ħafna aktar;
 
@@ -991,7 +991,7 @@ e. Miniħaddem jippreferi jħallas multa jekk ma jilħaqx il-kwota ta' 296 fir-r
 impjieg ta' persuni b'diżabilità, minflok ma joffri impjieg adegwat lill-persuni fuq
 il-firxa wiesgħa ta' awtiżmu illi jibbenefika lill-partijiet kollha;
 
-Hemm programmi ta' taħriġ ma' min iħaddem, iżda huwa impossibbli li jitkompla
+es. Hemm programmi ta' taħriġ ma' min iħaddem, iżda huwa impossibbli li jitkompla
 l-impjieg full-time ma' kumpanija wara l-perjodu ta' taħriġ;
 
 e. Miniħaddimni qed jirrifjuta li jagħmel l-aġġustamenti meħtieġa li jien intitolat
@@ -1041,7 +1041,7 @@ speċifiku lil persuni fuq il-firxa wiesgħa ta' awtiżmu;
 
 jinħolqu mezzi xierqa ta' komunikazzjoni, biex il-persuni fuq il-firxa wiesgħa ta' awtiżmu
 
-€
+-
 
 l-familji tagħhom ikunu konxji ta', u jkunu jistgħu jagħmlu użu minn dawn il-programmi;
 
@@ -1071,7 +1071,7 @@ min iħaddem, fis-settur privat u f'dak pubbliku.
 
 4.A. Naħdmu, flimkien ma' entitajiet governattivi rilevanti, biex:
 
-e. ninkoraġġixxu ditti ġodda, b'mod partikolari ditti barranin b'rekord tajjeb fil-qasam
+e ninkoraġġixxu ditti ġodda, b'mod partikolari ditti barranin b'rekord tajjeb fil-qasam
 
 tal-awtiżmu, u startups lokali, biex joperaw b'mod sensittiv għall-awtiżmu;
 
@@ -1124,21 +1124,21 @@ tal-ħtiġijiet tal-persuni fuq il-firxa wiesgħa ta' awtiżmu fis-suq tax-xogħ
 
 e niżguraw li t-trejdjunjins isiru xprun għall-promozzjoni tal-ugwaljanza u
 n-nondiskriminazzjoni għall-persuni fuq il-firxa wiesgħa ta' awtiżmu, fl-oqsma
-kollha relatati mal-impjiegi u r-relazzjonijiet industrijali.
+kollha relatati mal-impjiegi u r-relazzjonijiet industtrijali.
 
 alf-Advocacv),u
-jipv4:V/4(0101
+jipv42VV4(0101
 
 INTOM GĦIDTU:
 
 e ' M'għandniex vuċi (persuni fuq il-firxa wiesgħa ta' awtiżmu);
-e: Xingħidu dwar in-Nofsinhar ta' Malta2;
+e Xingħidu dwar in-Nofsinhar ta' Malta2;
 
 e. Xingħidu dwar Għawdex2;
 
-e: Xse jiġri lil uliedna meta aħna niġu neqsin2;
+e Xse jiġri lil uliedna meta aħna niġu neqsin2;
 
-e. Għaliex mhux se jisimgħu lilna, bħala ġenituri;
+e. Għaliex mhux se jisimgħu lilna, bħala ġenituri2;
 
 e Kif sejisimgħu lilna, jekk persuni fuq il-firxa wiesgħa ta' awtiżmu ma jittiħdux bis-
 serjetà2;
@@ -1164,7 +1164,7 @@ stabbilit ai termini tal-liġi, għall-persu
 
 ni fuq il-firxa wiesgħa ta' awtiżmu, biex:
 
-e. nagħtu lill-persuni fuq il-firxa wiesgħa ta' awtiżmu l-inkoraġġiment u l-appoġġ
+e nagħtu lill-persuni fuq il-firxa wiesgħa ta' awtiżmu l-inkoraġġiment u l-appoġġ
 meħtieġ, flimkien ma' pjattaforma, biex ikomplu bl-attiviżmu lejn l-emanċipazzjoni;
 
 e. nirrikonoxxu li l-persuni fuq il-fir
@@ -1183,7 +1183,7 @@ mmexxija minnhom;
 
 e. naħdmu ma' persuni fuq il-firxa wiesgħa ta' awtiżmu sabiex isiru tassew attivisti,
 billi jużaw leħinhom (bit-tifsira tvarja skont il-każ) bil-mod illi bih ikunu jridu
-jinstemgħu, minflok biss meta jħossuhom mismugħa.
+jinstemgħu, minflok biss meta jhossuhom mismugħa.
 
 Noħolqu grupp jew gruppi ta' ħidma si
 
@@ -1207,9 +1207,9 @@ aktar opportunitajiet għal djalogu magħhom, filwaqt li nirrikonoxxu:
 e l-ħtieġa għas-servizzi tagħhom;
 e. r-rwolu l-kontribuzzjoni ta' dawn l-entitajiet;
 
-e. l-importanza ta' djalogu miftuħ u kostruttiv magħhom.
+e l-importanza ta' djalogu miftuħ u kostruttiv magħhom.
 
-5.4. Nikkoperaw mal-pattijiet interessati rilevanti kollha, biex nindirizzaw il-ħtiġijiet u l-isfidi
+5.4 Nikkoperaw mal-partijiet interessati rilevanti kollha, biex nindirizzaw il-ħtiġijiet u l-isfidi
 ta' reġjuni speċifiċi fil-pajjiż, b'mod partikolari dawk ta' Għawdex, kif ukoll ta' reġjuni u
 żoni oħra li partikolarment ikunu ser jibbenefikaw minn eżerċizzju bħal dan, permezz
 
@@ -1228,7 +1228,7 @@ implimentat fil-livelli reġjonali u lokali.
 organizzazzjonijiet ta' studenti u żgħażagħ, inkluż il-Kunsill Nazzjonali taż-Żgħażagħ
 (KNZ), biex:
 
-e. niżguraw lli l-attiviżmu u l-attiviżmu mill-individwi konċernati ma jkunux biss
+e. niżguraw li l-attiviżmu u l-attiviżmu mill-individwi konċernati ma jkunux biss
 azzjonijiet limitati għal attivisti jew attivisti fuq il-firxa wiesgħa ta' awtiżmu,
 fil-qasam tal-awtiżmu, iżda jkunu integrati fl-attivitajiet ta' kuljum ta' dawn
 l-organizzazzjonijiet, li jkunu strutturati a bażi tal-prinċipju ta' Disinn Universali;
@@ -1261,7 +1261,7 @@ bħala parti mill-kurrikulu tal-iskejjel — bħal fil-klassijiet tal-Iżvilupp 
 
 awareness) diskussi aktar kmieni f'dan il-Pjan.
 
-Awtiżmu u l-Adulti
+Awtiżmu u l-Aduliti
 
 INTOM GĦIDTU:
 
@@ -1270,12 +1270,12 @@ e 'Għaliex kulħadd jitkellem biss dwar it-tfal, iżda mhux dwar l-adulti2;
 e. Sempliċiment għax jien adult fuq il-firxa wiesgħa ta' awtiżmu, jiena mistenni li
 'nikber u naġixxi b'mod normali';
 
-e. Xingħidu dwar in-nisa2 X'jiġri jekk ma nidentifikax bħala raġel2;
+e. Xingħidu dwar in-nisa2 X'jiġri jekk ma nidentifikax bħala raġel7;
 
 e s-sistema Maltija tħallik waħdek ladarba tagħlaq 16-il sena, sakemm ma tkunx
 verament 'sever';
 
-e n-navigazzjoni tas-sistema tal-kura tas-saħħa huwa proċess ta' qtigħ il-qalb
+a n-navigazzjoni tas-sistema tal-kura tas-saħħa huwa proċess ta' qtigħ il-qalb
 estrem ladarba t-tfal fuq il-firxa wiesgħa ta' awtiżmu jibdew jikbru;
 
 e l-pulizija, is-servizzi tal-impjiegi, in-negozji — mhumiex imħarrġa jew mgħammra
@@ -1306,7 +1306,7 @@ e. Għaliex l-istituzzjoni li ngħix fiha ma tħallinix nidħol f'relazzjoni, se
 ninsab fuq il-firxa wiesgħa ta' awtiżmu2;
 
 e. Għaliex uliedi għandhom jispiċċaw f'istituzzjoni meta jikbru, minflok ma jirċievu
-servizzi u appoġġi fil-komunità2;
+servizzi u appoġġi fil-komunità2Z;
 
 e Is-soċjetà qed iżżomm lil uliedi, li se jimxu għall-ħajja adulta fi ftit snin, 'il bogħod
 mill-opportunità ta' aċċess għall-impjiegi, servizzi oħra, u drittijiet, fuq bażi ugwali
@@ -1324,7 +1324,7 @@ AĦNA SER:
 speċifiku tal-Kunsill Konsultattiv dwar l-Awtiżmu, u permezz ta' attivitajiet u inizjattivi,
 biex:
 
-e. inkomplu niddeterminaw il-ħtiġijiet u l-isfidi li jiffaċċjaw l-adulti fuq il-firxa wiesgħa
+e inkomplu niddeterminaw il-ħtiġijiet u l-isfidi li jiffaċċjaw l-adulti fuq il-firxa wiesgħa
 ta' awtiżmu, filwaqt illi naħdmu flimkien sabiex niżguraw l-emanċipazzjoni bħala
 triq lejn l-indipendenza;
 
@@ -1344,7 +1344,7 @@ raġunijiet diversi, fir-rigward ta' adulti fuq il-firxa wiesgħa ta' awtiżmu;
 e noħolqu spazji siguri għas-soċjalizzazzjoni u l-appoġġ mill-pari (peer support),
 inkluż permezz tal-iżvilupp tal-grupp ta' ħidma f'entità għaliha;
 
-e. nilħqu lill-partijiet interessati rilevanti, biex jikkontribwixxu għal inizjattivi speċifiċi.
+e nilħqu lill-partijiet interessati rilevanti, biex jikkontribwixxu għal inizjattivi speċifiċi.
 
 Ninvolvu lill-familji — filwaqt li nenfasizzaw ukoll ir-rwol tal-aħwa — u lil persuni oħrajn
 qrib ta' adulti fuq il-firxa wiesgħa ta' awtiżmu, biex jinkisbu kontributi dwar il-ħtiġijiet u
@@ -1370,7 +1370,7 @@ e. Edukazzjoni;
 e Divertiment u Kultura, inkluż is-sensibilizzazzjoni
 volontarji;
 
-e. Sport;
+e Sport;
 
 e Ġustizzja u infurzar tal-liġi.
 
@@ -1380,7 +1380,7 @@ għall-organizzazzjonijiet
 
 6.
 
-ġI
+(1)
 
 awtiżmu u dawk li jappoġġjawhom, għad-diskussjoni dwar ir-riforma tal-liġijiet, biex
 niżguraw li:
@@ -1425,9 +1425,9 @@ partikolari fuq materji bħall-kunsens u s-sinjali non-verbali (social cues).
 6.6 Naħdmu miegħek biex niżguraw li tingħata l-importanza dovuta biex jiġi indirizzat
 l-ippjanar tat-tranżizzjonijiet:
 
-e. fl-oqsma kollha li diġà ġew diskussi f'postijiet oħra f'dan il-Pjan;
+e fl-oqsma kollha li diġà ġew diskussi f'postijiet oħra f'dan il-Pjan;
 
-e. minn servizzi tas-saħħa pedjatriċi, għal dawk fl-adolexxenza, għas-servizzi tas-
+e minn servizzi tas-saħħa pedjatriċi, għal dawk fl-adolexxenza, għas-servizzi tas-
 
 għall-ħtiġijiet ta' persuni fuq il-firxa wiesgħa ta' awtiżmu.
 
@@ -1463,7 +1463,7 @@ ari eż. edukazzjoni jew saħħa;
 
 Konsultattiv dwar l-Awtiżmu j
 
-e. Irridu li l-Kunsill Konsulta'
+e: Irridu li l-Kunsill Konsulta'
 
 persuni fuq il-firxa wiesgħa ta' awtiżmu/ familji/ fornituri
 regolari/ approfondit fix-xogħol tiegħu;
@@ -1473,7 +1473,7 @@ l-Awtiżmu;
 
 ntanza Għawdxija fuq il-Kunsi
 
-e. Irridu il-Kunsill Konsultattiv dwar l-Awtiżmu jistabbilixxi
+e. Irridu lil-Kunsill Konsultattiv dwar l-Awtiżmu jistabbilixxi
 
 jipprovdi riżorsi online;
 
@@ -1503,7 +1503,7 @@ tar laqgħat u
 
 AĦNA SER:
 
-7.1: Inkomplu naħdmu miegħek:
+7.1. Inkomplu naħdmu miegħek:
 
 e. permezz tal-proċess tal-implimentazzjoni ta' dan il-Pjan, permezz tal-Mekkaniżmu
 Nazzjonali ta' Koordinazzjoni fi ħdan id-Direttorat għall-Affarijiet dwar id-Diżabilità

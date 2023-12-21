@@ -2,7 +2,19 @@
 
 A document-level parallel corpus of simple and complex Maltese texts.
 
-Version: 0.2
+Version: 0.3
+
+## Changes
+
+The TessData in use for Tesseract was the `fast` version in the previous data set versions, which is not as accurate as the `best` version.
+In this version, the `best` version is used.
+
+Here are the specifications used:
+
+Tesseract version: 5.3.0.20221214
+TessData: [tessdata_best/mlt.traineddata](https://github.com/tesseract-ocr/tessdata_best/blob/fa8481f199a7c28dc8fd9633be7158b8d029b801/mlt.traineddata)
+
+It still worked well with Tesseract version 5, even though the [documentation](https://github.com/tesseract-ocr/tessdata_best) says that it only works with version 4.
 
 ## What's this?
 

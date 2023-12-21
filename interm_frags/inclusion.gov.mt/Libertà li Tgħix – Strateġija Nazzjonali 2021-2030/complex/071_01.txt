@@ -6,7 +6,7 @@
 
 4.4.6
 
-4.4.7
+44.7
 
 4.4.8
 
@@ -47,7 +47,7 @@ tagħhom, u oqsma differenti tas-soċjetà, bħal min iħaddem u l-edukaturi.
 
 Għandha tingħata kunsiderazzjoni xierqa lill-użu ta' stampi u simboli fuq dokumenti
 
-ewlenin, bħal fuljetti ta' informaz
+ewlenin, bħal fuljetti ta' informaz.
 
 zjoni, pamflets jew kartelluni relatati mas-saħħa,
 

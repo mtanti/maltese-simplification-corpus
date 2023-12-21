@@ -2,7 +2,7 @@
 u t-taħriġ ta' persunal xieraq, li jimplimenta programmi bbażati fuq l-aħjar prattiċi
 osservati, filwaqt li jkun imfassal għar-realtajiet tas-settur lokali tal-impjiegi.
 
-Eżiti għal 9.6:
+EŻżiti għal 9.6:
 Ħidma ta' Sensibilizzazzjoni u Detached Work maż-Żgħażagħ
 
 9.6.1 Aġenzija Żgħażagħ, flimkien ma' partijiet interessati ewlenin oħra fosthom
@@ -19,7 +19,7 @@ għall-impjegabbiltà tal-minoranzi soċjali, u jservu bħala rabta ma' entitaji
 
 LSF u kwalunkwe. entità oħra li tissodisfa skop simili, u Jobsplus.
 
-9.6.3: It-taħriġ ta' persuni kwalifikati li jaħdmu maż-żgħażagħ dwar materji bħall-għarfien
+9.6.3. It-taħriġ ta' persuni kwalifikati li jaħdmu maż-żgħażagħ dwar materji bħall-għarfien
 dwar id-diżabilità għandu jsir ukoll bħala aspett ewlieni ta' din l-Azzjoni, wara
 koordinazzjoni bejn il-partijiet interessati involuti.
 

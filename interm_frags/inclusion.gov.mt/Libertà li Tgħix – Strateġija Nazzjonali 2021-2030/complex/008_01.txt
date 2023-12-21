@@ -22,5 +22,5 @@ UNCRPD. Konvenzjoni tal-Ġnus Magħquda dwar id-Drittijiet ta' Persuni b'Diżabi
 
 UN ESCWA Il-Kummissjoni Ekonomika u Soċjali tal-Ġnus Magħquda għall-Asja tal-Punent
 
-WCAG Linji Gwida dwar l-Aċċessibilità tal-Kontenut Web
+WGCAG Linji Gwida dwar l-Aċċessibilità tal-Kontenut Web
 

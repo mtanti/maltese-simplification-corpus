@@ -80,7 +80,7 @@ tista' tkun:
 — xi ħadd li jaqra dak li jkun hemm
 miktub;
 
-— xi ħadd li jieħu ħsieb il-persuna
+— Xi ħadd li jieħu ħsieb il-persuna
 b'diżabilità.
 
 It- Tielet Taqsima
@@ -274,7 +274,7 @@ b'diżabilità. Dan ifisser dawn l-affarijiet:
 familja tagħhom għandhom dritt ikunu
 membru ta' trade union;
 
-— trade union ma tistax tgħid li persuni
+-— trade union ma tistax tgħid li persuni
 b'diżabilita jew membri tal-familja
 tagħhom ma jistgħux ikunu membri
 tagħha;
@@ -384,18 +384,18 @@ servizzi li għandhom x'jaqsmu mal-flus;
 
 — lituża skola jew post ieħor tat-tagħlim;
 
-— lituża post fejn tista' tagħmel sport jew
+- lituża post fejn tista' tagħmel sport jew
 attività oħra li biha tieħu gost;
 
-— lituża karozza tal-linja jew vettura oħra,
+- lituża karozza tal-linja jew vettura oħra,
 vapur jew ajruplan;
 
-— lituża s-servizz ta' xi ħadd (per
+- lituża s-servizz ta' xi ħadd (per
 eżempju bajjad, tabib);
 
 -— litkun membru ta' klabb jew għaqda;
 
-— litgawdi d-drittijiet tiegħek u tagħmel
+- litgawdi d-drittijiet tiegħek u tagħmel
 id-dmirijiet tiegħek;
 
 -— servizzi u oġġetti oħra li l-Ministru jgħid
@@ -589,7 +589,7 @@ b'Diżabilità
 
 Kummissjoni Nazzjonali Persuni
 b'Diżabilità (jew KNPD). Il-Bord tal-KNPD
-ikun hemm fuqu mhux anqas minn14-
+ikun hemm fuqu mhux anqas minni14-
 
 il membru. 7 minn dawn il-membri
 
@@ -684,7 +684,7 @@ Chairman jew il-Viċi Chairman jidhru
 f'isem il-KNPD. Huma jistgħu wkoll
 jagħżlu lil xi ħadd li jidher f'isimhom.
 
-244. Il-membri tal-Bord tal-KNPD idumu
+24a. Il-membri tal-Bord tal-KNPD idumu
 sentejn fuq il-Bord. Il-Prim Ministru jista'
 jerġa jagħżilhom.
 
@@ -706,7 +706,7 @@ jagħmel dan;
 ministeru jew għaqda u ma jibqax ma'
 dak il-ministeru jew dik l-għaqda.
 
-254. Biex issir laqgħa tal-Bord tal-KNPD irid
+258. Biex issir laqgħa tal-Bord tal-KNPD irid
 ikun hemm mill-inqas 5 membri li wieħed
 minnhom ikun iċ-Chairman jew il-Viċi
 Chairman.
@@ -760,7 +760,7 @@ ma jibqax jaħdem mal-KNPD jekk tiġri
 
 waħda minn dawn l-affarijiet:
 
-— jekk il-ħaddiem jispiċċa mix-xogħol
+- jekk il-ħaddiem jispiċċa mix-xogħol
 biex jieħu l-penzjoni;
 
 - jekk jitlaq mix-xogħol;
@@ -775,7 +775,7 @@ jagħżel lil xi ħaddieħor minfloku.
 27d. Meta ħaddiem tal-Gvern ikun qed
 jaħdem mal-KNPD, hu jrid jimxi mar-
 regoli tal-KNPD u jaħdem skont kif tgħidlu
-l-KNPD. Imma hu xotta jibqa' ħaddiem
+l-KNPD. Imma hu xorta jibqa' ħaddiem
 tal-Gvern.
 
 27e. Meta ħaddiem tal-Gvern ikun jaħdem
@@ -817,7 +817,7 @@ jaqbel, dawn jidħlu fil-baġit tal-Gvern.
 li ddaħħal u li tonfoq u kull sena tibgħat
 dawn il-kontijiet lill-Ministru.
 
-29p. Irid ikun hemm persuna li jgħidulu
+29b. Irid ikun hemm persuna li jgħidulu
 awditur li jgħid li l-kontijiet tal-KNPD
 huma tajbin. Imma l-Ministru tal-Finanzi
 wkoll jista' jibgħat lil xi ħadd biex jara li
@@ -827,7 +827,7 @@ l-kontijiet tal-KNPD huma tajbin.
 mill-1 ta' Jannar sal-31 ta' Diċembru ta'
 kull sena.
 
-30a. Kull sena, il-KNPD trid tikteb dwar xi tkun
+80a. Kull sena, il-KNPD trid tikteb dwar xi tkun
 għamlet matul is-sena fi ktieb li jgħidulu
 Rapport Annwali. Dan ir-Rapport Annwali
 trid tagħtih lill-Ministru sal-31 ta' Marzu
@@ -852,7 +852,7 @@ X'Għandha Tagħmel il-KNPD Jekk Xi Ħadd
 Jgħid Li Hemm Diskriminazzjoni Kontra
 Persuni b'Diżabilità.
 
-324. Jekk il-KNPD taħseb li hemm
+32a. Jekk il-KNPD taħseb li hemm
 diskriminazzjoni hi tista' taħdem biex tara
 x'ġara.
 

@@ -42,7 +42,7 @@ mogħtija lilha fl-artikolu 2 tal-Att dwar il-Konvenzjoni tal-
 Ġnus Magħquda dwar id-Drittijiet ta' Persuni
 b'Diżabilità;'.'
 
-(e). Minnufih wara t-tifsira ''Konvenzjoni', kif sostitwita,
+(e) Minnufih wara t-tifsira ''Konvenzjoni', kif sostitwita,
 għandha tizdied it-tifsira gdida li ġejja:
 
 ' 'Kumitat tal-Ġnus Magħquda'' għandu jkollha l-
@@ -52,7 +52,7 @@ Persuni b'Diżabilità;'.
 
 (f): It-tifsira ''kuntratt ta' servizz'' għandha tiġi mħassra;
 
-(g) It-tifsiriet 'lingwa' u 'mezz assistiv'' għandhom jiġu
+(g) It-tifsiriet 'lingwa' u ''mezz assistiv'' għandhom jiġu
 mħassra;
 
 (b) t-tifsiriet ''minuri' u 'nuqqas' għandhom jiġu
@@ -77,7 +77,7 @@ miżjuda, għandha tiżdied it-tifsira ġdida li ġejja:
 istess tifsira mogħtija lilha fl-artikolu 2 tal-Att dwar il-
 Konvenzjoni tal-Ġnus Magħquda dwar id-Drittijiet ta'
 Persuni b'Diżabilità;'.
-(l). It-tifsiriet 'tibdil' u 'wild'' għandhom jiġu mħassra.
+(l). It-tifsiriet 'tibdil' u ''wild'' għandhom jiġu mħassra.
 
 It-Taqsima II tal-Att prinċipali, għandha tiġi mħassra.
 
@@ -99,7 +99,7 @@ b'Diżabilità'.
 (2) L-artikolu 20A tal-Att prinċipali għandu jiġi emendat
 kif ġej:
 
-(a) fis-subartikolu (l) tiegħu, il-kliem ''għal
+(a) fis-subartikolu (1) tiegħu, il-kliem ''għal
 perijodu ta' tliet snin'' għandu jiġi mħassar;
 
 (b) is-subartikolu (2) tiegħu, għandu jiġi sostitwit
@@ -127,7 +127,7 @@ ta' organizzazzjonijiet rappreżentattivi ta' persuni
 b'diżabilità, u l-għażla tagħhom għas-sejħa
 partikolari għandha tirrefletti bl-aħjar mod is-suġġett
 illi jkun fuq l-aġenda ta' laqgħa partikolari tal-
-Bord. ';
+Bord. '';
 
 (d) is-subartikolu (4) tiegħu, għandu jiġi sostitwit
 b'dan li ġej:
@@ -178,7 +178,7 @@ ta' Ħarsien Soċjali, u tingaġġa f'azzjonijiet rilevanti
 ta' nvestigazzjoni, konformità u nfurzar f'dan ir-
 rigward;
 
-(v) sabiex tissodisfa r-rwol ta' awtorità ta'
+(v). sabiex tissodisfa r-rwol ta' awtorità ta'
 sorveljanza tas-suq ai termini tad-Direttiva (EU)
 2019/882 dwar ir-rekwiżiti ta' aċċessibiltà għall-
 prodotti u għas-servizzi, permezz tat-Taqsima dwar l-
@@ -193,7 +193,7 @@ għandhom jiġu sostitwiti bil-kliem ''mill-Kummissarju'.
 kif ġej:
 
 (a) fis-subartikolu (1) tiegħu, il-kliem ''b'dawk il-
-patti u l-kondizzjonijiet indikati mill-Ministru'' għandhom
+patti u l-kondizzjonijiet indikati mill-Ministru' għandhom
 jiġu mħassra;
 
 (b) fis-subartikolu (2) tiegħu, il-kliem ''wara li
@@ -202,7 +202,7 @@ jikkonsulta lill-Ministru'' għandhom jiġu mħassra.
 8. It-Taqsima VII tal-Att prinċipali għandha tiġi emendata kif
 ġej:
 
-(Il) Minnufih qabel l-artikolu 32 tal-Att prinċipali, it-
+(lI) Minnufih qabel l-artikolu 32 tal-Att prinċipali, it-
 titolu tat-Taqsima VII għandu jiġi sostitwit bit-titolu 'AĊĊESS
 GĦALL-ĠUSTIZZJA', u minnufih wara t-titolu, kif sostitwit,
 għandu jiżdied is-segwenti sub-titolu:
@@ -228,7 +228,7 @@ Kummissjoni taħt l-Att u l-liġi sussidjarjamagħmula
 taħtu, kif ukoll kull liġi oħra applikabbli, inkluż iżda
 mhux limitatament għar-Regolamenti dwar l-
 Istandards-— għall-Aċċessibilità għal: Kulħadd
-f' Ambjent Mibni. Salv kif altrimenti provdut f'dan l-
+f'Ambjent Mibni. Salv kif altrimenti provdut f'dan l-
 Att, il-Kummissjoni għandu jkollha ġurisdizzjoni
 esklussiva fir-rigward ta' materji illi jinvolvu
 kwalunkwe dritt sostantiv. tal-Konvenzjoni, jew
@@ -260,7 +260,7 @@ tkun tixtieq tagħmel ilment bis-saħħa tas-subartikolu (2)'
 għandhom jiġu sostitwiti bil-kliem ''persuna tkun bi
 ħsiebha tippreżenta ilment fit-termini tas-subartikolu (3)';
 
-(f): minnufih wara s-subartikolu (4) tiegħu,
+(f) minnufih wara s-subartikolu (4) tiegħu,
 għandhom jiżdiedu s-subartikoli ġodda li ġejjin:
 
 '(5) Fl-eżerċizzju tas-setgħat imsemmija fis-
@@ -609,7 +609,7 @@ għal kumpens taħt xi kap ieħor, ta' mhux iżjed
 minn ħamest elef euro (€5,000), hekk kif il-
 qorti tista' tiddikjara.
 
-(7) L-artikolu 34A tal-Att prinċipali għandu jiġi sostitwit
+(7). L-artikolu 34A tal-Att prinċipali għandu jiġi sostitwit
 
 b'dan li ġej:
 

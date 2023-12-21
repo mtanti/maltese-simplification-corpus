@@ -10,7 +10,7 @@ b'Diżabilità'.
 (2) L-artikolu 20A tal-Att prinċipali għandu jiġi emendat
 kif ġej:
 
-(a) fis-subartikolu (l) tiegħu, il-kliem ''għal
+(a) fis-subartikolu (1) tiegħu, il-kliem ''għal
 perijodu ta' tliet snin'' għandu jiġi mħassar;
 
 (b) is-subartikolu (2) tiegħu, għandu jiġi sostitwit
@@ -38,7 +38,7 @@ ta' organizzazzjonijiet rappreżentattivi ta' persuni
 b'diżabilità, u l-għażla tagħhom għas-sejħa
 partikolari għandha tirrefletti bl-aħjar mod is-suġġett
 illi jkun fuq l-aġenda ta' laqgħa partikolari tal-
-Bord. ';
+Bord. '';
 
 (d) is-subartikolu (4) tiegħu, għandu jiġi sostitwit
 b'dan li ġej:

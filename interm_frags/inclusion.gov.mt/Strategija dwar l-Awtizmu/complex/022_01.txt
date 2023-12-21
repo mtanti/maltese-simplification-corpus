@@ -8,10 +8,10 @@ mhumiex qed jiġu indirizzati b'mod sensittiv għall-awtiżmu;
 9. M'hemm l-ebda medikazzjoni xierqa li nista' nsib għall-awtiżmu/waħda mill-akbar
 problemi tagħna hija l-medikazzjoni żejda;
 
-s. M'hemmx biżżejjed informazzjoni jew gwida dwar interventi alternattivi għall-
+.. M'hemmx biżżejjed informazzjoni jew gwida dwar interventi alternattivi għall-
 awtiżmu;
 
-9. Huwa importanti li strutturi u sistemi jkunu fis-seħħ biex jippermettu lill-persuni fuq
+e. Huwa importanti li strutturi u sistemi jkunu fis-seħħ biex jippermettu lill-persuni fuq
 il-firxa wiesgħa ta' awtiżmu jirċievu dijanjosi preċiża u l-appoġġ li jeħtieġu, u b'hekk
 jiġi ffaċilitat il-funzjonament ottimali tagħhom, u l-kapaċità tagħhom li jipparteċipaw
 f'attivitajiet ta' kuljum, f'soċjetà li taċċettahom u tifhimhom.

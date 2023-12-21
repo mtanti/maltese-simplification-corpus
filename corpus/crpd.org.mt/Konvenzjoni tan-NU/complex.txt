@@ -4,7 +4,7 @@ Preambolu
 
 L-Istati Msiehba ghal din il-Konvenzjoni
 
-(a) ifakkru l-principji tal-Karta tal-Gnus Maghquda li taghraf id-dinjita' u l-valur
+(a) Ifakkru l-principji tal-Karta tal-Gnus Maghquda li taghraf id-dinjita' u l-valur
 intrinsiku u d-drittijiet ugwali u inaljenabbli ta' kull membru tal-familja umana
 bhala s-sisien tal-liberta', il-gustizzja u l-paci fid-dinja,
 
@@ -19,7 +19,7 @@ bzonn li kull persuna b'dizabilita' tkun iggarantita t-tgawdija shiha taghhom
 minghajr diskriminazzjoni,
 
 (d) ifakkru l-Ftehim Internazzjonai dwar id-Drittijiet Ekonomici, Socjali u Kulturali,
-il-Ftehim Internazzjonali dwar id-Drittijiet —ivili u Politici, il-Konvenzjoni dwar l-
+il-Ftehim Internazzjonali dwar id-Drittijiet -ivili u Politici, il-Konvenzjoni dwar l-
 Eliminazzjoni ta' Kull Forma ta' Diskriminazzjoni Razzjali, il-Konvenzjoni dwar l-
 Eliminazzjoni ta' Kull Forma ta' Diskriminazzjoni kontra n-Nisa, il-Konvenzjoni
 kontra t-Tortura, Trattament jew Kastig Krudili, Inuman u Degradanti, il-
@@ -42,7 +42,7 @@ ghal persuni b'dizabilita',
 (g) Jenfassizzaw l-importanza li l-oqsma tad-dizabilita' jkunu mainstreamed bhala
 parti integrali mill-istrategiji relevanti ghal zvilupp sostenibbli,
 
-(h) Jagħrfu wkoll li diskriminazzjoni kontra persuna minhabba d-dizabilita' hi
+(h) Jaghrfu wkoll li diskriminazzjoni kontra persuna minhabba d-dizabilita' hi
 vjolazzjoni tad-dinjita' u l-valur intrinsiku tal-persuna umana,
 
 (i) Jaghrfu aktar id-diversita' tal-persuni b'dizabilita'
@@ -55,7 +55,7 @@ ghadhom jiffaccjaw ostakli biex huma jippartecipaw bhala membri ugwali fis-
 socjeta' u vjolazzjonijiet tad-drittijiet umani taghhom f'kull parti tad-dinja,
 
 (l) Jaghrfu l-importanza tal-koperazzjoni internazzjonali biex jitjiebu l-
-kundizzjonijet tal-hajja ta' persuni b'dizabilita' f'kull pajjiz, partikularment dawk fil-
+kundizzjonijet tal-hajja ta' persuni b'dizabilita f'kull pajjiz, partikularment dawk fil-
 pajjizi li qed jizviluppaw,
 
 (m) Jaghrtu l-valur ezistenti u potenzjali tal-kontribuzzjonijiet maghmula minn
@@ -775,7 +775,7 @@ persuni nfushom inkluz f'postijiet rurali;
 (d) Jesigu li professjonisti li jahdmu fil-qasam tas-sahha jipprovdu kura ta' l-istess
 kwalita' lill-persuni b'dizabilita' bhal ohrajn, inkluz fuq bazi ta' konsens hieles u
 infurmat minn, inter alia, gharfien akbar tad-drittijiet umani, id-dinjita', l-
-awtonomija u l-bzonnijiet ta' persuni b'dizabilita' permezz ta' tahrig u l-
+awtonomija u l-bzonnijiet ta' persuni b'dizabilita permezz ta' tahrig u l-
 promulgazzjoni ta' standards etici dwar il-kura tas-sahha pubblika u privata.
 
 (e) Jipprojbixxu diskriminazzjoni kontra persuni b'dizabilita' fil-provediment ta'

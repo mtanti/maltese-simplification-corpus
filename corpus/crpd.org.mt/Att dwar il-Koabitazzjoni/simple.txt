@@ -8,7 +8,7 @@ Governanza.
 Għal iktar informazzjoni tista' tara l-fuljett sħiħ maħruġ mill-Ministeru tal-
 Ġustizzja, l-Ugwaljanza u l-Governanza, f'dan il-link hawn taħt:
 
-https://justice.gov.mt/en/Documents/Leaflet020Coabitazzjoni.pdf
+https://justice.gov.mt/en/Documents/Leaflet,20Coabitazzjoni.pdf
 
 Koabitazzjoni tfisser meta koppja jkunu jgħixu flimkien, pero ma jkunux
 miżżewġin jew marbutin flimkien b'dik li jgħidulha 'unjoni ċivili'.
@@ -48,7 +48,7 @@ barra minn Malta;
 ePersuni li huma taħt l-età (minorenni);
 
 ePersuni li jiġu minn xulxin (axxendent jew dixxendent f'linja diretta);
-e Aħwa;
+eAħwa;
 
 eQraba;
 eBejn min jadotta u l-persuna adottata;

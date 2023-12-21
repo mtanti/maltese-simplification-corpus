@@ -17,7 +17,7 @@ Preliminari
 1. It-titolu fil-qosor ta' dan l-Att huwa l-Att dwar il-
 Koabitazzjoni.
 
-2: F'dan l-Att, sakemm ir-rabta tal-kliem ma teħtieġx xort'oħra:
+2. F'dan l-Att, sakemm ir-rabta tal-kliem ma teħtieġx xort'oħra:
 
 'dar tal-koabitazzjoni' tfisser dik id-dar li fiha l-
 koabitanti jkunu joqogħdu flimkien, kemm jekk tkun tappartjeni
@@ -102,7 +102,7 @@ liġi fit-termini tas-subartikolu (3);
 (ċ) aħwa, kemm jekk mill-istess ġenituri, kif ukoll
 jekk minn wieħed mill-ġenituri biss;
 
-(d) persuna li tadotta u l-persuna adottata;
+(d). persuna li tadotta u l-persuna adottata;
 
 (e) persuni li waħda minnhom ma tkunx tista' tagħti l-
 kunsens tagħha għall-att pubbliku minħabba li tkun ċivilment
@@ -122,7 +122,7 @@ Att dwar il-Koabitazzjoni, ma' xulxin jew ma' terzi; jew
 
 (i) persuni, jew min minnhom, illi għandhom
 relazzjoni ma' terzi li hija diġà regolata b'liġi barranija li
-tipprovdi għad-drittijiet. u l-obbligi ta' bejniethom,
+tipprovdi għad-drittijiet u l-obbligi ta' bejniethom,
 irrispettivament mit-titolu tagħha,
 
 ikun null u bla effett.
@@ -190,7 +190,7 @@ Reġistru Pubbliku.
 għandhom japplikaw għal koabitazzjonijiet insinwati permezz ta' att
 pubbliku skont dan l-Att.
 
-7. (1). Fl-att pubbliku ta' koabitazzjoni, il-partijiet jistgħu
+7. (l). Fl-att pubbliku ta' koabitazzjoni, il-partijiet jistgħu
 jagħżlu li jiddikjaraw il-liġi applikabbli għall-koabitazzjoni tagħhom
 mis-segwenti:
 
@@ -257,7 +257,7 @@ ispejjeż li tkun għamlet għall-akkwist:
 Iżda l-imsemmija dar tal-koabitazzjoni ma
 għandhiex tidħol fil-komunjoni tal-assi jekk tkun ġiet trasferita bi
 
-kwalunkwe titolu lil wieħed mill-koabitanti qabel l-att tal-
+kwalunkwe. titolu lil wieħed mill-koabitanti qabel l-att tal-
 koabitazzjoni, minkejja li setgħet ġiet għand dik il-parti
 unikament wara l-koabitazzjoni:
 
@@ -279,7 +279,7 @@ miżmuma fid-dar tal-koabitazzjoni u għandha teskludi flejjes,
 titoli, vetturi, dgħajjes, u kwalunkwe mobbli li nxtraw bl-iskop li
 jintużaw esklussivament minn wieħed mill-koabitanti.
 
-(2). Meta l-komunjoni tal-assi skont id-
+(2). — Meta l-komunjoni tal-assi skont id-
 dispożizzjonijiet ta' dan l-artikolu tapplika bejn il-koabitanti, l-
 assi kollha li ma jaqgħux taħt is-subartikolu (1) ta' dan l-artikolu,
 għandhom jitqiesu bħala assi appartenenti lill-partijiet
@@ -309,7 +309,7 @@ effetti tal-liġi fir-rigward ta' kull kirja tad-dar tal-koabitanti li
 koabitanti, wara li jkun sar l-att pubbliku ta' koabitazzjoni skont
 dan l-Att;
 
-(ċ)— għandu jitqies li għandu l-istess drittijiet mogħtija
+(ċ) għandu jitqies li għandu l-istess drittijiet mogħtija
 lil persuna miżżewġa jew f'unjoni ċivili fejn jidħlu drittijiet
 relatati ma' xogħol u l-familja, inkluż drittijiet varji relatati mal-
 leave, kemm dawk id-drittijiet misjuba f'liġijiet primarji, dawk
@@ -317,7 +317,7 @@ sussidjarji, kif ukoll f'kodiċijiet u prattiċi tax-xogħol, eskluż pero
 d-dritt tal-/eave sabiex wieħed jakkumpanja s-sieħeb tiegħu fuq
 korsijiet barra minn Malta sponsorjati mill-gvern;
 
-(d). — għandu d-dritt illi jieħu kwalunkwe deċiżjoni dwar
+(d). għandu d-dritt illi jieħu kwalunkwe deċiżjoni dwar
 il-kura medika tal-koabitant l-ieħor;
 
 (e). mingħajr preġudizzju għad-dispożizzjonijiet tal-
@@ -410,7 +410,7 @@ tal-koabitazzjoni.
 jieħdu ħsieb, imantnu, jgħallmu u jedukaw lill-ulied dipendenti skont il-
 ħila, inklinazzjonijiet naturali u aspirazzjonijiet tal-ulied.
 
-(2) — L-obbligu li l-ġenituri għandhom li jipprovdu l-manteniment
+(2) L-obbligu li l-ġenituri għandhom li jipprovdu l-manteniment
 skont is-subartikolu (1), jinkludi wkoll l-obbligu illi, skont il-mezzi
 tagħhom, u fejn ma jkunx raġonevolment possibbli li l-ulied dipendenti,
 jew min minnhom, imantnu lilhom infushom kif xieraq, ikomplu
@@ -434,9 +434,9 @@ minnha, tkun tappartjeni fi proprjetà jew b'xi titolu ieħor, lil parti waħda
 mill-koabitanti, dik il-parti tista' biss tittrasferixxi b'titolu inter vivos is-
 sehem tagħha fuq dik id-dar tal-koabitazzjoni:
 
-(a) — bil-kunsens tal-parti l-oħra; jew
+(a) bil-kunsens tal-parti l-oħra; jew
 
-(b) — meta dak il-kunsens ma jingħatax mingħajr raġuni
+(b) meta dak il-kunsens ma jingħatax mingħajr raġuni
 xierqa, bl-awtorità tal-Qorti kompetenti; jew
 
 (ċ) b'irkant f'bejgħ ġudizzjarju fuq talba ta' xi
@@ -492,7 +492,7 @@ skont is-Sub-Titolu III tal-Ewwel Titolu tal-Ewwel Ktieb tal-Kodiċi
 53, 58, 62, 63, 64 u 65 tal-Kodiċi Ċivili ma għandhomx japplikaw fir-
 rigward ta' azzjoni għax-xoljiment tal-koabitazzjoni
 
-(6) — Mingħajr preġudizzju għad-dispożizzjonijiet tal-artikolu 14,
+(6) Mingħajr preġudizzju għad-dispożizzjonijiet tal-artikolu 14,
 id-dispożizzjonijiet tal-artikoli 39, 46, 46A, 47, 54, 55, 55A, 56, 56A, 57
 u 61 tal-Kodiċi Ċivili għandhom japplikaw mutatis mutandis.
 
@@ -511,7 +511,7 @@ partijiet dwar il-konsegwenzi tax-xoljiment u tfittex li tirrikonċiljahom,
 u tista' tħassar, tvarja jew żżid dawk il-kundizzjonijiet li hija tikkunsidra
 xierqa fiċ-ċirkostanzi.
 
-(3). Dan id-digriet għandu l-istess effetti ta' sentenza mogħtija
+(3) Dan id-digriet għandu l-istess effetti ta' sentenza mogħtija
 mill-Qorti kompetenti, u għandu jordna lir-Reġistratur tal-Qrati sabiex,
 fiż-żmien stipulat mill-Qorti għal dan l-iskop, javża lid-Direttur tar-
 Reġistru Pubbliku bix-xoljiment tal-koabitazzjoni biex l-istess digriet
@@ -537,7 +537,7 @@ pubbliku, skont il-każ, jiġu insinwati fir-Reġistru Pubbliku.
 
 TAQSIMA VI
 Dispożizzjonijiet Ġenerali
-25. (lI). Meta żewġ koabitanti jikkuntrattaw żwieġ jew unjoni
+25. (lI): Meta żewġ koabitanti jikkuntrattaw żwieġ jew unjoni
 ċivili bejniethom, l-att pubbliku ta' koabitazzjoni jiġi terminat ipso facto
 minn dak il-jum li fih jiġi kuntrattat l-istess żwieġ jew unjoni ċivili.
 
@@ -584,7 +584,7 @@ jekk ir-rikorrent ikun telaq mid-dar komuni u sew jekk le, jitlob lill-
 Qorti biex tiddeċiedi li għandu joqgħod fid-dar komuni sakemm tkun
 miexja l-kawża.
 
-(3) — Id-drittijiet imsemmija fil-paragrafi (1)(a) u (b) għandhom
+(3) Id-drittijiet imsemmija fil-paragrafi (1)(a) u (b) għandhom
 jispiċċaw jekk ir-rikorrent jikkuntratta żwieġ, unjoni ċivili, jew jidħol
 f'koabitazzjoni ma' persuna oħra.
 

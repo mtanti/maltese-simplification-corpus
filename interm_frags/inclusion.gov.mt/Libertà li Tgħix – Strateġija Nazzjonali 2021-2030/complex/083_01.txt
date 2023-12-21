@@ -1,6 +1,6 @@
-5:83:22
+S32
 
-5.8.8
+5.3.8
 
 jikkonsulta lis-CRPD, dwar kwistjonijiet li jikkonċernaw il-promozzjoni ta' kultura
 aċċessibbli, li għandhom l-għeruq tagħhom fil-prinċipju tad-disinn universali.
@@ -8,13 +8,13 @@ aċċessibbli, li għandhom l-għeruq tagħhom fil-prinċipju tad-disinn univers
 d-diskussjonijiet għandhom iwasslu għall-identifikazzjoni u l-implimentazzjoni
 eventwali ta' inizjattivi mill-partijiet interessati msemmija hawn fuq, filwaqt li
 jinkoraġġixxu l-parteċipazzjoni attiva ta' persuni b'diżabilità fis-soċjetà inġenerali,
-pizza ta' avvenimenti kulturali, jagħtu spinta lill-opportunitajiet għal tagħlim
+jkmienz ta' avvenimenti kulturali, jagħtu spinta lill-opportunitajiet għal tagħlim
 ormali billi jiżguraw ukoll aċċess aktar sħiħ għat-tagħlim, minflok sempliċimen
 għall-apprezzament tal-kultura, bħala riżultat tal-iżgurar tal-aċċessibilità, filwaqt
 jaraw li n-nuqqasijiet attwali fir-rigward tal-aċċessibilità ta' dawn l-avvenimenti
 jiġu indirizzati permezz ta' inizjattivi xierqa.
 
-ej
+5
 
 Skemi ta' għotjiet għall-promoturi, flimkien ma' linji gwida rilevanti u kriterji ta'
 eliġibilità, għandhom jiġu kkunsidrati wkoll bħala eżitu li għandu jiġi segwit, u li

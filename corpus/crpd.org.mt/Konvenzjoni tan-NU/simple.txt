@@ -153,14 +153,14 @@ jisimgħu lill-persuni b'diżabilità
 meta jkunu qed jagħmlu liġijiet
 jew policies ġodda.
 
-b ilkoll Indaqs
+b llkoll Indaqs
 
 Il-pajjiżi jaqblu li kulħadd huwa
 indaqs skond il-liġi u li ħadd
 m'għandu jiddiskrimina kontra
 l-persuni b'diżabilità.
 
-le In-nisa b'diżabilità huma daqs ħaddieħor
+G In-nisa b'diżabilità huma daqs ħaddieħor
 
 Il-pajjiżi jaqblu li nisa u bniet
 li għandhom diżabilità huma
@@ -206,10 +206,10 @@ e Jagħmlu attivitajiet biex jibdlu
 l-mod kif in-nies jaħsbu dwar
 il-persuni b'diżabilità
 
-e Juru lil kulħadd l-affarijiet li jistgħu
+e Jurulil kulħadd l-affarijiet li jistgħu
 jagħmlu l-persuni b'diżabilità.
 
-e. Jgħallmu lit-tfal dwar
+e Jgħallmu lit-tfal dwar
 
 id-drittijiet indaqs
 lill-persuni b'diżabilità.
@@ -222,7 +222,7 @@ Jgħinu biex isiru attivitajiet
 biex in-nies isiru jafu aktar
 dwar il-persuni b'diżabilità.
 
-je Aċċessibilità
+Ġ Aċċessibilità
 
 Il-pajjiżi jridu jkunu ċerti li l-affarijiet
 ikunu aktar aċċessibbli
@@ -423,7 +423,7 @@ infushom. Għalhekk dawn
 għandhom ikunu rispettati
 bħal ta' kulħadd.
 
-1 19. Meta tmur tgħix f'post ieħor
+1 iġ Meta tmur tgħix f'post ieħor
 
 Il-persuni b'diżabilità għandhom dritt li:
 
@@ -787,7 +787,7 @@ ta' ħajja tajba tfisser li jkollhom ikel,
 
 Il-pajjiżi jridu jkunu ċerti li:
 
-: Il-persuni b'diżabilità
+e Il-persuni b'diżabilità
 għandhom is-servizzi u apparat
 li għandhom bżonn u li dawn
 ma jqumux ħafna flus.
@@ -798,7 +798,7 @@ ta' ħajja tajba. Dan igħodd b'mod
 speċjali għan-nisa, tfal, u anzjani
 b'diżabilità.
 
-: Il-persuni b'diżabilità li huma fqar
+e Il-persuni b'diżabilità li huma fqar
 ikollhom għajnuna mingħand
 il-gvern għall-ispejjeż li jagħmlu
 minħabba d-diżabilità.
@@ -880,7 +880,7 @@ għandhom ikollhom sapport
 biex jieħdu sehem f'attivitajiet
 ta' sport li huma għal kulħadd.
 
-s Persuni b'diżabilità huma
+e Persuni b'diżabilità huma
 kapaċi li jieħdu sehem
 fi sports ta' diżabilità
 u attivitajiet oħra
@@ -1040,7 +1040,7 @@ tad-drittijiet tal-bniedem biex jiktbu
 rapporti dwar ix-xogħol tagħhom li
 għandu x'jaqsam ma' dan il-Ftehim.
 
-3 o Ir-rapport tal-Kumitat Speċjali
+3 Ġ Ir-rapport tal-Kumitat Speċjali
 
 Il-Kumitat se jikteb rapport kull
 sentejn u jagħtih lill-Assemblea
@@ -1106,7 +1106,7 @@ Dan il-Ftehim jibda jaħdem
 30 ġurnata wara li jkun hemm
 20 pajjiż li daħlu fih.
 
-4 le Il-pajjizi kif iżommu mal-Ftehim
+4 G Il-pajjizi kif iżommu mal-Ftehim
 
 Il-pajjiżi jistgħu jgħidu li mhux
 se jiffirmaw parti mill-Ftehim,
@@ -1215,7 +1215,7 @@ dan il-Ftehim leħor.
 ismu jew isem il-grupp tiegħu.
 
 Il-Kumitat ma jistax jisma' ilmenti
-li jnorru kontra dak li hemm miktub
+li jmorru kontra dak li hemm miktub
 fil-Ftehim bejn il-Pajjiżi.
 
 Il-Kumitat ma jistax jisma' ilmenti
@@ -1346,7 +1346,7 @@ pajjiż tiegħu.
 Nazzjonijiet Uniti jżomm l-
 informazzjoni u r-rapporti li
 għandhom x'jaqsmu ma' dan
-il-Ftehim Ieħor.
+il-Ftehim leħor.
 
 10. Il-pajjiżi ilhom jistgħu
 jiffirmaw dan il-Ftehim
@@ -1413,7 +1413,7 @@ Nirringrazzjaw
 Dan il-ktieb jgħinek tifhem dak li hemm miktub
 fil-ftehim. Dan il-ktieb ma jgħoddx minflok il-ftehim.
 Biex tkun taf eżatt x'hemm miktub fil-ftehim,
-trid tara d-dokument sħiħ.
+trid tara d-dokument'sħiħ.
 
 Tista' taqrah bil-Malti mill-websajt tal-KNPD:
 www.knpd.org

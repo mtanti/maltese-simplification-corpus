@@ -69,7 +69,7 @@ xi ħaġa jew iktar minn ħaġa waħda fil-ħajja tagħha.
 
 (c) Jagħmel kull ħaġa oħra għal u f'isem il-persuna li hu
 jkun qiegħed jieħu ħsieb, kif ikun mitlub li jagħmel
-mill-Bord tal-Kustodja, li huma grupp ta' nies lii
+mill-Bord tal-Kustodja, li huma grupp ta' nies li
 jiddeċiedu min se jkun li jieħu ħsieb il-persuna
 b'diżabilità, u li jkun ġie magħmul mill-Qorti.
 
@@ -215,14 +215,11 @@ liġi.
 
 (5) Jista' jkun hemm bżonn li jilħqu membri oħrajn
 f'dan il-Bord:
-
 a. meta jkun għadda ż-żmien li suppost
 joqogħdu fuq il-Bord.
-
-b. jekk ikun hemm affarijiet li ġraw li
+b.jekk ikun hemm affarijiet li ġraw li
 suppost ma jħallux lill-persuna tkun
 membru fil-Bord.
-
 c. jekk xi membru jiddeċiedi li jieqaf.
 
 (6) Meta jintgħażlu l-persuni għall-Bord u anke meta l-
@@ -407,7 +404,7 @@ kustodju, il-Bord irid ikun ċert fuq dan li ġej:
 (ġ)
 (9)
 
-din il-persuna tkun tista' tieħu ħsieb. lil
+din il-persuna tkun tista' tieħu ħsieb lil
 ħaddieħor, b'dak kollu li suppost tagħmel,
 skont kif hemm miktub f'din il-Liġi.
 
@@ -610,7 +607,7 @@ jkunux jistgħu jagħmlu l-affarijiet waħedhom
 519M. (1) Kull persuna msemmija f'din il-liġi tista' tgħid
 lill-Qorti biex tbiddel id-deċiżjoni li tkun ittieħdet dwar xi
 
-persuna b'diżabilità li: tiddependi għalkollox: minn
+persuna b'diżabilità li: tiddependi għalkollox minn
 ħaddieħor. Barra dan, il-Qorti tista' tgħid lill-Bord tal-
 Kustodja biex jgħinha dwar dan.
 

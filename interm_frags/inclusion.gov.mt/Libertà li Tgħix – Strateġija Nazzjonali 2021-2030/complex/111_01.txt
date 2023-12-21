@@ -1,4 +1,4 @@
-8.2.3
+8.2.8
 
 Is-CRPD għandha tirrevedi regolarment kwalunkwe taħriġ bħal dan imfassal
 b'dan il-mod, u tikkomunika l-feedback rilevanti lid-DDI, sabiex tali feedback
@@ -8,7 +8,7 @@ inizjattivi ta' taħriġ imsemmija meqjusa skont dan.
 Eżiti għal 8.3:
 Iktar sensibilizzazzjoni dwar id-diżabilità fil-Bordijiet Mediċi
 
-8.3.1
+8.3.
 
 8.3.2
 
